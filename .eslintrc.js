@@ -10,7 +10,7 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
-    'no-console': 1,
+    'no-console': 0,
     '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
     '@typescript-eslint/no-explicit-any': 0,
   },
