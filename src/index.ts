@@ -25,6 +25,7 @@ createConnection()
     app.use(logger)
     app.use(bodyParser.json())
     app.use(setupContext(repository))
+    app.use('/static', express.static(config.app.publicPath))
 
     app.get('/', (req, res) => {
       return res.json({
