@@ -1,4 +1,5 @@
 require('dotenv').config()
+require('module-alias/register')
 
 const env = process.env
 
@@ -12,4 +13,5 @@ module.exports = {
   logging: ['error'],
   synchronize: true,
   entities: ['dist/model/*.js'],
+  seeds: ['src/db/seed/*.ts'],
 }

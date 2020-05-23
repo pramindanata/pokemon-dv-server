@@ -18,10 +18,11 @@ const port = config.app.port
 createConnection()
   .then((con) => {
     const repository = init(con)
-
-    app.use(
-      morgan(':method :url :status :res[content-length] - :response-time ms'),
+    const logger = morgan(
+      ':method :url :status :res[content-length] - :response-time ms',
     )
+
+    app.use(logger)
     app.use(bodyParser.json())
     app.use(setupContext(repository))
 

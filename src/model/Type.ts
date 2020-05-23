@@ -1,5 +1,5 @@
-import { Entity, PrimaryGeneratedColumn, Column, ManyToMany } from 'typeorm'
-import { Pokemon } from '~/model/Pokemon'
+import { Entity, PrimaryGeneratedColumn, Column, OneToMany } from 'typeorm'
+import { PokemonToType } from '~/model/PokemonToType'
 
 @Entity()
 export class Type {
@@ -9,6 +9,6 @@ export class Type {
   @Column()
   name!: string
 
-  @ManyToMany(() => Pokemon, (pokemon) => pokemon.types)
-  pokemons!: Pokemon[]
+  @OneToMany(() => PokemonToType, (pokemonToType) => pokemonToType.type)
+  pokemonToTypes!: PokemonToType[]
 }

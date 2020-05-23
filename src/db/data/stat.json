@@ -1,0 +1,7931 @@
+[{
+  "id": 1,
+  "hp": 45,
+  "attack": 49,
+  "defend": 49,
+  "spAttack": 65,
+  "spDefend": 65,
+  "speed": 45,
+  "power": 318,
+  "pokemonId": 1
+}, {
+  "id": 2,
+  "hp": 60,
+  "attack": 62,
+  "defend": 63,
+  "spAttack": 80,
+  "spDefend": 80,
+  "speed": 60,
+  "power": 405,
+  "pokemonId": 2
+}, {
+  "id": 3,
+  "hp": 80,
+  "attack": 82,
+  "defend": 83,
+  "spAttack": 100,
+  "spDefend": 100,
+  "speed": 80,
+  "power": 525,
+  "pokemonId": 3
+}, {
+  "id": 4,
+  "hp": 80,
+  "attack": 100,
+  "defend": 123,
+  "spAttack": 122,
+  "spDefend": 120,
+  "speed": 80,
+  "power": 625,
+  "pokemonId": 4
+}, {
+  "id": 5,
+  "hp": 39,
+  "attack": 52,
+  "defend": 43,
+  "spAttack": 60,
+  "spDefend": 50,
+  "speed": 65,
+  "power": 309,
+  "pokemonId": 5
+}, {
+  "id": 6,
+  "hp": 58,
+  "attack": 64,
+  "defend": 58,
+  "spAttack": 80,
+  "spDefend": 65,
+  "speed": 80,
+  "power": 405,
+  "pokemonId": 6
+}, {
+  "id": 7,
+  "hp": 78,
+  "attack": 84,
+  "defend": 78,
+  "spAttack": 109,
+  "spDefend": 85,
+  "speed": 100,
+  "power": 534,
+  "pokemonId": 7
+}, {
+  "id": 8,
+  "hp": 78,
+  "attack": 130,
+  "defend": 111,
+  "spAttack": 130,
+  "spDefend": 85,
+  "speed": 100,
+  "power": 634,
+  "pokemonId": 8
+}, {
+  "id": 9,
+  "hp": 78,
+  "attack": 104,
+  "defend": 78,
+  "spAttack": 159,
+  "spDefend": 115,
+  "speed": 100,
+  "power": 634,
+  "pokemonId": 9
+}, {
+  "id": 10,
+  "hp": 44,
+  "attack": 48,
+  "defend": 65,
+  "spAttack": 50,
+  "spDefend": 64,
+  "speed": 43,
+  "power": 314,
+  "pokemonId": 10
+}, {
+  "id": 11,
+  "hp": 59,
+  "attack": 63,
+  "defend": 80,
+  "spAttack": 65,
+  "spDefend": 80,
+  "speed": 58,
+  "power": 405,
+  "pokemonId": 11
+}, {
+  "id": 12,
+  "hp": 79,
+  "attack": 83,
+  "defend": 100,
+  "spAttack": 85,
+  "spDefend": 105,
+  "speed": 78,
+  "power": 530,
+  "pokemonId": 12
+}, {
+  "id": 13,
+  "hp": 79,
+  "attack": 103,
+  "defend": 120,
+  "spAttack": 135,
+  "spDefend": 115,
+  "speed": 78,
+  "power": 630,
+  "pokemonId": 13
+}, {
+  "id": 14,
+  "hp": 45,
+  "attack": 30,
+  "defend": 35,
+  "spAttack": 20,
+  "spDefend": 20,
+  "speed": 45,
+  "power": 195,
+  "pokemonId": 14
+}, {
+  "id": 15,
+  "hp": 50,
+  "attack": 20,
+  "defend": 55,
+  "spAttack": 25,
+  "spDefend": 25,
+  "speed": 30,
+  "power": 205,
+  "pokemonId": 15
+}, {
+  "id": 16,
+  "hp": 60,
+  "attack": 45,
+  "defend": 50,
+  "spAttack": 90,
+  "spDefend": 80,
+  "speed": 70,
+  "power": 395,
+  "pokemonId": 16
+}, {
+  "id": 17,
+  "hp": 40,
+  "attack": 35,
+  "defend": 30,
+  "spAttack": 20,
+  "spDefend": 20,
+  "speed": 50,
+  "power": 195,
+  "pokemonId": 17
+}, {
+  "id": 18,
+  "hp": 45,
+  "attack": 25,
+  "defend": 50,
+  "spAttack": 25,
+  "spDefend": 25,
+  "speed": 35,
+  "power": 205,
+  "pokemonId": 18
+}, {
+  "id": 19,
+  "hp": 65,
+  "attack": 90,
+  "defend": 40,
+  "spAttack": 45,
+  "spDefend": 80,
+  "speed": 75,
+  "power": 395,
+  "pokemonId": 19
+}, {
+  "id": 20,
+  "hp": 65,
+  "attack": 150,
+  "defend": 40,
+  "spAttack": 15,
+  "spDefend": 80,
+  "speed": 145,
+  "power": 495,
+  "pokemonId": 20
+}, {
+  "id": 21,
+  "hp": 40,
+  "attack": 45,
+  "defend": 40,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 56,
+  "power": 251,
+  "pokemonId": 21
+}, {
+  "id": 22,
+  "hp": 63,
+  "attack": 60,
+  "defend": 55,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 71,
+  "power": 349,
+  "pokemonId": 22
+}, {
+  "id": 23,
+  "hp": 83,
+  "attack": 80,
+  "defend": 75,
+  "spAttack": 70,
+  "spDefend": 70,
+  "speed": 101,
+  "power": 479,
+  "pokemonId": 23
+}, {
+  "id": 24,
+  "hp": 83,
+  "attack": 80,
+  "defend": 80,
+  "spAttack": 135,
+  "spDefend": 80,
+  "speed": 121,
+  "power": 579,
+  "pokemonId": 24
+}, {
+  "id": 25,
+  "hp": 30,
+  "attack": 56,
+  "defend": 35,
+  "spAttack": 25,
+  "spDefend": 35,
+  "speed": 72,
+  "power": 253,
+  "pokemonId": 25
+}, {
+  "id": 26,
+  "hp": 55,
+  "attack": 81,
+  "defend": 60,
+  "spAttack": 50,
+  "spDefend": 70,
+  "speed": 97,
+  "power": 413,
+  "pokemonId": 26
+}, {
+  "id": 27,
+  "hp": 40,
+  "attack": 60,
+  "defend": 30,
+  "spAttack": 31,
+  "spDefend": 31,
+  "speed": 70,
+  "power": 262,
+  "pokemonId": 27
+}, {
+  "id": 28,
+  "hp": 65,
+  "attack": 90,
+  "defend": 65,
+  "spAttack": 61,
+  "spDefend": 61,
+  "speed": 100,
+  "power": 442,
+  "pokemonId": 28
+}, {
+  "id": 29,
+  "hp": 35,
+  "attack": 60,
+  "defend": 44,
+  "spAttack": 40,
+  "spDefend": 54,
+  "speed": 55,
+  "power": 288,
+  "pokemonId": 29
+}, {
+  "id": 30,
+  "hp": 60,
+  "attack": 85,
+  "defend": 69,
+  "spAttack": 65,
+  "spDefend": 79,
+  "speed": 80,
+  "power": 438,
+  "pokemonId": 30
+}, {
+  "id": 31,
+  "hp": 35,
+  "attack": 55,
+  "defend": 40,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 90,
+  "power": 320,
+  "pokemonId": 31
+}, {
+  "id": 32,
+  "hp": 60,
+  "attack": 90,
+  "defend": 55,
+  "spAttack": 90,
+  "spDefend": 80,
+  "speed": 110,
+  "power": 485,
+  "pokemonId": 32
+}, {
+  "id": 33,
+  "hp": 50,
+  "attack": 75,
+  "defend": 85,
+  "spAttack": 20,
+  "spDefend": 30,
+  "speed": 40,
+  "power": 300,
+  "pokemonId": 33
+}, {
+  "id": 34,
+  "hp": 75,
+  "attack": 100,
+  "defend": 110,
+  "spAttack": 45,
+  "spDefend": 55,
+  "speed": 65,
+  "power": 450,
+  "pokemonId": 34
+}, {
+  "id": 35,
+  "hp": 55,
+  "attack": 47,
+  "defend": 52,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 41,
+  "power": 275,
+  "pokemonId": 35
+}, {
+  "id": 36,
+  "hp": 70,
+  "attack": 62,
+  "defend": 67,
+  "spAttack": 55,
+  "spDefend": 55,
+  "speed": 56,
+  "power": 365,
+  "pokemonId": 36
+}, {
+  "id": 37,
+  "hp": 90,
+  "attack": 92,
+  "defend": 87,
+  "spAttack": 75,
+  "spDefend": 85,
+  "speed": 76,
+  "power": 505,
+  "pokemonId": 37
+}, {
+  "id": 38,
+  "hp": 46,
+  "attack": 57,
+  "defend": 40,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 50,
+  "power": 273,
+  "pokemonId": 38
+}, {
+  "id": 39,
+  "hp": 61,
+  "attack": 72,
+  "defend": 57,
+  "spAttack": 55,
+  "spDefend": 55,
+  "speed": 65,
+  "power": 365,
+  "pokemonId": 39
+}, {
+  "id": 40,
+  "hp": 81,
+  "attack": 102,
+  "defend": 77,
+  "spAttack": 85,
+  "spDefend": 75,
+  "speed": 85,
+  "power": 505,
+  "pokemonId": 40
+}, {
+  "id": 41,
+  "hp": 70,
+  "attack": 45,
+  "defend": 48,
+  "spAttack": 60,
+  "spDefend": 65,
+  "speed": 35,
+  "power": 323,
+  "pokemonId": 41
+}, {
+  "id": 42,
+  "hp": 95,
+  "attack": 70,
+  "defend": 73,
+  "spAttack": 95,
+  "spDefend": 90,
+  "speed": 60,
+  "power": 483,
+  "pokemonId": 42
+}, {
+  "id": 43,
+  "hp": 38,
+  "attack": 41,
+  "defend": 40,
+  "spAttack": 50,
+  "spDefend": 65,
+  "speed": 65,
+  "power": 299,
+  "pokemonId": 43
+}, {
+  "id": 44,
+  "hp": 73,
+  "attack": 76,
+  "defend": 75,
+  "spAttack": 81,
+  "spDefend": 100,
+  "speed": 100,
+  "power": 505,
+  "pokemonId": 44
+}, {
+  "id": 45,
+  "hp": 115,
+  "attack": 45,
+  "defend": 20,
+  "spAttack": 45,
+  "spDefend": 25,
+  "speed": 20,
+  "power": 270,
+  "pokemonId": 45
+}, {
+  "id": 46,
+  "hp": 140,
+  "attack": 70,
+  "defend": 45,
+  "spAttack": 85,
+  "spDefend": 50,
+  "speed": 45,
+  "power": 435,
+  "pokemonId": 46
+}, {
+  "id": 47,
+  "hp": 40,
+  "attack": 45,
+  "defend": 35,
+  "spAttack": 30,
+  "spDefend": 40,
+  "speed": 55,
+  "power": 245,
+  "pokemonId": 47
+}, {
+  "id": 48,
+  "hp": 75,
+  "attack": 80,
+  "defend": 70,
+  "spAttack": 65,
+  "spDefend": 75,
+  "speed": 90,
+  "power": 455,
+  "pokemonId": 48
+}, {
+  "id": 49,
+  "hp": 45,
+  "attack": 50,
+  "defend": 55,
+  "spAttack": 75,
+  "spDefend": 65,
+  "speed": 30,
+  "power": 320,
+  "pokemonId": 49
+}, {
+  "id": 50,
+  "hp": 60,
+  "attack": 65,
+  "defend": 70,
+  "spAttack": 85,
+  "spDefend": 75,
+  "speed": 40,
+  "power": 395,
+  "pokemonId": 50
+}, {
+  "id": 51,
+  "hp": 75,
+  "attack": 80,
+  "defend": 85,
+  "spAttack": 110,
+  "spDefend": 90,
+  "speed": 50,
+  "power": 490,
+  "pokemonId": 51
+}, {
+  "id": 52,
+  "hp": 35,
+  "attack": 70,
+  "defend": 55,
+  "spAttack": 45,
+  "spDefend": 55,
+  "speed": 25,
+  "power": 285,
+  "pokemonId": 52
+}, {
+  "id": 53,
+  "hp": 60,
+  "attack": 95,
+  "defend": 80,
+  "spAttack": 60,
+  "spDefend": 80,
+  "speed": 30,
+  "power": 405,
+  "pokemonId": 53
+}, {
+  "id": 54,
+  "hp": 60,
+  "attack": 55,
+  "defend": 50,
+  "spAttack": 40,
+  "spDefend": 55,
+  "speed": 45,
+  "power": 305,
+  "pokemonId": 54
+}, {
+  "id": 55,
+  "hp": 70,
+  "attack": 65,
+  "defend": 60,
+  "spAttack": 90,
+  "spDefend": 75,
+  "speed": 90,
+  "power": 450,
+  "pokemonId": 55
+}, {
+  "id": 56,
+  "hp": 10,
+  "attack": 55,
+  "defend": 25,
+  "spAttack": 35,
+  "spDefend": 45,
+  "speed": 95,
+  "power": 265,
+  "pokemonId": 56
+}, {
+  "id": 57,
+  "hp": 35,
+  "attack": 80,
+  "defend": 50,
+  "spAttack": 50,
+  "spDefend": 70,
+  "speed": 120,
+  "power": 405,
+  "pokemonId": 57
+}, {
+  "id": 58,
+  "hp": 40,
+  "attack": 45,
+  "defend": 35,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 90,
+  "power": 290,
+  "pokemonId": 58
+}, {
+  "id": 59,
+  "hp": 65,
+  "attack": 70,
+  "defend": 60,
+  "spAttack": 65,
+  "spDefend": 65,
+  "speed": 115,
+  "power": 440,
+  "pokemonId": 59
+}, {
+  "id": 60,
+  "hp": 50,
+  "attack": 52,
+  "defend": 48,
+  "spAttack": 65,
+  "spDefend": 50,
+  "speed": 55,
+  "power": 320,
+  "pokemonId": 60
+}, {
+  "id": 61,
+  "hp": 80,
+  "attack": 82,
+  "defend": 78,
+  "spAttack": 95,
+  "spDefend": 80,
+  "speed": 85,
+  "power": 500,
+  "pokemonId": 61
+}, {
+  "id": 62,
+  "hp": 40,
+  "attack": 80,
+  "defend": 35,
+  "spAttack": 35,
+  "spDefend": 45,
+  "speed": 70,
+  "power": 305,
+  "pokemonId": 62
+}, {
+  "id": 63,
+  "hp": 65,
+  "attack": 105,
+  "defend": 60,
+  "spAttack": 60,
+  "spDefend": 70,
+  "speed": 95,
+  "power": 455,
+  "pokemonId": 63
+}, {
+  "id": 64,
+  "hp": 55,
+  "attack": 70,
+  "defend": 45,
+  "spAttack": 70,
+  "spDefend": 50,
+  "speed": 60,
+  "power": 350,
+  "pokemonId": 64
+}, {
+  "id": 65,
+  "hp": 90,
+  "attack": 110,
+  "defend": 80,
+  "spAttack": 100,
+  "spDefend": 80,
+  "speed": 95,
+  "power": 555,
+  "pokemonId": 65
+}, {
+  "id": 66,
+  "hp": 40,
+  "attack": 50,
+  "defend": 40,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 90,
+  "power": 300,
+  "pokemonId": 66
+}, {
+  "id": 67,
+  "hp": 65,
+  "attack": 65,
+  "defend": 65,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 90,
+  "power": 385,
+  "pokemonId": 67
+}, {
+  "id": 68,
+  "hp": 90,
+  "attack": 95,
+  "defend": 95,
+  "spAttack": 70,
+  "spDefend": 90,
+  "speed": 70,
+  "power": 510,
+  "pokemonId": 68
+}, {
+  "id": 69,
+  "hp": 25,
+  "attack": 20,
+  "defend": 15,
+  "spAttack": 105,
+  "spDefend": 55,
+  "speed": 90,
+  "power": 310,
+  "pokemonId": 69
+}, {
+  "id": 70,
+  "hp": 40,
+  "attack": 35,
+  "defend": 30,
+  "spAttack": 120,
+  "spDefend": 70,
+  "speed": 105,
+  "power": 400,
+  "pokemonId": 70
+}, {
+  "id": 71,
+  "hp": 55,
+  "attack": 50,
+  "defend": 45,
+  "spAttack": 135,
+  "spDefend": 95,
+  "speed": 120,
+  "power": 500,
+  "pokemonId": 71
+}, {
+  "id": 72,
+  "hp": 55,
+  "attack": 50,
+  "defend": 65,
+  "spAttack": 175,
+  "spDefend": 95,
+  "speed": 150,
+  "power": 590,
+  "pokemonId": 72
+}, {
+  "id": 73,
+  "hp": 70,
+  "attack": 80,
+  "defend": 50,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 35,
+  "power": 305,
+  "pokemonId": 73
+}, {
+  "id": 74,
+  "hp": 80,
+  "attack": 100,
+  "defend": 70,
+  "spAttack": 50,
+  "spDefend": 60,
+  "speed": 45,
+  "power": 405,
+  "pokemonId": 74
+}, {
+  "id": 75,
+  "hp": 90,
+  "attack": 130,
+  "defend": 80,
+  "spAttack": 65,
+  "spDefend": 85,
+  "speed": 55,
+  "power": 505,
+  "pokemonId": 75
+}, {
+  "id": 76,
+  "hp": 50,
+  "attack": 75,
+  "defend": 35,
+  "spAttack": 70,
+  "spDefend": 30,
+  "speed": 40,
+  "power": 300,
+  "pokemonId": 76
+}, {
+  "id": 77,
+  "hp": 65,
+  "attack": 90,
+  "defend": 50,
+  "spAttack": 85,
+  "spDefend": 45,
+  "speed": 55,
+  "power": 390,
+  "pokemonId": 77
+}, {
+  "id": 78,
+  "hp": 80,
+  "attack": 105,
+  "defend": 65,
+  "spAttack": 100,
+  "spDefend": 70,
+  "speed": 70,
+  "power": 490,
+  "pokemonId": 78
+}, {
+  "id": 79,
+  "hp": 40,
+  "attack": 40,
+  "defend": 35,
+  "spAttack": 50,
+  "spDefend": 100,
+  "speed": 70,
+  "power": 335,
+  "pokemonId": 79
+}, {
+  "id": 80,
+  "hp": 80,
+  "attack": 70,
+  "defend": 65,
+  "spAttack": 80,
+  "spDefend": 120,
+  "speed": 100,
+  "power": 515,
+  "pokemonId": 80
+}, {
+  "id": 81,
+  "hp": 40,
+  "attack": 80,
+  "defend": 100,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 20,
+  "power": 300,
+  "pokemonId": 81
+}, {
+  "id": 82,
+  "hp": 55,
+  "attack": 95,
+  "defend": 115,
+  "spAttack": 45,
+  "spDefend": 45,
+  "speed": 35,
+  "power": 390,
+  "pokemonId": 82
+}, {
+  "id": 83,
+  "hp": 80,
+  "attack": 120,
+  "defend": 130,
+  "spAttack": 55,
+  "spDefend": 65,
+  "speed": 45,
+  "power": 495,
+  "pokemonId": 83
+}, {
+  "id": 84,
+  "hp": 50,
+  "attack": 85,
+  "defend": 55,
+  "spAttack": 65,
+  "spDefend": 65,
+  "speed": 90,
+  "power": 410,
+  "pokemonId": 84
+}, {
+  "id": 85,
+  "hp": 65,
+  "attack": 100,
+  "defend": 70,
+  "spAttack": 80,
+  "spDefend": 80,
+  "speed": 105,
+  "power": 500,
+  "pokemonId": 85
+}, {
+  "id": 86,
+  "hp": 90,
+  "attack": 65,
+  "defend": 65,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 15,
+  "power": 315,
+  "pokemonId": 86
+}, {
+  "id": 87,
+  "hp": 95,
+  "attack": 75,
+  "defend": 110,
+  "spAttack": 100,
+  "spDefend": 80,
+  "speed": 30,
+  "power": 490,
+  "pokemonId": 87
+}, {
+  "id": 88,
+  "hp": 95,
+  "attack": 75,
+  "defend": 180,
+  "spAttack": 130,
+  "spDefend": 80,
+  "speed": 30,
+  "power": 590,
+  "pokemonId": 88
+}, {
+  "id": 89,
+  "hp": 25,
+  "attack": 35,
+  "defend": 70,
+  "spAttack": 95,
+  "spDefend": 55,
+  "speed": 45,
+  "power": 325,
+  "pokemonId": 89
+}, {
+  "id": 90,
+  "hp": 50,
+  "attack": 60,
+  "defend": 95,
+  "spAttack": 120,
+  "spDefend": 70,
+  "speed": 70,
+  "power": 465,
+  "pokemonId": 90
+}, {
+  "id": 91,
+  "hp": 52,
+  "attack": 65,
+  "defend": 55,
+  "spAttack": 58,
+  "spDefend": 62,
+  "speed": 60,
+  "power": 352,
+  "pokemonId": 91
+}, {
+  "id": 92,
+  "hp": 35,
+  "attack": 85,
+  "defend": 45,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 75,
+  "power": 310,
+  "pokemonId": 92
+}, {
+  "id": 93,
+  "hp": 60,
+  "attack": 110,
+  "defend": 70,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 100,
+  "power": 460,
+  "pokemonId": 93
+}, {
+  "id": 94,
+  "hp": 65,
+  "attack": 45,
+  "defend": 55,
+  "spAttack": 45,
+  "spDefend": 70,
+  "speed": 45,
+  "power": 325,
+  "pokemonId": 94
+}, {
+  "id": 95,
+  "hp": 90,
+  "attack": 70,
+  "defend": 80,
+  "spAttack": 70,
+  "spDefend": 95,
+  "speed": 70,
+  "power": 475,
+  "pokemonId": 95
+}, {
+  "id": 96,
+  "hp": 80,
+  "attack": 80,
+  "defend": 50,
+  "spAttack": 40,
+  "spDefend": 50,
+  "speed": 25,
+  "power": 325,
+  "pokemonId": 96
+}, {
+  "id": 97,
+  "hp": 105,
+  "attack": 105,
+  "defend": 75,
+  "spAttack": 65,
+  "spDefend": 100,
+  "speed": 50,
+  "power": 500,
+  "pokemonId": 97
+}, {
+  "id": 98,
+  "hp": 30,
+  "attack": 65,
+  "defend": 100,
+  "spAttack": 45,
+  "spDefend": 25,
+  "speed": 40,
+  "power": 305,
+  "pokemonId": 98
+}, {
+  "id": 99,
+  "hp": 50,
+  "attack": 95,
+  "defend": 180,
+  "spAttack": 85,
+  "spDefend": 45,
+  "speed": 70,
+  "power": 525,
+  "pokemonId": 99
+}, {
+  "id": 100,
+  "hp": 30,
+  "attack": 35,
+  "defend": 30,
+  "spAttack": 100,
+  "spDefend": 35,
+  "speed": 80,
+  "power": 310,
+  "pokemonId": 100
+}, {
+  "id": 101,
+  "hp": 45,
+  "attack": 50,
+  "defend": 45,
+  "spAttack": 115,
+  "spDefend": 55,
+  "speed": 95,
+  "power": 405,
+  "pokemonId": 101
+}, {
+  "id": 102,
+  "hp": 60,
+  "attack": 65,
+  "defend": 60,
+  "spAttack": 130,
+  "spDefend": 75,
+  "speed": 110,
+  "power": 500,
+  "pokemonId": 102
+}, {
+  "id": 103,
+  "hp": 60,
+  "attack": 65,
+  "defend": 80,
+  "spAttack": 170,
+  "spDefend": 95,
+  "speed": 130,
+  "power": 600,
+  "pokemonId": 103
+}, {
+  "id": 104,
+  "hp": 35,
+  "attack": 45,
+  "defend": 160,
+  "spAttack": 30,
+  "spDefend": 45,
+  "speed": 70,
+  "power": 385,
+  "pokemonId": 104
+}, {
+  "id": 105,
+  "hp": 60,
+  "attack": 48,
+  "defend": 45,
+  "spAttack": 43,
+  "spDefend": 90,
+  "speed": 42,
+  "power": 328,
+  "pokemonId": 105
+}, {
+  "id": 106,
+  "hp": 85,
+  "attack": 73,
+  "defend": 70,
+  "spAttack": 73,
+  "spDefend": 115,
+  "speed": 67,
+  "power": 483,
+  "pokemonId": 106
+}, {
+  "id": 107,
+  "hp": 30,
+  "attack": 105,
+  "defend": 90,
+  "spAttack": 25,
+  "spDefend": 25,
+  "speed": 50,
+  "power": 325,
+  "pokemonId": 107
+}, {
+  "id": 108,
+  "hp": 55,
+  "attack": 130,
+  "defend": 115,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 75,
+  "power": 475,
+  "pokemonId": 108
+}, {
+  "id": 109,
+  "hp": 40,
+  "attack": 30,
+  "defend": 50,
+  "spAttack": 55,
+  "spDefend": 55,
+  "speed": 100,
+  "power": 330,
+  "pokemonId": 109
+}, {
+  "id": 110,
+  "hp": 60,
+  "attack": 50,
+  "defend": 70,
+  "spAttack": 80,
+  "spDefend": 80,
+  "speed": 140,
+  "power": 480,
+  "pokemonId": 110
+}, {
+  "id": 111,
+  "hp": 60,
+  "attack": 40,
+  "defend": 80,
+  "spAttack": 60,
+  "spDefend": 45,
+  "speed": 40,
+  "power": 325,
+  "pokemonId": 111
+}, {
+  "id": 112,
+  "hp": 95,
+  "attack": 95,
+  "defend": 85,
+  "spAttack": 125,
+  "spDefend": 65,
+  "speed": 55,
+  "power": 520,
+  "pokemonId": 112
+}, {
+  "id": 113,
+  "hp": 50,
+  "attack": 50,
+  "defend": 95,
+  "spAttack": 40,
+  "spDefend": 50,
+  "speed": 35,
+  "power": 320,
+  "pokemonId": 113
+}, {
+  "id": 114,
+  "hp": 60,
+  "attack": 80,
+  "defend": 110,
+  "spAttack": 50,
+  "spDefend": 80,
+  "speed": 45,
+  "power": 425,
+  "pokemonId": 114
+}, {
+  "id": 115,
+  "hp": 50,
+  "attack": 120,
+  "defend": 53,
+  "spAttack": 35,
+  "spDefend": 110,
+  "speed": 87,
+  "power": 455,
+  "pokemonId": 115
+}, {
+  "id": 116,
+  "hp": 50,
+  "attack": 105,
+  "defend": 79,
+  "spAttack": 35,
+  "spDefend": 110,
+  "speed": 76,
+  "power": 455,
+  "pokemonId": 116
+}, {
+  "id": 117,
+  "hp": 90,
+  "attack": 55,
+  "defend": 75,
+  "spAttack": 60,
+  "spDefend": 75,
+  "speed": 30,
+  "power": 385,
+  "pokemonId": 117
+}, {
+  "id": 118,
+  "hp": 40,
+  "attack": 65,
+  "defend": 95,
+  "spAttack": 60,
+  "spDefend": 45,
+  "speed": 35,
+  "power": 340,
+  "pokemonId": 118
+}, {
+  "id": 119,
+  "hp": 65,
+  "attack": 90,
+  "defend": 120,
+  "spAttack": 85,
+  "spDefend": 70,
+  "speed": 60,
+  "power": 490,
+  "pokemonId": 119
+}, {
+  "id": 120,
+  "hp": 80,
+  "attack": 85,
+  "defend": 95,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 25,
+  "power": 345,
+  "pokemonId": 120
+}, {
+  "id": 121,
+  "hp": 105,
+  "attack": 130,
+  "defend": 120,
+  "spAttack": 45,
+  "spDefend": 45,
+  "speed": 40,
+  "power": 485,
+  "pokemonId": 121
+}, {
+  "id": 122,
+  "hp": 250,
+  "attack": 5,
+  "defend": 5,
+  "spAttack": 35,
+  "spDefend": 105,
+  "speed": 50,
+  "power": 450,
+  "pokemonId": 122
+}, {
+  "id": 123,
+  "hp": 65,
+  "attack": 55,
+  "defend": 115,
+  "spAttack": 100,
+  "spDefend": 40,
+  "speed": 60,
+  "power": 435,
+  "pokemonId": 123
+}, {
+  "id": 124,
+  "hp": 105,
+  "attack": 95,
+  "defend": 80,
+  "spAttack": 40,
+  "spDefend": 80,
+  "speed": 90,
+  "power": 490,
+  "pokemonId": 124
+}, {
+  "id": 125,
+  "hp": 105,
+  "attack": 125,
+  "defend": 100,
+  "spAttack": 60,
+  "spDefend": 100,
+  "speed": 100,
+  "power": 590,
+  "pokemonId": 125
+}, {
+  "id": 126,
+  "hp": 30,
+  "attack": 40,
+  "defend": 70,
+  "spAttack": 70,
+  "spDefend": 25,
+  "speed": 60,
+  "power": 295,
+  "pokemonId": 126
+}, {
+  "id": 127,
+  "hp": 55,
+  "attack": 65,
+  "defend": 95,
+  "spAttack": 95,
+  "spDefend": 45,
+  "speed": 85,
+  "power": 440,
+  "pokemonId": 127
+}, {
+  "id": 128,
+  "hp": 45,
+  "attack": 67,
+  "defend": 60,
+  "spAttack": 35,
+  "spDefend": 50,
+  "speed": 63,
+  "power": 320,
+  "pokemonId": 128
+}, {
+  "id": 129,
+  "hp": 80,
+  "attack": 92,
+  "defend": 65,
+  "spAttack": 65,
+  "spDefend": 80,
+  "speed": 68,
+  "power": 450,
+  "pokemonId": 129
+}, {
+  "id": 130,
+  "hp": 30,
+  "attack": 45,
+  "defend": 55,
+  "spAttack": 70,
+  "spDefend": 55,
+  "speed": 85,
+  "power": 340,
+  "pokemonId": 130
+}, {
+  "id": 131,
+  "hp": 60,
+  "attack": 75,
+  "defend": 85,
+  "spAttack": 100,
+  "spDefend": 85,
+  "speed": 115,
+  "power": 520,
+  "pokemonId": 131
+}, {
+  "id": 132,
+  "hp": 40,
+  "attack": 45,
+  "defend": 65,
+  "spAttack": 100,
+  "spDefend": 120,
+  "speed": 90,
+  "power": 460,
+  "pokemonId": 132
+}, {
+  "id": 133,
+  "hp": 70,
+  "attack": 110,
+  "defend": 80,
+  "spAttack": 55,
+  "spDefend": 80,
+  "speed": 105,
+  "power": 500,
+  "pokemonId": 133
+}, {
+  "id": 134,
+  "hp": 65,
+  "attack": 50,
+  "defend": 35,
+  "spAttack": 115,
+  "spDefend": 95,
+  "speed": 95,
+  "power": 455,
+  "pokemonId": 134
+}, {
+  "id": 135,
+  "hp": 65,
+  "attack": 83,
+  "defend": 57,
+  "spAttack": 95,
+  "spDefend": 85,
+  "speed": 105,
+  "power": 490,
+  "pokemonId": 135
+}, {
+  "id": 136,
+  "hp": 65,
+  "attack": 95,
+  "defend": 57,
+  "spAttack": 100,
+  "spDefend": 85,
+  "speed": 93,
+  "power": 495,
+  "pokemonId": 136
+}, {
+  "id": 137,
+  "hp": 65,
+  "attack": 125,
+  "defend": 100,
+  "spAttack": 55,
+  "spDefend": 70,
+  "speed": 85,
+  "power": 500,
+  "pokemonId": 137
+}, {
+  "id": 138,
+  "hp": 65,
+  "attack": 155,
+  "defend": 120,
+  "spAttack": 65,
+  "spDefend": 90,
+  "speed": 105,
+  "power": 600,
+  "pokemonId": 138
+}, {
+  "id": 139,
+  "hp": 75,
+  "attack": 100,
+  "defend": 95,
+  "spAttack": 40,
+  "spDefend": 70,
+  "speed": 110,
+  "power": 490,
+  "pokemonId": 139
+}, {
+  "id": 140,
+  "hp": 20,
+  "attack": 10,
+  "defend": 55,
+  "spAttack": 15,
+  "spDefend": 20,
+  "speed": 80,
+  "power": 200,
+  "pokemonId": 140
+}, {
+  "id": 141,
+  "hp": 95,
+  "attack": 125,
+  "defend": 79,
+  "spAttack": 60,
+  "spDefend": 100,
+  "speed": 81,
+  "power": 540,
+  "pokemonId": 141
+}, {
+  "id": 142,
+  "hp": 95,
+  "attack": 155,
+  "defend": 109,
+  "spAttack": 70,
+  "spDefend": 130,
+  "speed": 81,
+  "power": 640,
+  "pokemonId": 142
+}, {
+  "id": 143,
+  "hp": 130,
+  "attack": 85,
+  "defend": 80,
+  "spAttack": 85,
+  "spDefend": 95,
+  "speed": 60,
+  "power": 535,
+  "pokemonId": 143
+}, {
+  "id": 144,
+  "hp": 48,
+  "attack": 48,
+  "defend": 48,
+  "spAttack": 48,
+  "spDefend": 48,
+  "speed": 48,
+  "power": 288,
+  "pokemonId": 144
+}, {
+  "id": 145,
+  "hp": 55,
+  "attack": 55,
+  "defend": 50,
+  "spAttack": 45,
+  "spDefend": 65,
+  "speed": 55,
+  "power": 325,
+  "pokemonId": 145
+}, {
+  "id": 146,
+  "hp": 130,
+  "attack": 65,
+  "defend": 60,
+  "spAttack": 110,
+  "spDefend": 95,
+  "speed": 65,
+  "power": 525,
+  "pokemonId": 146
+}, {
+  "id": 147,
+  "hp": 65,
+  "attack": 65,
+  "defend": 60,
+  "spAttack": 110,
+  "spDefend": 95,
+  "speed": 130,
+  "power": 525,
+  "pokemonId": 147
+}, {
+  "id": 148,
+  "hp": 65,
+  "attack": 130,
+  "defend": 60,
+  "spAttack": 95,
+  "spDefend": 110,
+  "speed": 65,
+  "power": 525,
+  "pokemonId": 148
+}, {
+  "id": 149,
+  "hp": 65,
+  "attack": 60,
+  "defend": 70,
+  "spAttack": 85,
+  "spDefend": 75,
+  "speed": 40,
+  "power": 395,
+  "pokemonId": 149
+}, {
+  "id": 150,
+  "hp": 35,
+  "attack": 40,
+  "defend": 100,
+  "spAttack": 90,
+  "spDefend": 55,
+  "speed": 35,
+  "power": 355,
+  "pokemonId": 150
+}, {
+  "id": 151,
+  "hp": 70,
+  "attack": 60,
+  "defend": 125,
+  "spAttack": 115,
+  "spDefend": 70,
+  "speed": 55,
+  "power": 495,
+  "pokemonId": 151
+}, {
+  "id": 152,
+  "hp": 30,
+  "attack": 80,
+  "defend": 90,
+  "spAttack": 55,
+  "spDefend": 45,
+  "speed": 55,
+  "power": 355,
+  "pokemonId": 152
+}, {
+  "id": 153,
+  "hp": 60,
+  "attack": 115,
+  "defend": 105,
+  "spAttack": 65,
+  "spDefend": 70,
+  "speed": 80,
+  "power": 495,
+  "pokemonId": 153
+}, {
+  "id": 154,
+  "hp": 80,
+  "attack": 105,
+  "defend": 65,
+  "spAttack": 60,
+  "spDefend": 75,
+  "speed": 130,
+  "power": 515,
+  "pokemonId": 154
+}, {
+  "id": 155,
+  "hp": 80,
+  "attack": 135,
+  "defend": 85,
+  "spAttack": 70,
+  "spDefend": 95,
+  "speed": 150,
+  "power": 615,
+  "pokemonId": 155
+}, {
+  "id": 156,
+  "hp": 160,
+  "attack": 110,
+  "defend": 65,
+  "spAttack": 65,
+  "spDefend": 110,
+  "speed": 30,
+  "power": 540,
+  "pokemonId": 156
+}, {
+  "id": 157,
+  "hp": 90,
+  "attack": 85,
+  "defend": 100,
+  "spAttack": 95,
+  "spDefend": 125,
+  "speed": 85,
+  "power": 580,
+  "pokemonId": 157
+}, {
+  "id": 158,
+  "hp": 90,
+  "attack": 90,
+  "defend": 85,
+  "spAttack": 125,
+  "spDefend": 90,
+  "speed": 100,
+  "power": 580,
+  "pokemonId": 158
+}, {
+  "id": 159,
+  "hp": 90,
+  "attack": 100,
+  "defend": 90,
+  "spAttack": 125,
+  "spDefend": 85,
+  "speed": 90,
+  "power": 580,
+  "pokemonId": 159
+}, {
+  "id": 160,
+  "hp": 41,
+  "attack": 64,
+  "defend": 45,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 50,
+  "power": 300,
+  "pokemonId": 160
+}, {
+  "id": 161,
+  "hp": 61,
+  "attack": 84,
+  "defend": 65,
+  "spAttack": 70,
+  "spDefend": 70,
+  "speed": 70,
+  "power": 420,
+  "pokemonId": 161
+}, {
+  "id": 162,
+  "hp": 91,
+  "attack": 134,
+  "defend": 95,
+  "spAttack": 100,
+  "spDefend": 100,
+  "speed": 80,
+  "power": 600,
+  "pokemonId": 162
+}, {
+  "id": 163,
+  "hp": 106,
+  "attack": 110,
+  "defend": 90,
+  "spAttack": 154,
+  "spDefend": 90,
+  "speed": 130,
+  "power": 680,
+  "pokemonId": 163
+}, {
+  "id": 164,
+  "hp": 106,
+  "attack": 190,
+  "defend": 100,
+  "spAttack": 154,
+  "spDefend": 100,
+  "speed": 130,
+  "power": 780,
+  "pokemonId": 164
+}, {
+  "id": 165,
+  "hp": 106,
+  "attack": 150,
+  "defend": 70,
+  "spAttack": 194,
+  "spDefend": 120,
+  "speed": 140,
+  "power": 780,
+  "pokemonId": 165
+}, {
+  "id": 166,
+  "hp": 100,
+  "attack": 100,
+  "defend": 100,
+  "spAttack": 100,
+  "spDefend": 100,
+  "speed": 100,
+  "power": 600,
+  "pokemonId": 166
+}, {
+  "id": 167,
+  "hp": 45,
+  "attack": 49,
+  "defend": 65,
+  "spAttack": 49,
+  "spDefend": 65,
+  "speed": 45,
+  "power": 318,
+  "pokemonId": 167
+}, {
+  "id": 168,
+  "hp": 60,
+  "attack": 62,
+  "defend": 80,
+  "spAttack": 63,
+  "spDefend": 80,
+  "speed": 60,
+  "power": 405,
+  "pokemonId": 168
+}, {
+  "id": 169,
+  "hp": 80,
+  "attack": 82,
+  "defend": 100,
+  "spAttack": 83,
+  "spDefend": 100,
+  "speed": 80,
+  "power": 525,
+  "pokemonId": 169
+}, {
+  "id": 170,
+  "hp": 39,
+  "attack": 52,
+  "defend": 43,
+  "spAttack": 60,
+  "spDefend": 50,
+  "speed": 65,
+  "power": 309,
+  "pokemonId": 170
+}, {
+  "id": 171,
+  "hp": 58,
+  "attack": 64,
+  "defend": 58,
+  "spAttack": 80,
+  "spDefend": 65,
+  "speed": 80,
+  "power": 405,
+  "pokemonId": 171
+}, {
+  "id": 172,
+  "hp": 78,
+  "attack": 84,
+  "defend": 78,
+  "spAttack": 109,
+  "spDefend": 85,
+  "speed": 100,
+  "power": 534,
+  "pokemonId": 172
+}, {
+  "id": 173,
+  "hp": 50,
+  "attack": 65,
+  "defend": 64,
+  "spAttack": 44,
+  "spDefend": 48,
+  "speed": 43,
+  "power": 314,
+  "pokemonId": 173
+}, {
+  "id": 174,
+  "hp": 65,
+  "attack": 80,
+  "defend": 80,
+  "spAttack": 59,
+  "spDefend": 63,
+  "speed": 58,
+  "power": 405,
+  "pokemonId": 174
+}, {
+  "id": 175,
+  "hp": 85,
+  "attack": 105,
+  "defend": 100,
+  "spAttack": 79,
+  "spDefend": 83,
+  "speed": 78,
+  "power": 530,
+  "pokemonId": 175
+}, {
+  "id": 176,
+  "hp": 35,
+  "attack": 46,
+  "defend": 34,
+  "spAttack": 35,
+  "spDefend": 45,
+  "speed": 20,
+  "power": 215,
+  "pokemonId": 176
+}, {
+  "id": 177,
+  "hp": 85,
+  "attack": 76,
+  "defend": 64,
+  "spAttack": 45,
+  "spDefend": 55,
+  "speed": 90,
+  "power": 415,
+  "pokemonId": 177
+}, {
+  "id": 178,
+  "hp": 60,
+  "attack": 30,
+  "defend": 30,
+  "spAttack": 36,
+  "spDefend": 56,
+  "speed": 50,
+  "power": 262,
+  "pokemonId": 178
+}, {
+  "id": 179,
+  "hp": 100,
+  "attack": 50,
+  "defend": 50,
+  "spAttack": 76,
+  "spDefend": 96,
+  "speed": 70,
+  "power": 442,
+  "pokemonId": 179
+}, {
+  "id": 180,
+  "hp": 40,
+  "attack": 20,
+  "defend": 30,
+  "spAttack": 40,
+  "spDefend": 80,
+  "speed": 55,
+  "power": 265,
+  "pokemonId": 180
+}, {
+  "id": 181,
+  "hp": 55,
+  "attack": 35,
+  "defend": 50,
+  "spAttack": 55,
+  "spDefend": 110,
+  "speed": 85,
+  "power": 390,
+  "pokemonId": 181
+}, {
+  "id": 182,
+  "hp": 40,
+  "attack": 60,
+  "defend": 40,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 30,
+  "power": 250,
+  "pokemonId": 182
+}, {
+  "id": 183,
+  "hp": 70,
+  "attack": 90,
+  "defend": 70,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 40,
+  "power": 390,
+  "pokemonId": 183
+}, {
+  "id": 184,
+  "hp": 85,
+  "attack": 90,
+  "defend": 80,
+  "spAttack": 70,
+  "spDefend": 80,
+  "speed": 130,
+  "power": 535,
+  "pokemonId": 184
+}, {
+  "id": 185,
+  "hp": 75,
+  "attack": 38,
+  "defend": 38,
+  "spAttack": 56,
+  "spDefend": 56,
+  "speed": 67,
+  "power": 330,
+  "pokemonId": 185
+}, {
+  "id": 186,
+  "hp": 125,
+  "attack": 58,
+  "defend": 58,
+  "spAttack": 76,
+  "spDefend": 76,
+  "speed": 67,
+  "power": 460,
+  "pokemonId": 186
+}, {
+  "id": 187,
+  "hp": 20,
+  "attack": 40,
+  "defend": 15,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 60,
+  "power": 205,
+  "pokemonId": 187
+}, {
+  "id": 188,
+  "hp": 50,
+  "attack": 25,
+  "defend": 28,
+  "spAttack": 45,
+  "spDefend": 55,
+  "speed": 15,
+  "power": 218,
+  "pokemonId": 188
+}, {
+  "id": 189,
+  "hp": 90,
+  "attack": 30,
+  "defend": 15,
+  "spAttack": 40,
+  "spDefend": 20,
+  "speed": 15,
+  "power": 210,
+  "pokemonId": 189
+}, {
+  "id": 190,
+  "hp": 35,
+  "attack": 20,
+  "defend": 65,
+  "spAttack": 40,
+  "spDefend": 65,
+  "speed": 20,
+  "power": 245,
+  "pokemonId": 190
+}, {
+  "id": 191,
+  "hp": 55,
+  "attack": 40,
+  "defend": 85,
+  "spAttack": 80,
+  "spDefend": 105,
+  "speed": 40,
+  "power": 405,
+  "pokemonId": 191
+}, {
+  "id": 192,
+  "hp": 40,
+  "attack": 50,
+  "defend": 45,
+  "spAttack": 70,
+  "spDefend": 45,
+  "speed": 70,
+  "power": 320,
+  "pokemonId": 192
+}, {
+  "id": 193,
+  "hp": 65,
+  "attack": 75,
+  "defend": 70,
+  "spAttack": 95,
+  "spDefend": 70,
+  "speed": 95,
+  "power": 470,
+  "pokemonId": 193
+}, {
+  "id": 194,
+  "hp": 55,
+  "attack": 40,
+  "defend": 40,
+  "spAttack": 65,
+  "spDefend": 45,
+  "speed": 35,
+  "power": 280,
+  "pokemonId": 194
+}, {
+  "id": 195,
+  "hp": 70,
+  "attack": 55,
+  "defend": 55,
+  "spAttack": 80,
+  "spDefend": 60,
+  "speed": 45,
+  "power": 365,
+  "pokemonId": 195
+}, {
+  "id": 196,
+  "hp": 90,
+  "attack": 75,
+  "defend": 85,
+  "spAttack": 115,
+  "spDefend": 90,
+  "speed": 55,
+  "power": 510,
+  "pokemonId": 196
+}, {
+  "id": 197,
+  "hp": 90,
+  "attack": 95,
+  "defend": 105,
+  "spAttack": 165,
+  "spDefend": 110,
+  "speed": 45,
+  "power": 610,
+  "pokemonId": 197
+}, {
+  "id": 198,
+  "hp": 75,
+  "attack": 80,
+  "defend": 95,
+  "spAttack": 90,
+  "spDefend": 100,
+  "speed": 50,
+  "power": 490,
+  "pokemonId": 198
+}, {
+  "id": 199,
+  "hp": 70,
+  "attack": 20,
+  "defend": 50,
+  "spAttack": 20,
+  "spDefend": 50,
+  "speed": 40,
+  "power": 250,
+  "pokemonId": 199
+}, {
+  "id": 200,
+  "hp": 100,
+  "attack": 50,
+  "defend": 80,
+  "spAttack": 60,
+  "spDefend": 80,
+  "speed": 50,
+  "power": 420,
+  "pokemonId": 200
+}, {
+  "id": 201,
+  "hp": 70,
+  "attack": 100,
+  "defend": 115,
+  "spAttack": 30,
+  "spDefend": 65,
+  "speed": 30,
+  "power": 410,
+  "pokemonId": 201
+}, {
+  "id": 202,
+  "hp": 90,
+  "attack": 75,
+  "defend": 75,
+  "spAttack": 90,
+  "spDefend": 100,
+  "speed": 70,
+  "power": 500,
+  "pokemonId": 202
+}, {
+  "id": 203,
+  "hp": 35,
+  "attack": 35,
+  "defend": 40,
+  "spAttack": 35,
+  "spDefend": 55,
+  "speed": 50,
+  "power": 250,
+  "pokemonId": 203
+}, {
+  "id": 204,
+  "hp": 55,
+  "attack": 45,
+  "defend": 50,
+  "spAttack": 45,
+  "spDefend": 65,
+  "speed": 80,
+  "power": 340,
+  "pokemonId": 204
+}, {
+  "id": 205,
+  "hp": 75,
+  "attack": 55,
+  "defend": 70,
+  "spAttack": 55,
+  "spDefend": 95,
+  "speed": 110,
+  "power": 460,
+  "pokemonId": 205
+}, {
+  "id": 206,
+  "hp": 55,
+  "attack": 70,
+  "defend": 55,
+  "spAttack": 40,
+  "spDefend": 55,
+  "speed": 85,
+  "power": 360,
+  "pokemonId": 206
+}, {
+  "id": 207,
+  "hp": 30,
+  "attack": 30,
+  "defend": 30,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 30,
+  "power": 180,
+  "pokemonId": 207
+}, {
+  "id": 208,
+  "hp": 75,
+  "attack": 75,
+  "defend": 55,
+  "spAttack": 105,
+  "spDefend": 85,
+  "speed": 30,
+  "power": 425,
+  "pokemonId": 208
+}, {
+  "id": 209,
+  "hp": 65,
+  "attack": 65,
+  "defend": 45,
+  "spAttack": 75,
+  "spDefend": 45,
+  "speed": 95,
+  "power": 390,
+  "pokemonId": 209
+}, {
+  "id": 210,
+  "hp": 55,
+  "attack": 45,
+  "defend": 45,
+  "spAttack": 25,
+  "spDefend": 25,
+  "speed": 15,
+  "power": 210,
+  "pokemonId": 210
+}, {
+  "id": 211,
+  "hp": 95,
+  "attack": 85,
+  "defend": 85,
+  "spAttack": 65,
+  "spDefend": 65,
+  "speed": 35,
+  "power": 430,
+  "pokemonId": 211
+}, {
+  "id": 212,
+  "hp": 65,
+  "attack": 65,
+  "defend": 60,
+  "spAttack": 130,
+  "spDefend": 95,
+  "speed": 110,
+  "power": 525,
+  "pokemonId": 212
+}, {
+  "id": 213,
+  "hp": 95,
+  "attack": 65,
+  "defend": 110,
+  "spAttack": 60,
+  "spDefend": 130,
+  "speed": 65,
+  "power": 525,
+  "pokemonId": 213
+}, {
+  "id": 214,
+  "hp": 60,
+  "attack": 85,
+  "defend": 42,
+  "spAttack": 85,
+  "spDefend": 42,
+  "speed": 91,
+  "power": 405,
+  "pokemonId": 214
+}, {
+  "id": 215,
+  "hp": 95,
+  "attack": 75,
+  "defend": 80,
+  "spAttack": 100,
+  "spDefend": 110,
+  "speed": 30,
+  "power": 490,
+  "pokemonId": 215
+}, {
+  "id": 216,
+  "hp": 60,
+  "attack": 60,
+  "defend": 60,
+  "spAttack": 85,
+  "spDefend": 85,
+  "speed": 85,
+  "power": 435,
+  "pokemonId": 216
+}, {
+  "id": 217,
+  "hp": 48,
+  "attack": 72,
+  "defend": 48,
+  "spAttack": 72,
+  "spDefend": 48,
+  "speed": 48,
+  "power": 336,
+  "pokemonId": 217
+}, {
+  "id": 218,
+  "hp": 190,
+  "attack": 33,
+  "defend": 58,
+  "spAttack": 33,
+  "spDefend": 58,
+  "speed": 33,
+  "power": 405,
+  "pokemonId": 218
+}, {
+  "id": 219,
+  "hp": 70,
+  "attack": 80,
+  "defend": 65,
+  "spAttack": 90,
+  "spDefend": 65,
+  "speed": 85,
+  "power": 455,
+  "pokemonId": 219
+}, {
+  "id": 220,
+  "hp": 50,
+  "attack": 65,
+  "defend": 90,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 15,
+  "power": 290,
+  "pokemonId": 220
+}, {
+  "id": 221,
+  "hp": 75,
+  "attack": 90,
+  "defend": 140,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 40,
+  "power": 465,
+  "pokemonId": 221
+}, {
+  "id": 222,
+  "hp": 100,
+  "attack": 70,
+  "defend": 70,
+  "spAttack": 65,
+  "spDefend": 65,
+  "speed": 45,
+  "power": 415,
+  "pokemonId": 222
+}, {
+  "id": 223,
+  "hp": 65,
+  "attack": 75,
+  "defend": 105,
+  "spAttack": 35,
+  "spDefend": 65,
+  "speed": 85,
+  "power": 430,
+  "pokemonId": 223
+}, {
+  "id": 224,
+  "hp": 75,
+  "attack": 85,
+  "defend": 200,
+  "spAttack": 55,
+  "spDefend": 65,
+  "speed": 30,
+  "power": 510,
+  "pokemonId": 224
+}, {
+  "id": 225,
+  "hp": 75,
+  "attack": 125,
+  "defend": 230,
+  "spAttack": 55,
+  "spDefend": 95,
+  "speed": 30,
+  "power": 610,
+  "pokemonId": 225
+}, {
+  "id": 226,
+  "hp": 60,
+  "attack": 80,
+  "defend": 50,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 30,
+  "power": 300,
+  "pokemonId": 226
+}, {
+  "id": 227,
+  "hp": 90,
+  "attack": 120,
+  "defend": 75,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 45,
+  "power": 450,
+  "pokemonId": 227
+}, {
+  "id": 228,
+  "hp": 65,
+  "attack": 95,
+  "defend": 75,
+  "spAttack": 55,
+  "spDefend": 55,
+  "speed": 85,
+  "power": 430,
+  "pokemonId": 228
+}, {
+  "id": 229,
+  "hp": 70,
+  "attack": 130,
+  "defend": 100,
+  "spAttack": 55,
+  "spDefend": 80,
+  "speed": 65,
+  "power": 500,
+  "pokemonId": 229
+}, {
+  "id": 230,
+  "hp": 70,
+  "attack": 150,
+  "defend": 140,
+  "spAttack": 65,
+  "spDefend": 100,
+  "speed": 75,
+  "power": 600,
+  "pokemonId": 230
+}, {
+  "id": 231,
+  "hp": 20,
+  "attack": 10,
+  "defend": 230,
+  "spAttack": 10,
+  "spDefend": 230,
+  "speed": 5,
+  "power": 505,
+  "pokemonId": 231
+}, {
+  "id": 232,
+  "hp": 80,
+  "attack": 125,
+  "defend": 75,
+  "spAttack": 40,
+  "spDefend": 95,
+  "speed": 85,
+  "power": 500,
+  "pokemonId": 232
+}, {
+  "id": 233,
+  "hp": 80,
+  "attack": 185,
+  "defend": 115,
+  "spAttack": 40,
+  "spDefend": 105,
+  "speed": 75,
+  "power": 600,
+  "pokemonId": 233
+}, {
+  "id": 234,
+  "hp": 55,
+  "attack": 95,
+  "defend": 55,
+  "spAttack": 35,
+  "spDefend": 75,
+  "speed": 115,
+  "power": 430,
+  "pokemonId": 234
+}, {
+  "id": 235,
+  "hp": 60,
+  "attack": 80,
+  "defend": 50,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 40,
+  "power": 330,
+  "pokemonId": 235
+}, {
+  "id": 236,
+  "hp": 90,
+  "attack": 130,
+  "defend": 75,
+  "spAttack": 75,
+  "spDefend": 75,
+  "speed": 55,
+  "power": 500,
+  "pokemonId": 236
+}, {
+  "id": 237,
+  "hp": 40,
+  "attack": 40,
+  "defend": 40,
+  "spAttack": 70,
+  "spDefend": 40,
+  "speed": 20,
+  "power": 250,
+  "pokemonId": 237
+}, {
+  "id": 238,
+  "hp": 50,
+  "attack": 50,
+  "defend": 120,
+  "spAttack": 80,
+  "spDefend": 80,
+  "speed": 30,
+  "power": 410,
+  "pokemonId": 238
+}, {
+  "id": 239,
+  "hp": 50,
+  "attack": 50,
+  "defend": 40,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 50,
+  "power": 250,
+  "pokemonId": 239
+}, {
+  "id": 240,
+  "hp": 100,
+  "attack": 100,
+  "defend": 80,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 50,
+  "power": 450,
+  "pokemonId": 240
+}, {
+  "id": 241,
+  "hp": 55,
+  "attack": 55,
+  "defend": 85,
+  "spAttack": 65,
+  "spDefend": 85,
+  "speed": 35,
+  "power": 380,
+  "pokemonId": 241
+}, {
+  "id": 242,
+  "hp": 35,
+  "attack": 65,
+  "defend": 35,
+  "spAttack": 65,
+  "spDefend": 35,
+  "speed": 65,
+  "power": 300,
+  "pokemonId": 242
+}, {
+  "id": 243,
+  "hp": 75,
+  "attack": 105,
+  "defend": 75,
+  "spAttack": 105,
+  "spDefend": 75,
+  "speed": 45,
+  "power": 480,
+  "pokemonId": 243
+}, {
+  "id": 244,
+  "hp": 45,
+  "attack": 55,
+  "defend": 45,
+  "spAttack": 65,
+  "spDefend": 45,
+  "speed": 75,
+  "power": 330,
+  "pokemonId": 244
+}, {
+  "id": 245,
+  "hp": 65,
+  "attack": 40,
+  "defend": 70,
+  "spAttack": 80,
+  "spDefend": 140,
+  "speed": 70,
+  "power": 465,
+  "pokemonId": 245
+}, {
+  "id": 246,
+  "hp": 65,
+  "attack": 80,
+  "defend": 140,
+  "spAttack": 40,
+  "spDefend": 70,
+  "speed": 70,
+  "power": 465,
+  "pokemonId": 246
+}, {
+  "id": 247,
+  "hp": 45,
+  "attack": 60,
+  "defend": 30,
+  "spAttack": 80,
+  "spDefend": 50,
+  "speed": 65,
+  "power": 330,
+  "pokemonId": 247
+}, {
+  "id": 248,
+  "hp": 75,
+  "attack": 90,
+  "defend": 50,
+  "spAttack": 110,
+  "spDefend": 80,
+  "speed": 95,
+  "power": 500,
+  "pokemonId": 248
+}, {
+  "id": 249,
+  "hp": 75,
+  "attack": 90,
+  "defend": 90,
+  "spAttack": 140,
+  "spDefend": 90,
+  "speed": 115,
+  "power": 600,
+  "pokemonId": 249
+}, {
+  "id": 250,
+  "hp": 75,
+  "attack": 95,
+  "defend": 95,
+  "spAttack": 95,
+  "spDefend": 95,
+  "speed": 85,
+  "power": 540,
+  "pokemonId": 250
+}, {
+  "id": 251,
+  "hp": 90,
+  "attack": 60,
+  "defend": 60,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 40,
+  "power": 330,
+  "pokemonId": 251
+}, {
+  "id": 252,
+  "hp": 90,
+  "attack": 120,
+  "defend": 120,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 50,
+  "power": 500,
+  "pokemonId": 252
+}, {
+  "id": 253,
+  "hp": 85,
+  "attack": 80,
+  "defend": 90,
+  "spAttack": 105,
+  "spDefend": 95,
+  "speed": 60,
+  "power": 515,
+  "pokemonId": 253
+}, {
+  "id": 254,
+  "hp": 73,
+  "attack": 95,
+  "defend": 62,
+  "spAttack": 85,
+  "spDefend": 65,
+  "speed": 85,
+  "power": 465,
+  "pokemonId": 254
+}, {
+  "id": 255,
+  "hp": 55,
+  "attack": 20,
+  "defend": 35,
+  "spAttack": 20,
+  "spDefend": 45,
+  "speed": 75,
+  "power": 250,
+  "pokemonId": 255
+}, {
+  "id": 256,
+  "hp": 35,
+  "attack": 35,
+  "defend": 35,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 35,
+  "power": 210,
+  "pokemonId": 256
+}, {
+  "id": 257,
+  "hp": 50,
+  "attack": 95,
+  "defend": 95,
+  "spAttack": 35,
+  "spDefend": 110,
+  "speed": 70,
+  "power": 455,
+  "pokemonId": 257
+}, {
+  "id": 258,
+  "hp": 45,
+  "attack": 30,
+  "defend": 15,
+  "spAttack": 85,
+  "spDefend": 65,
+  "speed": 65,
+  "power": 305,
+  "pokemonId": 258
+}, {
+  "id": 259,
+  "hp": 45,
+  "attack": 63,
+  "defend": 37,
+  "spAttack": 65,
+  "spDefend": 55,
+  "speed": 95,
+  "power": 360,
+  "pokemonId": 259
+}, {
+  "id": 260,
+  "hp": 45,
+  "attack": 75,
+  "defend": 37,
+  "spAttack": 70,
+  "spDefend": 55,
+  "speed": 83,
+  "power": 365,
+  "pokemonId": 260
+}, {
+  "id": 261,
+  "hp": 95,
+  "attack": 80,
+  "defend": 105,
+  "spAttack": 40,
+  "spDefend": 70,
+  "speed": 100,
+  "power": 490,
+  "pokemonId": 261
+}, {
+  "id": 262,
+  "hp": 255,
+  "attack": 10,
+  "defend": 10,
+  "spAttack": 75,
+  "spDefend": 135,
+  "speed": 55,
+  "power": 540,
+  "pokemonId": 262
+}, {
+  "id": 263,
+  "hp": 90,
+  "attack": 85,
+  "defend": 75,
+  "spAttack": 115,
+  "spDefend": 100,
+  "speed": 115,
+  "power": 580,
+  "pokemonId": 263
+}, {
+  "id": 264,
+  "hp": 115,
+  "attack": 115,
+  "defend": 85,
+  "spAttack": 90,
+  "spDefend": 75,
+  "speed": 100,
+  "power": 580,
+  "pokemonId": 264
+}, {
+  "id": 265,
+  "hp": 100,
+  "attack": 75,
+  "defend": 115,
+  "spAttack": 90,
+  "spDefend": 115,
+  "speed": 85,
+  "power": 580,
+  "pokemonId": 265
+}, {
+  "id": 266,
+  "hp": 50,
+  "attack": 64,
+  "defend": 50,
+  "spAttack": 45,
+  "spDefend": 50,
+  "speed": 41,
+  "power": 300,
+  "pokemonId": 266
+}, {
+  "id": 267,
+  "hp": 70,
+  "attack": 84,
+  "defend": 70,
+  "spAttack": 65,
+  "spDefend": 70,
+  "speed": 51,
+  "power": 410,
+  "pokemonId": 267
+}, {
+  "id": 268,
+  "hp": 100,
+  "attack": 134,
+  "defend": 110,
+  "spAttack": 95,
+  "spDefend": 100,
+  "speed": 61,
+  "power": 600,
+  "pokemonId": 268
+}, {
+  "id": 269,
+  "hp": 100,
+  "attack": 164,
+  "defend": 150,
+  "spAttack": 95,
+  "spDefend": 120,
+  "speed": 71,
+  "power": 700,
+  "pokemonId": 269
+}, {
+  "id": 270,
+  "hp": 106,
+  "attack": 90,
+  "defend": 130,
+  "spAttack": 90,
+  "spDefend": 154,
+  "speed": 110,
+  "power": 680,
+  "pokemonId": 270
+}, {
+  "id": 271,
+  "hp": 106,
+  "attack": 130,
+  "defend": 90,
+  "spAttack": 110,
+  "spDefend": 154,
+  "speed": 90,
+  "power": 680,
+  "pokemonId": 271
+}, {
+  "id": 272,
+  "hp": 100,
+  "attack": 100,
+  "defend": 100,
+  "spAttack": 100,
+  "spDefend": 100,
+  "speed": 100,
+  "power": 600,
+  "pokemonId": 272
+}, {
+  "id": 273,
+  "hp": 40,
+  "attack": 45,
+  "defend": 35,
+  "spAttack": 65,
+  "spDefend": 55,
+  "speed": 70,
+  "power": 310,
+  "pokemonId": 273
+}, {
+  "id": 274,
+  "hp": 50,
+  "attack": 65,
+  "defend": 45,
+  "spAttack": 85,
+  "spDefend": 65,
+  "speed": 95,
+  "power": 405,
+  "pokemonId": 274
+}, {
+  "id": 275,
+  "hp": 70,
+  "attack": 85,
+  "defend": 65,
+  "spAttack": 105,
+  "spDefend": 85,
+  "speed": 120,
+  "power": 530,
+  "pokemonId": 275
+}, {
+  "id": 276,
+  "hp": 70,
+  "attack": 110,
+  "defend": 75,
+  "spAttack": 145,
+  "spDefend": 85,
+  "speed": 145,
+  "power": 630,
+  "pokemonId": 276
+}, {
+  "id": 277,
+  "hp": 45,
+  "attack": 60,
+  "defend": 40,
+  "spAttack": 70,
+  "spDefend": 50,
+  "speed": 45,
+  "power": 310,
+  "pokemonId": 277
+}, {
+  "id": 278,
+  "hp": 60,
+  "attack": 85,
+  "defend": 60,
+  "spAttack": 85,
+  "spDefend": 60,
+  "speed": 55,
+  "power": 405,
+  "pokemonId": 278
+}, {
+  "id": 279,
+  "hp": 80,
+  "attack": 120,
+  "defend": 70,
+  "spAttack": 110,
+  "spDefend": 70,
+  "speed": 80,
+  "power": 530,
+  "pokemonId": 279
+}, {
+  "id": 280,
+  "hp": 80,
+  "attack": 160,
+  "defend": 80,
+  "spAttack": 130,
+  "spDefend": 80,
+  "speed": 100,
+  "power": 630,
+  "pokemonId": 280
+}, {
+  "id": 281,
+  "hp": 50,
+  "attack": 70,
+  "defend": 50,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 40,
+  "power": 310,
+  "pokemonId": 281
+}, {
+  "id": 282,
+  "hp": 70,
+  "attack": 85,
+  "defend": 70,
+  "spAttack": 60,
+  "spDefend": 70,
+  "speed": 50,
+  "power": 405,
+  "pokemonId": 282
+}, {
+  "id": 283,
+  "hp": 100,
+  "attack": 110,
+  "defend": 90,
+  "spAttack": 85,
+  "spDefend": 90,
+  "speed": 60,
+  "power": 535,
+  "pokemonId": 283
+}, {
+  "id": 284,
+  "hp": 100,
+  "attack": 150,
+  "defend": 110,
+  "spAttack": 95,
+  "spDefend": 110,
+  "speed": 70,
+  "power": 635,
+  "pokemonId": 284
+}, {
+  "id": 285,
+  "hp": 35,
+  "attack": 55,
+  "defend": 35,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 35,
+  "power": 220,
+  "pokemonId": 285
+}, {
+  "id": 286,
+  "hp": 70,
+  "attack": 90,
+  "defend": 70,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 70,
+  "power": 420,
+  "pokemonId": 286
+}, {
+  "id": 287,
+  "hp": 38,
+  "attack": 30,
+  "defend": 41,
+  "spAttack": 30,
+  "spDefend": 41,
+  "speed": 60,
+  "power": 240,
+  "pokemonId": 287
+}, {
+  "id": 288,
+  "hp": 78,
+  "attack": 70,
+  "defend": 61,
+  "spAttack": 50,
+  "spDefend": 61,
+  "speed": 100,
+  "power": 420,
+  "pokemonId": 288
+}, {
+  "id": 289,
+  "hp": 45,
+  "attack": 45,
+  "defend": 35,
+  "spAttack": 20,
+  "spDefend": 30,
+  "speed": 20,
+  "power": 195,
+  "pokemonId": 289
+}, {
+  "id": 290,
+  "hp": 50,
+  "attack": 35,
+  "defend": 55,
+  "spAttack": 25,
+  "spDefend": 25,
+  "speed": 15,
+  "power": 205,
+  "pokemonId": 290
+}, {
+  "id": 291,
+  "hp": 60,
+  "attack": 70,
+  "defend": 50,
+  "spAttack": 100,
+  "spDefend": 50,
+  "speed": 65,
+  "power": 395,
+  "pokemonId": 291
+}, {
+  "id": 292,
+  "hp": 50,
+  "attack": 35,
+  "defend": 55,
+  "spAttack": 25,
+  "spDefend": 25,
+  "speed": 15,
+  "power": 205,
+  "pokemonId": 292
+}, {
+  "id": 293,
+  "hp": 60,
+  "attack": 50,
+  "defend": 70,
+  "spAttack": 50,
+  "spDefend": 90,
+  "speed": 65,
+  "power": 385,
+  "pokemonId": 293
+}, {
+  "id": 294,
+  "hp": 40,
+  "attack": 30,
+  "defend": 30,
+  "spAttack": 40,
+  "spDefend": 50,
+  "speed": 30,
+  "power": 220,
+  "pokemonId": 294
+}, {
+  "id": 295,
+  "hp": 60,
+  "attack": 50,
+  "defend": 50,
+  "spAttack": 60,
+  "spDefend": 70,
+  "speed": 50,
+  "power": 340,
+  "pokemonId": 295
+}, {
+  "id": 296,
+  "hp": 80,
+  "attack": 70,
+  "defend": 70,
+  "spAttack": 90,
+  "spDefend": 100,
+  "speed": 70,
+  "power": 480,
+  "pokemonId": 296
+}, {
+  "id": 297,
+  "hp": 40,
+  "attack": 40,
+  "defend": 50,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 30,
+  "power": 220,
+  "pokemonId": 297
+}, {
+  "id": 298,
+  "hp": 70,
+  "attack": 70,
+  "defend": 40,
+  "spAttack": 60,
+  "spDefend": 40,
+  "speed": 60,
+  "power": 340,
+  "pokemonId": 298
+}, {
+  "id": 299,
+  "hp": 90,
+  "attack": 100,
+  "defend": 60,
+  "spAttack": 90,
+  "spDefend": 60,
+  "speed": 80,
+  "power": 480,
+  "pokemonId": 299
+}, {
+  "id": 300,
+  "hp": 40,
+  "attack": 55,
+  "defend": 30,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 85,
+  "power": 270,
+  "pokemonId": 300
+}, {
+  "id": 301,
+  "hp": 60,
+  "attack": 85,
+  "defend": 60,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 125,
+  "power": 430,
+  "pokemonId": 301
+}, {
+  "id": 302,
+  "hp": 40,
+  "attack": 30,
+  "defend": 30,
+  "spAttack": 55,
+  "spDefend": 30,
+  "speed": 85,
+  "power": 270,
+  "pokemonId": 302
+}, {
+  "id": 303,
+  "hp": 60,
+  "attack": 50,
+  "defend": 100,
+  "spAttack": 85,
+  "spDefend": 70,
+  "speed": 65,
+  "power": 430,
+  "pokemonId": 303
+}, {
+  "id": 304,
+  "hp": 28,
+  "attack": 25,
+  "defend": 25,
+  "spAttack": 45,
+  "spDefend": 35,
+  "speed": 40,
+  "power": 198,
+  "pokemonId": 304
+}, {
+  "id": 305,
+  "hp": 38,
+  "attack": 35,
+  "defend": 35,
+  "spAttack": 65,
+  "spDefend": 55,
+  "speed": 50,
+  "power": 278,
+  "pokemonId": 305
+}, {
+  "id": 306,
+  "hp": 68,
+  "attack": 65,
+  "defend": 65,
+  "spAttack": 125,
+  "spDefend": 115,
+  "speed": 80,
+  "power": 518,
+  "pokemonId": 306
+}, {
+  "id": 307,
+  "hp": 68,
+  "attack": 85,
+  "defend": 65,
+  "spAttack": 165,
+  "spDefend": 135,
+  "speed": 100,
+  "power": 618,
+  "pokemonId": 307
+}, {
+  "id": 308,
+  "hp": 40,
+  "attack": 30,
+  "defend": 32,
+  "spAttack": 50,
+  "spDefend": 52,
+  "speed": 65,
+  "power": 269,
+  "pokemonId": 308
+}, {
+  "id": 309,
+  "hp": 70,
+  "attack": 60,
+  "defend": 62,
+  "spAttack": 80,
+  "spDefend": 82,
+  "speed": 60,
+  "power": 414,
+  "pokemonId": 309
+}, {
+  "id": 310,
+  "hp": 60,
+  "attack": 40,
+  "defend": 60,
+  "spAttack": 40,
+  "spDefend": 60,
+  "speed": 35,
+  "power": 295,
+  "pokemonId": 310
+}, {
+  "id": 311,
+  "hp": 60,
+  "attack": 130,
+  "defend": 80,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 70,
+  "power": 460,
+  "pokemonId": 311
+}, {
+  "id": 312,
+  "hp": 60,
+  "attack": 60,
+  "defend": 60,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 30,
+  "power": 280,
+  "pokemonId": 312
+}, {
+  "id": 313,
+  "hp": 80,
+  "attack": 80,
+  "defend": 80,
+  "spAttack": 55,
+  "spDefend": 55,
+  "speed": 90,
+  "power": 440,
+  "pokemonId": 313
+}, {
+  "id": 314,
+  "hp": 150,
+  "attack": 160,
+  "defend": 100,
+  "spAttack": 95,
+  "spDefend": 65,
+  "speed": 100,
+  "power": 670,
+  "pokemonId": 314
+}, {
+  "id": 315,
+  "hp": 31,
+  "attack": 45,
+  "defend": 90,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 40,
+  "power": 266,
+  "pokemonId": 315
+}, {
+  "id": 316,
+  "hp": 61,
+  "attack": 90,
+  "defend": 45,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 160,
+  "power": 456,
+  "pokemonId": 316
+}, {
+  "id": 317,
+  "hp": 1,
+  "attack": 90,
+  "defend": 45,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 40,
+  "power": 236,
+  "pokemonId": 317
+}, {
+  "id": 318,
+  "hp": 64,
+  "attack": 51,
+  "defend": 23,
+  "spAttack": 51,
+  "spDefend": 23,
+  "speed": 28,
+  "power": 240,
+  "pokemonId": 318
+}, {
+  "id": 319,
+  "hp": 84,
+  "attack": 71,
+  "defend": 43,
+  "spAttack": 71,
+  "spDefend": 43,
+  "speed": 48,
+  "power": 360,
+  "pokemonId": 319
+}, {
+  "id": 320,
+  "hp": 104,
+  "attack": 91,
+  "defend": 63,
+  "spAttack": 91,
+  "spDefend": 73,
+  "speed": 68,
+  "power": 490,
+  "pokemonId": 320
+}, {
+  "id": 321,
+  "hp": 72,
+  "attack": 60,
+  "defend": 30,
+  "spAttack": 20,
+  "spDefend": 30,
+  "speed": 25,
+  "power": 237,
+  "pokemonId": 321
+}, {
+  "id": 322,
+  "hp": 144,
+  "attack": 120,
+  "defend": 60,
+  "spAttack": 40,
+  "spDefend": 60,
+  "speed": 50,
+  "power": 474,
+  "pokemonId": 322
+}, {
+  "id": 323,
+  "hp": 50,
+  "attack": 20,
+  "defend": 40,
+  "spAttack": 20,
+  "spDefend": 40,
+  "speed": 20,
+  "power": 190,
+  "pokemonId": 323
+}, {
+  "id": 324,
+  "hp": 30,
+  "attack": 45,
+  "defend": 135,
+  "spAttack": 45,
+  "spDefend": 90,
+  "speed": 30,
+  "power": 375,
+  "pokemonId": 324
+}, {
+  "id": 325,
+  "hp": 50,
+  "attack": 45,
+  "defend": 45,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 50,
+  "power": 260,
+  "pokemonId": 325
+}, {
+  "id": 326,
+  "hp": 70,
+  "attack": 65,
+  "defend": 65,
+  "spAttack": 55,
+  "spDefend": 55,
+  "speed": 70,
+  "power": 380,
+  "pokemonId": 326
+}, {
+  "id": 327,
+  "hp": 50,
+  "attack": 75,
+  "defend": 75,
+  "spAttack": 65,
+  "spDefend": 65,
+  "speed": 50,
+  "power": 380,
+  "pokemonId": 327
+}, {
+  "id": 328,
+  "hp": 50,
+  "attack": 85,
+  "defend": 125,
+  "spAttack": 85,
+  "spDefend": 115,
+  "speed": 20,
+  "power": 480,
+  "pokemonId": 328
+}, {
+  "id": 329,
+  "hp": 50,
+  "attack": 85,
+  "defend": 85,
+  "spAttack": 55,
+  "spDefend": 55,
+  "speed": 50,
+  "power": 380,
+  "pokemonId": 329
+}, {
+  "id": 330,
+  "hp": 50,
+  "attack": 105,
+  "defend": 125,
+  "spAttack": 55,
+  "spDefend": 95,
+  "speed": 50,
+  "power": 480,
+  "pokemonId": 330
+}, {
+  "id": 331,
+  "hp": 50,
+  "attack": 70,
+  "defend": 100,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 30,
+  "power": 330,
+  "pokemonId": 331
+}, {
+  "id": 332,
+  "hp": 60,
+  "attack": 90,
+  "defend": 140,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 40,
+  "power": 430,
+  "pokemonId": 332
+}, {
+  "id": 333,
+  "hp": 70,
+  "attack": 110,
+  "defend": 180,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 50,
+  "power": 530,
+  "pokemonId": 333
+}, {
+  "id": 334,
+  "hp": 70,
+  "attack": 140,
+  "defend": 230,
+  "spAttack": 60,
+  "spDefend": 80,
+  "speed": 50,
+  "power": 630,
+  "pokemonId": 334
+}, {
+  "id": 335,
+  "hp": 30,
+  "attack": 40,
+  "defend": 55,
+  "spAttack": 40,
+  "spDefend": 55,
+  "speed": 60,
+  "power": 280,
+  "pokemonId": 335
+}, {
+  "id": 336,
+  "hp": 60,
+  "attack": 60,
+  "defend": 75,
+  "spAttack": 60,
+  "spDefend": 75,
+  "speed": 80,
+  "power": 410,
+  "pokemonId": 336
+}, {
+  "id": 337,
+  "hp": 60,
+  "attack": 100,
+  "defend": 85,
+  "spAttack": 80,
+  "spDefend": 85,
+  "speed": 100,
+  "power": 510,
+  "pokemonId": 337
+}, {
+  "id": 338,
+  "hp": 40,
+  "attack": 45,
+  "defend": 40,
+  "spAttack": 65,
+  "spDefend": 40,
+  "speed": 65,
+  "power": 295,
+  "pokemonId": 338
+}, {
+  "id": 339,
+  "hp": 70,
+  "attack": 75,
+  "defend": 60,
+  "spAttack": 105,
+  "spDefend": 60,
+  "speed": 105,
+  "power": 475,
+  "pokemonId": 339
+}, {
+  "id": 340,
+  "hp": 70,
+  "attack": 75,
+  "defend": 80,
+  "spAttack": 135,
+  "spDefend": 80,
+  "speed": 135,
+  "power": 575,
+  "pokemonId": 340
+}, {
+  "id": 341,
+  "hp": 60,
+  "attack": 50,
+  "defend": 40,
+  "spAttack": 85,
+  "spDefend": 75,
+  "speed": 95,
+  "power": 405,
+  "pokemonId": 341
+}, {
+  "id": 342,
+  "hp": 60,
+  "attack": 40,
+  "defend": 50,
+  "spAttack": 75,
+  "spDefend": 85,
+  "speed": 95,
+  "power": 405,
+  "pokemonId": 342
+}, {
+  "id": 343,
+  "hp": 65,
+  "attack": 73,
+  "defend": 55,
+  "spAttack": 47,
+  "spDefend": 75,
+  "speed": 85,
+  "power": 400,
+  "pokemonId": 343
+}, {
+  "id": 344,
+  "hp": 65,
+  "attack": 47,
+  "defend": 55,
+  "spAttack": 73,
+  "spDefend": 75,
+  "speed": 85,
+  "power": 400,
+  "pokemonId": 344
+}, {
+  "id": 345,
+  "hp": 50,
+  "attack": 60,
+  "defend": 45,
+  "spAttack": 100,
+  "spDefend": 80,
+  "speed": 65,
+  "power": 400,
+  "pokemonId": 345
+}, {
+  "id": 346,
+  "hp": 70,
+  "attack": 43,
+  "defend": 53,
+  "spAttack": 43,
+  "spDefend": 53,
+  "speed": 40,
+  "power": 302,
+  "pokemonId": 346
+}, {
+  "id": 347,
+  "hp": 100,
+  "attack": 73,
+  "defend": 83,
+  "spAttack": 73,
+  "spDefend": 83,
+  "speed": 55,
+  "power": 467,
+  "pokemonId": 347
+}, {
+  "id": 348,
+  "hp": 45,
+  "attack": 90,
+  "defend": 20,
+  "spAttack": 65,
+  "spDefend": 20,
+  "speed": 65,
+  "power": 305,
+  "pokemonId": 348
+}, {
+  "id": 349,
+  "hp": 70,
+  "attack": 120,
+  "defend": 40,
+  "spAttack": 95,
+  "spDefend": 40,
+  "speed": 95,
+  "power": 460,
+  "pokemonId": 349
+}, {
+  "id": 350,
+  "hp": 70,
+  "attack": 140,
+  "defend": 70,
+  "spAttack": 110,
+  "spDefend": 65,
+  "speed": 105,
+  "power": 560,
+  "pokemonId": 350
+}, {
+  "id": 351,
+  "hp": 130,
+  "attack": 70,
+  "defend": 35,
+  "spAttack": 70,
+  "spDefend": 35,
+  "speed": 60,
+  "power": 400,
+  "pokemonId": 351
+}, {
+  "id": 352,
+  "hp": 170,
+  "attack": 90,
+  "defend": 45,
+  "spAttack": 90,
+  "spDefend": 45,
+  "speed": 60,
+  "power": 500,
+  "pokemonId": 352
+}, {
+  "id": 353,
+  "hp": 60,
+  "attack": 60,
+  "defend": 40,
+  "spAttack": 65,
+  "spDefend": 45,
+  "speed": 35,
+  "power": 305,
+  "pokemonId": 353
+}, {
+  "id": 354,
+  "hp": 70,
+  "attack": 100,
+  "defend": 70,
+  "spAttack": 105,
+  "spDefend": 75,
+  "speed": 40,
+  "power": 460,
+  "pokemonId": 354
+}, {
+  "id": 355,
+  "hp": 70,
+  "attack": 120,
+  "defend": 100,
+  "spAttack": 145,
+  "spDefend": 105,
+  "speed": 20,
+  "power": 560,
+  "pokemonId": 355
+}, {
+  "id": 356,
+  "hp": 70,
+  "attack": 85,
+  "defend": 140,
+  "spAttack": 85,
+  "spDefend": 70,
+  "speed": 20,
+  "power": 470,
+  "pokemonId": 356
+}, {
+  "id": 357,
+  "hp": 60,
+  "attack": 25,
+  "defend": 35,
+  "spAttack": 70,
+  "spDefend": 80,
+  "speed": 60,
+  "power": 330,
+  "pokemonId": 357
+}, {
+  "id": 358,
+  "hp": 80,
+  "attack": 45,
+  "defend": 65,
+  "spAttack": 90,
+  "spDefend": 110,
+  "speed": 80,
+  "power": 470,
+  "pokemonId": 358
+}, {
+  "id": 359,
+  "hp": 60,
+  "attack": 60,
+  "defend": 60,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 60,
+  "power": 360,
+  "pokemonId": 359
+}, {
+  "id": 360,
+  "hp": 45,
+  "attack": 100,
+  "defend": 45,
+  "spAttack": 45,
+  "spDefend": 45,
+  "speed": 10,
+  "power": 290,
+  "pokemonId": 360
+}, {
+  "id": 361,
+  "hp": 50,
+  "attack": 70,
+  "defend": 50,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 70,
+  "power": 340,
+  "pokemonId": 361
+}, {
+  "id": 362,
+  "hp": 80,
+  "attack": 100,
+  "defend": 80,
+  "spAttack": 80,
+  "spDefend": 80,
+  "speed": 100,
+  "power": 520,
+  "pokemonId": 362
+}, {
+  "id": 363,
+  "hp": 50,
+  "attack": 85,
+  "defend": 40,
+  "spAttack": 85,
+  "spDefend": 40,
+  "speed": 35,
+  "power": 335,
+  "pokemonId": 363
+}, {
+  "id": 364,
+  "hp": 70,
+  "attack": 115,
+  "defend": 60,
+  "spAttack": 115,
+  "spDefend": 60,
+  "speed": 55,
+  "power": 475,
+  "pokemonId": 364
+}, {
+  "id": 365,
+  "hp": 45,
+  "attack": 40,
+  "defend": 60,
+  "spAttack": 40,
+  "spDefend": 75,
+  "speed": 50,
+  "power": 310,
+  "pokemonId": 365
+}, {
+  "id": 366,
+  "hp": 75,
+  "attack": 70,
+  "defend": 90,
+  "spAttack": 70,
+  "spDefend": 105,
+  "speed": 80,
+  "power": 490,
+  "pokemonId": 366
+}, {
+  "id": 367,
+  "hp": 75,
+  "attack": 110,
+  "defend": 110,
+  "spAttack": 110,
+  "spDefend": 105,
+  "speed": 80,
+  "power": 590,
+  "pokemonId": 367
+}, {
+  "id": 368,
+  "hp": 73,
+  "attack": 115,
+  "defend": 60,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 90,
+  "power": 458,
+  "pokemonId": 368
+}, {
+  "id": 369,
+  "hp": 73,
+  "attack": 100,
+  "defend": 60,
+  "spAttack": 100,
+  "spDefend": 60,
+  "speed": 65,
+  "power": 458,
+  "pokemonId": 369
+}, {
+  "id": 370,
+  "hp": 70,
+  "attack": 55,
+  "defend": 65,
+  "spAttack": 95,
+  "spDefend": 85,
+  "speed": 70,
+  "power": 440,
+  "pokemonId": 370
+}, {
+  "id": 371,
+  "hp": 70,
+  "attack": 95,
+  "defend": 85,
+  "spAttack": 55,
+  "spDefend": 65,
+  "speed": 70,
+  "power": 440,
+  "pokemonId": 371
+}, {
+  "id": 372,
+  "hp": 50,
+  "attack": 48,
+  "defend": 43,
+  "spAttack": 46,
+  "spDefend": 41,
+  "speed": 60,
+  "power": 288,
+  "pokemonId": 372
+}, {
+  "id": 373,
+  "hp": 110,
+  "attack": 78,
+  "defend": 73,
+  "spAttack": 76,
+  "spDefend": 71,
+  "speed": 60,
+  "power": 468,
+  "pokemonId": 373
+}, {
+  "id": 374,
+  "hp": 43,
+  "attack": 80,
+  "defend": 65,
+  "spAttack": 50,
+  "spDefend": 35,
+  "speed": 35,
+  "power": 308,
+  "pokemonId": 374
+}, {
+  "id": 375,
+  "hp": 63,
+  "attack": 120,
+  "defend": 85,
+  "spAttack": 90,
+  "spDefend": 55,
+  "speed": 55,
+  "power": 468,
+  "pokemonId": 375
+}, {
+  "id": 376,
+  "hp": 40,
+  "attack": 40,
+  "defend": 55,
+  "spAttack": 40,
+  "spDefend": 70,
+  "speed": 55,
+  "power": 300,
+  "pokemonId": 376
+}, {
+  "id": 377,
+  "hp": 60,
+  "attack": 70,
+  "defend": 105,
+  "spAttack": 70,
+  "spDefend": 120,
+  "speed": 75,
+  "power": 500,
+  "pokemonId": 377
+}, {
+  "id": 378,
+  "hp": 66,
+  "attack": 41,
+  "defend": 77,
+  "spAttack": 61,
+  "spDefend": 87,
+  "speed": 23,
+  "power": 355,
+  "pokemonId": 378
+}, {
+  "id": 379,
+  "hp": 86,
+  "attack": 81,
+  "defend": 97,
+  "spAttack": 81,
+  "spDefend": 107,
+  "speed": 43,
+  "power": 495,
+  "pokemonId": 379
+}, {
+  "id": 380,
+  "hp": 45,
+  "attack": 95,
+  "defend": 50,
+  "spAttack": 40,
+  "spDefend": 50,
+  "speed": 75,
+  "power": 355,
+  "pokemonId": 380
+}, {
+  "id": 381,
+  "hp": 75,
+  "attack": 125,
+  "defend": 100,
+  "spAttack": 70,
+  "spDefend": 80,
+  "speed": 45,
+  "power": 495,
+  "pokemonId": 381
+}, {
+  "id": 382,
+  "hp": 20,
+  "attack": 15,
+  "defend": 20,
+  "spAttack": 10,
+  "spDefend": 55,
+  "speed": 80,
+  "power": 200,
+  "pokemonId": 382
+}, {
+  "id": 383,
+  "hp": 95,
+  "attack": 60,
+  "defend": 79,
+  "spAttack": 100,
+  "spDefend": 125,
+  "speed": 81,
+  "power": 540,
+  "pokemonId": 383
+}, {
+  "id": 384,
+  "hp": 70,
+  "attack": 70,
+  "defend": 70,
+  "spAttack": 70,
+  "spDefend": 70,
+  "speed": 70,
+  "power": 420,
+  "pokemonId": 384
+}, {
+  "id": 385,
+  "hp": 60,
+  "attack": 90,
+  "defend": 70,
+  "spAttack": 60,
+  "spDefend": 120,
+  "speed": 40,
+  "power": 440,
+  "pokemonId": 385
+}, {
+  "id": 386,
+  "hp": 44,
+  "attack": 75,
+  "defend": 35,
+  "spAttack": 63,
+  "spDefend": 33,
+  "speed": 45,
+  "power": 295,
+  "pokemonId": 386
+}, {
+  "id": 387,
+  "hp": 64,
+  "attack": 115,
+  "defend": 65,
+  "spAttack": 83,
+  "spDefend": 63,
+  "speed": 65,
+  "power": 455,
+  "pokemonId": 387
+}, {
+  "id": 388,
+  "hp": 64,
+  "attack": 165,
+  "defend": 75,
+  "spAttack": 93,
+  "spDefend": 83,
+  "speed": 75,
+  "power": 555,
+  "pokemonId": 388
+}, {
+  "id": 389,
+  "hp": 20,
+  "attack": 40,
+  "defend": 90,
+  "spAttack": 30,
+  "spDefend": 90,
+  "speed": 25,
+  "power": 295,
+  "pokemonId": 389
+}, {
+  "id": 390,
+  "hp": 40,
+  "attack": 70,
+  "defend": 130,
+  "spAttack": 60,
+  "spDefend": 130,
+  "speed": 25,
+  "power": 455,
+  "pokemonId": 390
+}, {
+  "id": 391,
+  "hp": 99,
+  "attack": 68,
+  "defend": 83,
+  "spAttack": 72,
+  "spDefend": 87,
+  "speed": 51,
+  "power": 460,
+  "pokemonId": 391
+}, {
+  "id": 392,
+  "hp": 65,
+  "attack": 50,
+  "defend": 70,
+  "spAttack": 95,
+  "spDefend": 80,
+  "speed": 65,
+  "power": 425,
+  "pokemonId": 392
+}, {
+  "id": 393,
+  "hp": 65,
+  "attack": 130,
+  "defend": 60,
+  "spAttack": 75,
+  "spDefend": 60,
+  "speed": 75,
+  "power": 465,
+  "pokemonId": 393
+}, {
+  "id": 394,
+  "hp": 65,
+  "attack": 150,
+  "defend": 60,
+  "spAttack": 115,
+  "spDefend": 60,
+  "speed": 115,
+  "power": 565,
+  "pokemonId": 394
+}, {
+  "id": 395,
+  "hp": 95,
+  "attack": 23,
+  "defend": 48,
+  "spAttack": 23,
+  "spDefend": 48,
+  "speed": 23,
+  "power": 260,
+  "pokemonId": 395
+}, {
+  "id": 396,
+  "hp": 50,
+  "attack": 50,
+  "defend": 50,
+  "spAttack": 50,
+  "spDefend": 50,
+  "speed": 50,
+  "power": 300,
+  "pokemonId": 396
+}, {
+  "id": 397,
+  "hp": 80,
+  "attack": 80,
+  "defend": 80,
+  "spAttack": 80,
+  "spDefend": 80,
+  "speed": 80,
+  "power": 480,
+  "pokemonId": 397
+}, {
+  "id": 398,
+  "hp": 80,
+  "attack": 120,
+  "defend": 80,
+  "spAttack": 120,
+  "spDefend": 80,
+  "speed": 100,
+  "power": 580,
+  "pokemonId": 398
+}, {
+  "id": 399,
+  "hp": 70,
+  "attack": 40,
+  "defend": 50,
+  "spAttack": 55,
+  "spDefend": 50,
+  "speed": 25,
+  "power": 290,
+  "pokemonId": 399
+}, {
+  "id": 400,
+  "hp": 90,
+  "attack": 60,
+  "defend": 70,
+  "spAttack": 75,
+  "spDefend": 70,
+  "speed": 45,
+  "power": 410,
+  "pokemonId": 400
+}, {
+  "id": 401,
+  "hp": 110,
+  "attack": 80,
+  "defend": 90,
+  "spAttack": 95,
+  "spDefend": 90,
+  "speed": 65,
+  "power": 530,
+  "pokemonId": 401
+}, {
+  "id": 402,
+  "hp": 35,
+  "attack": 64,
+  "defend": 85,
+  "spAttack": 74,
+  "spDefend": 55,
+  "speed": 32,
+  "power": 345,
+  "pokemonId": 402
+}, {
+  "id": 403,
+  "hp": 55,
+  "attack": 104,
+  "defend": 105,
+  "spAttack": 94,
+  "spDefend": 75,
+  "speed": 52,
+  "power": 485,
+  "pokemonId": 403
+}, {
+  "id": 404,
+  "hp": 55,
+  "attack": 84,
+  "defend": 105,
+  "spAttack": 114,
+  "spDefend": 75,
+  "speed": 52,
+  "power": 485,
+  "pokemonId": 404
+}, {
+  "id": 405,
+  "hp": 100,
+  "attack": 90,
+  "defend": 130,
+  "spAttack": 45,
+  "spDefend": 65,
+  "speed": 55,
+  "power": 485,
+  "pokemonId": 405
+}, {
+  "id": 406,
+  "hp": 43,
+  "attack": 30,
+  "defend": 55,
+  "spAttack": 40,
+  "spDefend": 65,
+  "speed": 97,
+  "power": 330,
+  "pokemonId": 406
+}, {
+  "id": 407,
+  "hp": 45,
+  "attack": 75,
+  "defend": 60,
+  "spAttack": 40,
+  "spDefend": 30,
+  "speed": 50,
+  "power": 300,
+  "pokemonId": 407
+}, {
+  "id": 408,
+  "hp": 65,
+  "attack": 95,
+  "defend": 100,
+  "spAttack": 60,
+  "spDefend": 50,
+  "speed": 50,
+  "power": 420,
+  "pokemonId": 408
+}, {
+  "id": 409,
+  "hp": 95,
+  "attack": 135,
+  "defend": 80,
+  "spAttack": 110,
+  "spDefend": 80,
+  "speed": 100,
+  "power": 600,
+  "pokemonId": 409
+}, {
+  "id": 410,
+  "hp": 95,
+  "attack": 145,
+  "defend": 130,
+  "spAttack": 120,
+  "spDefend": 90,
+  "speed": 120,
+  "power": 700,
+  "pokemonId": 410
+}, {
+  "id": 411,
+  "hp": 40,
+  "attack": 55,
+  "defend": 80,
+  "spAttack": 35,
+  "spDefend": 60,
+  "speed": 30,
+  "power": 300,
+  "pokemonId": 411
+}, {
+  "id": 412,
+  "hp": 60,
+  "attack": 75,
+  "defend": 100,
+  "spAttack": 55,
+  "spDefend": 80,
+  "speed": 50,
+  "power": 420,
+  "pokemonId": 412
+}, {
+  "id": 413,
+  "hp": 80,
+  "attack": 135,
+  "defend": 130,
+  "spAttack": 95,
+  "spDefend": 90,
+  "speed": 70,
+  "power": 600,
+  "pokemonId": 413
+}, {
+  "id": 414,
+  "hp": 80,
+  "attack": 145,
+  "defend": 150,
+  "spAttack": 105,
+  "spDefend": 110,
+  "speed": 110,
+  "power": 700,
+  "pokemonId": 414
+}, {
+  "id": 415,
+  "hp": 80,
+  "attack": 100,
+  "defend": 200,
+  "spAttack": 50,
+  "spDefend": 100,
+  "speed": 50,
+  "power": 580,
+  "pokemonId": 415
+}, {
+  "id": 416,
+  "hp": 80,
+  "attack": 50,
+  "defend": 100,
+  "spAttack": 100,
+  "spDefend": 200,
+  "speed": 50,
+  "power": 580,
+  "pokemonId": 416
+}, {
+  "id": 417,
+  "hp": 80,
+  "attack": 75,
+  "defend": 150,
+  "spAttack": 75,
+  "spDefend": 150,
+  "speed": 50,
+  "power": 580,
+  "pokemonId": 417
+}, {
+  "id": 418,
+  "hp": 80,
+  "attack": 80,
+  "defend": 90,
+  "spAttack": 110,
+  "spDefend": 130,
+  "speed": 110,
+  "power": 600,
+  "pokemonId": 418
+}, {
+  "id": 419,
+  "hp": 80,
+  "attack": 100,
+  "defend": 120,
+  "spAttack": 140,
+  "spDefend": 150,
+  "speed": 110,
+  "power": 700,
+  "pokemonId": 419
+}, {
+  "id": 420,
+  "hp": 80,
+  "attack": 90,
+  "defend": 80,
+  "spAttack": 130,
+  "spDefend": 110,
+  "speed": 110,
+  "power": 600,
+  "pokemonId": 420
+}, {
+  "id": 421,
+  "hp": 80,
+  "attack": 130,
+  "defend": 100,
+  "spAttack": 160,
+  "spDefend": 120,
+  "speed": 110,
+  "power": 700,
+  "pokemonId": 421
+}, {
+  "id": 422,
+  "hp": 100,
+  "attack": 100,
+  "defend": 90,
+  "spAttack": 150,
+  "spDefend": 140,
+  "speed": 90,
+  "power": 670,
+  "pokemonId": 422
+}, {
+  "id": 423,
+  "hp": 100,
+  "attack": 150,
+  "defend": 90,
+  "spAttack": 180,
+  "spDefend": 160,
+  "speed": 90,
+  "power": 770,
+  "pokemonId": 423
+}, {
+  "id": 424,
+  "hp": 100,
+  "attack": 150,
+  "defend": 140,
+  "spAttack": 100,
+  "spDefend": 90,
+  "speed": 90,
+  "power": 670,
+  "pokemonId": 424
+}, {
+  "id": 425,
+  "hp": 100,
+  "attack": 180,
+  "defend": 160,
+  "spAttack": 150,
+  "spDefend": 90,
+  "speed": 90,
+  "power": 770,
+  "pokemonId": 425
+}, {
+  "id": 426,
+  "hp": 105,
+  "attack": 150,
+  "defend": 90,
+  "spAttack": 150,
+  "spDefend": 90,
+  "speed": 95,
+  "power": 680,
+  "pokemonId": 426
+}, {
+  "id": 427,
+  "hp": 105,
+  "attack": 180,
+  "defend": 100,
+  "spAttack": 180,
+  "spDefend": 100,
+  "speed": 115,
+  "power": 780,
+  "pokemonId": 427
+}, {
+  "id": 428,
+  "hp": 100,
+  "attack": 100,
+  "defend": 100,
+  "spAttack": 100,
+  "spDefend": 100,
+  "speed": 100,
+  "power": 600,
+  "pokemonId": 428
+}, {
+  "id": 429,
+  "hp": 50,
+  "attack": 150,
+  "defend": 50,
+  "spAttack": 150,
+  "spDefend": 50,
+  "speed": 150,
+  "power": 600,
+  "pokemonId": 429
+}, {
+  "id": 430,
+  "hp": 50,
+  "attack": 180,
+  "defend": 20,
+  "spAttack": 180,
+  "spDefend": 20,
+  "speed": 150,
+  "power": 600,
+  "pokemonId": 430
+}, {
+  "id": 431,
+  "hp": 50,
+  "attack": 70,
+  "defend": 160,
+  "spAttack": 70,
+  "spDefend": 160,
+  "speed": 90,
+  "power": 600,
+  "pokemonId": 431
+}, {
+  "id": 432,
+  "hp": 50,
+  "attack": 95,
+  "defend": 90,
+  "spAttack": 95,
+  "spDefend": 90,
+  "speed": 180,
+  "power": 600,
+  "pokemonId": 432
+}, {
+  "id": 433,
+  "hp": 55,
+  "attack": 68,
+  "defend": 64,
+  "spAttack": 45,
+  "spDefend": 55,
+  "speed": 31,
+  "power": 318,
+  "pokemonId": 433
+}, {
+  "id": 434,
+  "hp": 75,
+  "attack": 89,
+  "defend": 85,
+  "spAttack": 55,
+  "spDefend": 65,
+  "speed": 36,
+  "power": 405,
+  "pokemonId": 434
+}, {
+  "id": 435,
+  "hp": 95,
+  "attack": 109,
+  "defend": 105,
+  "spAttack": 75,
+  "spDefend": 85,
+  "speed": 56,
+  "power": 525,
+  "pokemonId": 435
+}, {
+  "id": 436,
+  "hp": 44,
+  "attack": 58,
+  "defend": 44,
+  "spAttack": 58,
+  "spDefend": 44,
+  "speed": 61,
+  "power": 309,
+  "pokemonId": 436
+}, {
+  "id": 437,
+  "hp": 64,
+  "attack": 78,
+  "defend": 52,
+  "spAttack": 78,
+  "spDefend": 52,
+  "speed": 81,
+  "power": 405,
+  "pokemonId": 437
+}, {
+  "id": 438,
+  "hp": 76,
+  "attack": 104,
+  "defend": 71,
+  "spAttack": 104,
+  "spDefend": 71,
+  "speed": 108,
+  "power": 534,
+  "pokemonId": 438
+}, {
+  "id": 439,
+  "hp": 53,
+  "attack": 51,
+  "defend": 53,
+  "spAttack": 61,
+  "spDefend": 56,
+  "speed": 40,
+  "power": 314,
+  "pokemonId": 439
+}, {
+  "id": 440,
+  "hp": 64,
+  "attack": 66,
+  "defend": 68,
+  "spAttack": 81,
+  "spDefend": 76,
+  "speed": 50,
+  "power": 405,
+  "pokemonId": 440
+}, {
+  "id": 441,
+  "hp": 84,
+  "attack": 86,
+  "defend": 88,
+  "spAttack": 111,
+  "spDefend": 101,
+  "speed": 60,
+  "power": 530,
+  "pokemonId": 441
+}, {
+  "id": 442,
+  "hp": 40,
+  "attack": 55,
+  "defend": 30,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 60,
+  "power": 245,
+  "pokemonId": 442
+}, {
+  "id": 443,
+  "hp": 55,
+  "attack": 75,
+  "defend": 50,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 80,
+  "power": 340,
+  "pokemonId": 443
+}, {
+  "id": 444,
+  "hp": 85,
+  "attack": 120,
+  "defend": 70,
+  "spAttack": 50,
+  "spDefend": 60,
+  "speed": 100,
+  "power": 485,
+  "pokemonId": 444
+}, {
+  "id": 445,
+  "hp": 59,
+  "attack": 45,
+  "defend": 40,
+  "spAttack": 35,
+  "spDefend": 40,
+  "speed": 31,
+  "power": 250,
+  "pokemonId": 445
+}, {
+  "id": 446,
+  "hp": 79,
+  "attack": 85,
+  "defend": 60,
+  "spAttack": 55,
+  "spDefend": 60,
+  "speed": 71,
+  "power": 410,
+  "pokemonId": 446
+}, {
+  "id": 447,
+  "hp": 37,
+  "attack": 25,
+  "defend": 41,
+  "spAttack": 25,
+  "spDefend": 41,
+  "speed": 25,
+  "power": 194,
+  "pokemonId": 447
+}, {
+  "id": 448,
+  "hp": 77,
+  "attack": 85,
+  "defend": 51,
+  "spAttack": 55,
+  "spDefend": 51,
+  "speed": 65,
+  "power": 384,
+  "pokemonId": 448
+}, {
+  "id": 449,
+  "hp": 45,
+  "attack": 65,
+  "defend": 34,
+  "spAttack": 40,
+  "spDefend": 34,
+  "speed": 45,
+  "power": 263,
+  "pokemonId": 449
+}, {
+  "id": 450,
+  "hp": 60,
+  "attack": 85,
+  "defend": 49,
+  "spAttack": 60,
+  "spDefend": 49,
+  "speed": 60,
+  "power": 363,
+  "pokemonId": 450
+}, {
+  "id": 451,
+  "hp": 80,
+  "attack": 120,
+  "defend": 79,
+  "spAttack": 95,
+  "spDefend": 79,
+  "speed": 70,
+  "power": 523,
+  "pokemonId": 451
+}, {
+  "id": 452,
+  "hp": 40,
+  "attack": 30,
+  "defend": 35,
+  "spAttack": 50,
+  "spDefend": 70,
+  "speed": 55,
+  "power": 280,
+  "pokemonId": 452
+}, {
+  "id": 453,
+  "hp": 60,
+  "attack": 70,
+  "defend": 65,
+  "spAttack": 125,
+  "spDefend": 105,
+  "speed": 90,
+  "power": 515,
+  "pokemonId": 453
+}, {
+  "id": 454,
+  "hp": 67,
+  "attack": 125,
+  "defend": 40,
+  "spAttack": 30,
+  "spDefend": 30,
+  "speed": 58,
+  "power": 350,
+  "pokemonId": 454
+}, {
+  "id": 455,
+  "hp": 97,
+  "attack": 165,
+  "defend": 60,
+  "spAttack": 65,
+  "spDefend": 50,
+  "speed": 58,
+  "power": 495,
+  "pokemonId": 455
+}, {
+  "id": 456,
+  "hp": 30,
+  "attack": 42,
+  "defend": 118,
+  "spAttack": 42,
+  "spDefend": 88,
+  "speed": 30,
+  "power": 350,
+  "pokemonId": 456
+}, {
+  "id": 457,
+  "hp": 60,
+  "attack": 52,
+  "defend": 168,
+  "spAttack": 47,
+  "spDefend": 138,
+  "speed": 30,
+  "power": 495,
+  "pokemonId": 457
+}, {
+  "id": 458,
+  "hp": 40,
+  "attack": 29,
+  "defend": 45,
+  "spAttack": 29,
+  "spDefend": 45,
+  "speed": 36,
+  "power": 224,
+  "pokemonId": 458
+}, {
+  "id": 459,
+  "hp": 60,
+  "attack": 59,
+  "defend": 85,
+  "spAttack": 79,
+  "spDefend": 105,
+  "speed": 36,
+  "power": 424,
+  "pokemonId": 459
+}, {
+  "id": 460,
+  "hp": 60,
+  "attack": 79,
+  "defend": 105,
+  "spAttack": 59,
+  "spDefend": 85,
+  "speed": 36,
+  "power": 424,
+  "pokemonId": 460
+}, {
+  "id": 461,
+  "hp": 60,
+  "attack": 69,
+  "defend": 95,
+  "spAttack": 69,
+  "spDefend": 95,
+  "speed": 36,
+  "power": 424,
+  "pokemonId": 461
+}, {
+  "id": 462,
+  "hp": 70,
+  "attack": 94,
+  "defend": 50,
+  "spAttack": 94,
+  "spDefend": 50,
+  "speed": 66,
+  "power": 424,
+  "pokemonId": 462
+}, {
+  "id": 463,
+  "hp": 30,
+  "attack": 30,
+  "defend": 42,
+  "spAttack": 30,
+  "spDefend": 42,
+  "speed": 70,
+  "power": 244,
+  "pokemonId": 463
+}, {
+  "id": 464,
+  "hp": 70,
+  "attack": 80,
+  "defend": 102,
+  "spAttack": 80,
+  "spDefend": 102,
+  "speed": 40,
+  "power": 474,
+  "pokemonId": 464
+}, {
+  "id": 465,
+  "hp": 60,
+  "attack": 45,
+  "defend": 70,
+  "spAttack": 45,
+  "spDefend": 90,
+  "speed": 95,
+  "power": 405,
+  "pokemonId": 465
+}, {
+  "id": 466,
+  "hp": 55,
+  "attack": 65,
+  "defend": 35,
+  "spAttack": 60,
+  "spDefend": 30,
+  "speed": 85,
+  "power": 330,
+  "pokemonId": 466
+}, {
+  "id": 467,
+  "hp": 85,
+  "attack": 105,
+  "defend": 55,
+  "spAttack": 85,
+  "spDefend": 50,
+  "speed": 115,
+  "power": 495,
+  "pokemonId": 467
+}, {
+  "id": 468,
+  "hp": 45,
+  "attack": 35,
+  "defend": 45,
+  "spAttack": 62,
+  "spDefend": 53,
+  "speed": 35,
+  "power": 275,
+  "pokemonId": 468
+}, {
+  "id": 469,
+  "hp": 70,
+  "attack": 60,
+  "defend": 70,
+  "spAttack": 87,
+  "spDefend": 78,
+  "speed": 85,
+  "power": 450,
+  "pokemonId": 469
+}, {
+  "id": 470,
+  "hp": 76,
+  "attack": 48,
+  "defend": 48,
+  "spAttack": 57,
+  "spDefend": 62,
+  "speed": 34,
+  "power": 325,
+  "pokemonId": 470
+}, {
+  "id": 471,
+  "hp": 111,
+  "attack": 83,
+  "defend": 68,
+  "spAttack": 92,
+  "spDefend": 82,
+  "speed": 39,
+  "power": 475,
+  "pokemonId": 471
+}, {
+  "id": 472,
+  "hp": 75,
+  "attack": 100,
+  "defend": 66,
+  "spAttack": 60,
+  "spDefend": 66,
+  "speed": 115,
+  "power": 482,
+  "pokemonId": 472
+}, {
+  "id": 473,
+  "hp": 90,
+  "attack": 50,
+  "defend": 34,
+  "spAttack": 60,
+  "spDefend": 44,
+  "speed": 70,
+  "power": 348,
+  "pokemonId": 473
+}, {
+  "id": 474,
+  "hp": 150,
+  "attack": 80,
+  "defend": 44,
+  "spAttack": 90,
+  "spDefend": 54,
+  "speed": 80,
+  "power": 498,
+  "pokemonId": 474
+}, {
+  "id": 475,
+  "hp": 55,
+  "attack": 66,
+  "defend": 44,
+  "spAttack": 44,
+  "spDefend": 56,
+  "speed": 85,
+  "power": 350,
+  "pokemonId": 475
+}, {
+  "id": 476,
+  "hp": 65,
+  "attack": 76,
+  "defend": 84,
+  "spAttack": 54,
+  "spDefend": 96,
+  "speed": 105,
+  "power": 480,
+  "pokemonId": 476
+}, {
+  "id": 477,
+  "hp": 65,
+  "attack": 136,
+  "defend": 94,
+  "spAttack": 54,
+  "spDefend": 96,
+  "speed": 135,
+  "power": 580,
+  "pokemonId": 477
+}, {
+  "id": 478,
+  "hp": 60,
+  "attack": 60,
+  "defend": 60,
+  "spAttack": 105,
+  "spDefend": 105,
+  "speed": 105,
+  "power": 495,
+  "pokemonId": 478
+}, {
+  "id": 479,
+  "hp": 100,
+  "attack": 125,
+  "defend": 52,
+  "spAttack": 105,
+  "spDefend": 52,
+  "speed": 71,
+  "power": 505,
+  "pokemonId": 479
+}, {
+  "id": 480,
+  "hp": 49,
+  "attack": 55,
+  "defend": 42,
+  "spAttack": 42,
+  "spDefend": 37,
+  "speed": 85,
+  "power": 310,
+  "pokemonId": 480
+}, {
+  "id": 481,
+  "hp": 71,
+  "attack": 82,
+  "defend": 64,
+  "spAttack": 64,
+  "spDefend": 59,
+  "speed": 112,
+  "power": 452,
+  "pokemonId": 481
+}, {
+  "id": 482,
+  "hp": 45,
+  "attack": 30,
+  "defend": 50,
+  "spAttack": 65,
+  "spDefend": 50,
+  "speed": 45,
+  "power": 285,
+  "pokemonId": 482
+}, {
+  "id": 483,
+  "hp": 63,
+  "attack": 63,
+  "defend": 47,
+  "spAttack": 41,
+  "spDefend": 41,
+  "speed": 74,
+  "power": 329,
+  "pokemonId": 483
+}, {
+  "id": 484,
+  "hp": 103,
+  "attack": 93,
+  "defend": 67,
+  "spAttack": 71,
+  "spDefend": 61,
+  "speed": 84,
+  "power": 479,
+  "pokemonId": 484
+}, {
+  "id": 485,
+  "hp": 57,
+  "attack": 24,
+  "defend": 86,
+  "spAttack": 24,
+  "spDefend": 86,
+  "speed": 23,
+  "power": 300,
+  "pokemonId": 485
+}, {
+  "id": 486,
+  "hp": 67,
+  "attack": 89,
+  "defend": 116,
+  "spAttack": 79,
+  "spDefend": 116,
+  "speed": 33,
+  "power": 500,
+  "pokemonId": 486
+}, {
+  "id": 487,
+  "hp": 50,
+  "attack": 80,
+  "defend": 95,
+  "spAttack": 10,
+  "spDefend": 45,
+  "speed": 10,
+  "power": 290,
+  "pokemonId": 487
+}, {
+  "id": 488,
+  "hp": 20,
+  "attack": 25,
+  "defend": 45,
+  "spAttack": 70,
+  "spDefend": 90,
+  "speed": 60,
+  "power": 310,
+  "pokemonId": 488
+}, {
+  "id": 489,
+  "hp": 100,
+  "attack": 5,
+  "defend": 5,
+  "spAttack": 15,
+  "spDefend": 65,
+  "speed": 30,
+  "power": 220,
+  "pokemonId": 489
+}, {
+  "id": 490,
+  "hp": 76,
+  "attack": 65,
+  "defend": 45,
+  "spAttack": 92,
+  "spDefend": 42,
+  "speed": 91,
+  "power": 411,
+  "pokemonId": 490
+}, {
+  "id": 491,
+  "hp": 50,
+  "attack": 92,
+  "defend": 108,
+  "spAttack": 92,
+  "spDefend": 108,
+  "speed": 35,
+  "power": 485,
+  "pokemonId": 491
+}, {
+  "id": 492,
+  "hp": 58,
+  "attack": 70,
+  "defend": 45,
+  "spAttack": 40,
+  "spDefend": 45,
+  "speed": 42,
+  "power": 300,
+  "pokemonId": 492
+}, {
+  "id": 493,
+  "hp": 68,
+  "attack": 90,
+  "defend": 65,
+  "spAttack": 50,
+  "spDefend": 55,
+  "speed": 82,
+  "power": 410,
+  "pokemonId": 493
+}, {
+  "id": 494,
+  "hp": 108,
+  "attack": 130,
+  "defend": 95,
+  "spAttack": 80,
+  "spDefend": 85,
+  "speed": 102,
+  "power": 600,
+  "pokemonId": 494
+}, {
+  "id": 495,
+  "hp": 108,
+  "attack": 170,
+  "defend": 115,
+  "spAttack": 120,
+  "spDefend": 95,
+  "speed": 92,
+  "power": 700,
+  "pokemonId": 495
+}, {
+  "id": 496,
+  "hp": 135,
+  "attack": 85,
+  "defend": 40,
+  "spAttack": 40,
+  "spDefend": 85,
+  "speed": 5,
+  "power": 390,
+  "pokemonId": 496
+}, {
+  "id": 497,
+  "hp": 40,
+  "attack": 70,
+  "defend": 40,
+  "spAttack": 35,
+  "spDefend": 40,
+  "speed": 60,
+  "power": 285,
+  "pokemonId": 497
+}, {
+  "id": 498,
+  "hp": 70,
+  "attack": 110,
+  "defend": 70,
+  "spAttack": 115,
+  "spDefend": 70,
+  "speed": 90,
+  "power": 525,
+  "pokemonId": 498
+}, {
+  "id": 499,
+  "hp": 70,
+  "attack": 145,
+  "defend": 88,
+  "spAttack": 140,
+  "spDefend": 70,
+  "speed": 112,
+  "power": 625,
+  "pokemonId": 499
+}, {
+  "id": 500,
+  "hp": 68,
+  "attack": 72,
+  "defend": 78,
+  "spAttack": 38,
+  "spDefend": 42,
+  "speed": 32,
+  "power": 330,
+  "pokemonId": 500
+}, {
+  "id": 501,
+  "hp": 108,
+  "attack": 112,
+  "defend": 118,
+  "spAttack": 68,
+  "spDefend": 72,
+  "speed": 47,
+  "power": 525,
+  "pokemonId": 501
+}, {
+  "id": 502,
+  "hp": 40,
+  "attack": 50,
+  "defend": 90,
+  "spAttack": 30,
+  "spDefend": 55,
+  "speed": 65,
+  "power": 330,
+  "pokemonId": 502
+}, {
+  "id": 503,
+  "hp": 70,
+  "attack": 90,
+  "defend": 110,
+  "spAttack": 60,
+  "spDefend": 75,
+  "speed": 95,
+  "power": 500,
+  "pokemonId": 503
+}, {
+  "id": 504,
+  "hp": 48,
+  "attack": 61,
+  "defend": 40,
+  "spAttack": 61,
+  "spDefend": 40,
+  "speed": 50,
+  "power": 300,
+  "pokemonId": 504
+}, {
+  "id": 505,
+  "hp": 83,
+  "attack": 106,
+  "defend": 65,
+  "spAttack": 86,
+  "spDefend": 65,
+  "speed": 85,
+  "power": 490,
+  "pokemonId": 505
+}, {
+  "id": 506,
+  "hp": 74,
+  "attack": 100,
+  "defend": 72,
+  "spAttack": 90,
+  "spDefend": 72,
+  "speed": 46,
+  "power": 454,
+  "pokemonId": 506
+}, {
+  "id": 507,
+  "hp": 49,
+  "attack": 49,
+  "defend": 56,
+  "spAttack": 49,
+  "spDefend": 61,
+  "speed": 66,
+  "power": 330,
+  "pokemonId": 507
+}, {
+  "id": 508,
+  "hp": 69,
+  "attack": 69,
+  "defend": 76,
+  "spAttack": 69,
+  "spDefend": 86,
+  "speed": 91,
+  "power": 460,
+  "pokemonId": 508
+}, {
+  "id": 509,
+  "hp": 45,
+  "attack": 20,
+  "defend": 50,
+  "spAttack": 60,
+  "spDefend": 120,
+  "speed": 50,
+  "power": 345,
+  "pokemonId": 509
+}, {
+  "id": 510,
+  "hp": 60,
+  "attack": 62,
+  "defend": 50,
+  "spAttack": 62,
+  "spDefend": 60,
+  "speed": 40,
+  "power": 334,
+  "pokemonId": 510
+}, {
+  "id": 511,
+  "hp": 90,
+  "attack": 92,
+  "defend": 75,
+  "spAttack": 92,
+  "spDefend": 85,
+  "speed": 60,
+  "power": 494,
+  "pokemonId": 511
+}, {
+  "id": 512,
+  "hp": 90,
+  "attack": 132,
+  "defend": 105,
+  "spAttack": 132,
+  "spDefend": 105,
+  "speed": 30,
+  "power": 594,
+  "pokemonId": 512
+}, {
+  "id": 513,
+  "hp": 70,
+  "attack": 120,
+  "defend": 65,
+  "spAttack": 45,
+  "spDefend": 85,
+  "speed": 125,
+  "power": 510,
+  "pokemonId": 513
+}, {
+  "id": 514,
+  "hp": 70,
+  "attack": 70,
+  "defend": 115,
+  "spAttack": 130,
+  "spDefend": 90,
+  "speed": 60,
+  "power": 535,
+  "pokemonId": 514
+}, {
+  "id": 515,
+  "hp": 110,
+  "attack": 85,
+  "defend": 95,
+  "spAttack": 80,
+  "spDefend": 95,
+  "speed": 50,
+  "power": 515,
+  "pokemonId": 515
+}, {
+  "id": 516,
+  "hp": 115,
+  "attack": 140,
+  "defend": 130,
+  "spAttack": 55,
+  "spDefend": 55,
+  "speed": 40,
+  "power": 535,
+  "pokemonId": 516
+}, {
+  "id": 517,
+  "hp": 100,
+  "attack": 100,
+  "defend": 125,
+  "spAttack": 110,
+  "spDefend": 50,
+  "speed": 50,
+  "power": 535,
+  "pokemonId": 517
+}, {
+  "id": 518,
+  "hp": 75,
+  "attack": 123,
+  "defend": 67,
+  "spAttack": 95,
+  "spDefend": 85,
+  "speed": 95,
+  "power": 540,
+  "pokemonId": 518
+}, {
+  "id": 519,
+  "hp": 75,
+  "attack": 95,
+  "defend": 67,
+  "spAttack": 125,
+  "spDefend": 95,
+  "speed": 83,
+  "power": 540,
+  "pokemonId": 519
+}, {
+  "id": 520,
+  "hp": 85,
+  "attack": 50,
+  "defend": 95,
+  "spAttack": 120,
+  "spDefend": 115,
+  "speed": 80,
+  "power": 545,
+  "pokemonId": 520
+}, {
+  "id": 521,
+  "hp": 86,
+  "attack": 76,
+  "defend": 86,
+  "spAttack": 116,
+  "spDefend": 56,
+  "speed": 95,
+  "power": 515,
+  "pokemonId": 521
+}, {
+  "id": 522,
+  "hp": 65,
+  "attack": 110,
+  "defend": 130,
+  "spAttack": 60,
+  "spDefend": 65,
+  "speed": 95,
+  "power": 525,
+  "pokemonId": 522
+}, {
+  "id": 523,
+  "hp": 65,
+  "attack": 60,
+  "defend": 110,
+  "spAttack": 130,
+  "spDefend": 95,
+  "speed": 65,
+  "power": 525,
+  "pokemonId": 523
+}, {
+  "id": 524,
+  "hp": 75,
+  "attack": 95,
+  "defend": 125,
+  "spAttack": 45,
+  "spDefend": 75,
+  "speed": 95,
+  "power": 510,
+  "pokemonId": 524
+}, {
+  "id": 525,
+  "hp": 110,
+  "attack": 130,
+  "defend": 80,
+  "spAttack": 70,
+  "spDefend": 60,
+  "speed": 80,
+  "power": 530,
+  "pokemonId": 525
+}, {
+  "id": 526,
+  "hp": 85,
+  "attack": 80,
+  "defend": 70,
+  "spAttack": 135,
+  "spDefend": 75,
+  "speed": 90,
+  "power": 535,
+  "pokemonId": 526
+}, {
+  "id": 527,
+  "hp": 68,
+  "attack": 125,
+  "defend": 65,
+  "spAttack": 65,
+  "spDefend": 115,
+  "speed": 80,
+  "power": 518,
+  "pokemonId": 527
+}, {
+  "id": 528,
+  "hp": 68,
+  "attack": 165,
+  "defend": 95,
+  "spAttack": 65,
+  "spDefend": 115,
+  "speed": 110,
+  "power": 618,
+  "pokemonId": 528
+}, {
+  "id": 529,
+  "hp": 60,
+  "attack": 55,
+  "defend": 145,
+  "spAttack": 75,
+  "spDefend": 150,
+  "speed": 40,
+  "power": 525,
+  "pokemonId": 529
+}, {
+  "id": 530,
+  "hp": 45,
+  "attack": 100,
+  "defend": 135,
+  "spAttack": 65,
+  "spDefend": 135,
+  "speed": 45,
+  "power": 525,
+  "pokemonId": 530
+}, {
+  "id": 531,
+  "hp": 70,
+  "attack": 80,
+  "defend": 70,
+  "spAttack": 80,
+  "spDefend": 70,
+  "speed": 110,
+  "power": 480,
+  "pokemonId": 531
+}, {
+  "id": 532,
+  "hp": 50,
+  "attack": 50,
+  "defend": 77,
+  "spAttack": 95,
+  "spDefend": 77,
+  "speed": 91,
+  "power": 440,
+  "pokemonId": 532
+}, {
+  "id": 533,
+  "hp": 50,
+  "attack": 65,
+  "defend": 107,
+  "spAttack": 105,
+  "spDefend": 107,
+  "speed": 86,
+  "power": 520,
+  "pokemonId": 533
+}, {
+  "id": 534,
+  "hp": 50,
+  "attack": 65,
+  "defend": 107,
+  "spAttack": 105,
+  "spDefend": 107,
+  "speed": 86,
+  "power": 520,
+  "pokemonId": 534
+}, {
+  "id": 535,
+  "hp": 50,
+  "attack": 65,
+  "defend": 107,
+  "spAttack": 105,
+  "spDefend": 107,
+  "speed": 86,
+  "power": 520,
+  "pokemonId": 535
+}, {
+  "id": 536,
+  "hp": 50,
+  "attack": 65,
+  "defend": 107,
+  "spAttack": 105,
+  "spDefend": 107,
+  "speed": 86,
+  "power": 520,
+  "pokemonId": 536
+}, {
+  "id": 537,
+  "hp": 50,
+  "attack": 65,
+  "defend": 107,
+  "spAttack": 105,
+  "spDefend": 107,
+  "speed": 86,
+  "power": 520,
+  "pokemonId": 537
+}, {
+  "id": 538,
+  "hp": 75,
+  "attack": 75,
+  "defend": 130,
+  "spAttack": 75,
+  "spDefend": 130,
+  "speed": 95,
+  "power": 580,
+  "pokemonId": 538
+}, {
+  "id": 539,
+  "hp": 80,
+  "attack": 105,
+  "defend": 105,
+  "spAttack": 105,
+  "spDefend": 105,
+  "speed": 80,
+  "power": 580,
+  "pokemonId": 539
+}, {
+  "id": 540,
+  "hp": 75,
+  "attack": 125,
+  "defend": 70,
+  "spAttack": 125,
+  "spDefend": 70,
+  "speed": 115,
+  "power": 580,
+  "pokemonId": 540
+}, {
+  "id": 541,
+  "hp": 100,
+  "attack": 120,
+  "defend": 120,
+  "spAttack": 150,
+  "spDefend": 100,
+  "speed": 90,
+  "power": 680,
+  "pokemonId": 541
+}, {
+  "id": 542,
+  "hp": 90,
+  "attack": 120,
+  "defend": 100,
+  "spAttack": 150,
+  "spDefend": 120,
+  "speed": 100,
+  "power": 680,
+  "pokemonId": 542
+}, {
+  "id": 543,
+  "hp": 91,
+  "attack": 90,
+  "defend": 106,
+  "spAttack": 130,
+  "spDefend": 106,
+  "speed": 77,
+  "power": 600,
+  "pokemonId": 543
+}, {
+  "id": 544,
+  "hp": 110,
+  "attack": 160,
+  "defend": 110,
+  "spAttack": 80,
+  "spDefend": 110,
+  "speed": 100,
+  "power": 670,
+  "pokemonId": 544
+}, {
+  "id": 545,
+  "hp": 150,
+  "attack": 100,
+  "defend": 120,
+  "spAttack": 100,
+  "spDefend": 120,
+  "speed": 90,
+  "power": 680,
+  "pokemonId": 545
+}, {
+  "id": 546,
+  "hp": 150,
+  "attack": 120,
+  "defend": 100,
+  "spAttack": 120,
+  "spDefend": 100,
+  "speed": 90,
+  "power": 680,
+  "pokemonId": 546
+}, {
+  "id": 547,
+  "hp": 120,
+  "attack": 70,
+  "defend": 120,
+  "spAttack": 75,
+  "spDefend": 130,
+  "speed": 85,
+  "power": 600,
+  "pokemonId": 547
+}, {
+  "id": 548,
+  "hp": 80,
+  "attack": 80,
+  "defend": 80,
+  "spAttack": 80,
+  "spDefend": 80,
+  "speed": 80,
+  "power": 480,
+  "pokemonId": 548
+}, {
+  "id": 549,
+  "hp": 100,
+  "attack": 100,
+  "defend": 100,
+  "spAttack": 100,
+  "spDefend": 100,
+  "speed": 100,
+  "power": 600,
+  "pokemonId": 549
+}, {
+  "id": 550,
+  "hp": 70,
+  "attack": 90,
+  "defend": 90,
+  "spAttack": 135,
+  "spDefend": 90,
+  "speed": 125,
+  "power": 600,
+  "pokemonId": 550
+}, {
+  "id": 551,
+  "hp": 100,
+  "attack": 100,
+  "defend": 100,
+  "spAttack": 100,
+  "spDefend": 100,
+  "speed": 100,
+  "power": 600,
+  "pokemonId": 551
+}, {
+  "id": 552,
+  "hp": 100,
+  "attack": 103,
+  "defend": 75,
+  "spAttack": 120,
+  "spDefend": 75,
+  "speed": 127,
+  "power": 600,
+  "pokemonId": 552
+}, {
+  "id": 553,
+  "hp": 120,
+  "attack": 120,
+  "defend": 120,
+  "spAttack": 120,
+  "spDefend": 120,
+  "speed": 120,
+  "power": 720,
+  "pokemonId": 553
+}, {
+  "id": 554,
+  "hp": 100,
+  "attack": 100,
+  "defend": 100,
+  "spAttack": 100,
+  "spDefend": 100,
+  "speed": 100,
+  "power": 600,
+  "pokemonId": 554
+}, {
+  "id": 555,
+  "hp": 45,
+  "attack": 45,
+  "defend": 55,
+  "spAttack": 45,
+  "spDefend": 55,
+  "speed": 63,
+  "power": 308,
+  "pokemonId": 555
+}, {
+  "id": 556,
+  "hp": 60,
+  "attack": 60,
+  "defend": 75,
+  "spAttack": 60,
+  "spDefend": 75,
+  "speed": 83,
+  "power": 413,
+  "pokemonId": 556
+}, {
+  "id": 557,
+  "hp": 75,
+  "attack": 75,
+  "defend": 95,
+  "spAttack": 75,
+  "spDefend": 95,
+  "speed": 113,
+  "power": 528,
+  "pokemonId": 557
+}, {
+  "id": 558,
+  "hp": 65,
+  "attack": 63,
+  "defend": 45,
+  "spAttack": 45,
+  "spDefend": 45,
+  "speed": 45,
+  "power": 308,
+  "pokemonId": 558
+}, {
+  "id": 559,
+  "hp": 90,
+  "attack": 93,
+  "defend": 55,
+  "spAttack": 70,
+  "spDefend": 55,
+  "speed": 55,
+  "power": 418,
+  "pokemonId": 559
+}, {
+  "id": 560,
+  "hp": 110,
+  "attack": 123,
+  "defend": 65,
+  "spAttack": 100,
+  "spDefend": 65,
+  "speed": 65,
+  "power": 528,
+  "pokemonId": 560
+}, {
+  "id": 561,
+  "hp": 55,
+  "attack": 55,
+  "defend": 45,
+  "spAttack": 63,
+  "spDefend": 45,
+  "speed": 45,
+  "power": 308,
+  "pokemonId": 561
+}, {
+  "id": 562,
+  "hp": 75,
+  "attack": 75,
+  "defend": 60,
+  "spAttack": 83,
+  "spDefend": 60,
+  "speed": 60,
+  "power": 413,
+  "pokemonId": 562
+}, {
+  "id": 563,
+  "hp": 95,
+  "attack": 100,
+  "defend": 85,
+  "spAttack": 108,
+  "spDefend": 70,
+  "speed": 70,
+  "power": 528,
+  "pokemonId": 563
+}, {
+  "id": 564,
+  "hp": 45,
+  "attack": 55,
+  "defend": 39,
+  "spAttack": 35,
+  "spDefend": 39,
+  "speed": 42,
+  "power": 255,
+  "pokemonId": 564
+}, {
+  "id": 565,
+  "hp": 60,
+  "attack": 85,
+  "defend": 69,
+  "spAttack": 60,
+  "spDefend": 69,
+  "speed": 77,
+  "power": 420,
+  "pokemonId": 565
+}, {
+  "id": 566,
+  "hp": 45,
+  "attack": 60,
+  "defend": 45,
+  "spAttack": 25,
+  "spDefend": 45,
+  "speed": 55,
+  "power": 275,
+  "pokemonId": 566
+}, {
+  "id": 567,
+  "hp": 65,
+  "attack": 80,
+  "defend": 65,
+  "spAttack": 35,
+  "spDefend": 65,
+  "speed": 60,
+  "power": 370,
+  "pokemonId": 567
+}, {
+  "id": 568,
+  "hp": 85,
+  "attack": 110,
+  "defend": 90,
+  "spAttack": 45,
+  "spDefend": 90,
+  "speed": 80,
+  "power": 500,
+  "pokemonId": 568
+}, {
+  "id": 569,
+  "hp": 41,
+  "attack": 50,
+  "defend": 37,
+  "spAttack": 50,
+  "spDefend": 37,
+  "speed": 66,
+  "power": 281,
+  "pokemonId": 569
+}, {
+  "id": 570,
+  "hp": 64,
+  "attack": 88,
+  "defend": 50,
+  "spAttack": 88,
+  "spDefend": 50,
+  "speed": 106,
+  "power": 446,
+  "pokemonId": 570
+}, {
+  "id": 571,
+  "hp": 50,
+  "attack": 53,
+  "defend": 48,
+  "spAttack": 53,
+  "spDefend": 48,
+  "speed": 64,
+  "power": 316,
+  "pokemonId": 571
+}, {
+  "id": 572,
+  "hp": 75,
+  "attack": 98,
+  "defend": 63,
+  "spAttack": 98,
+  "spDefend": 63,
+  "speed": 101,
+  "power": 498,
+  "pokemonId": 572
+}, {
+  "id": 573,
+  "hp": 50,
+  "attack": 53,
+  "defend": 48,
+  "spAttack": 53,
+  "spDefend": 48,
+  "speed": 64,
+  "power": 316,
+  "pokemonId": 573
+}, {
+  "id": 574,
+  "hp": 75,
+  "attack": 98,
+  "defend": 63,
+  "spAttack": 98,
+  "spDefend": 63,
+  "speed": 101,
+  "power": 498,
+  "pokemonId": 574
+}, {
+  "id": 575,
+  "hp": 50,
+  "attack": 53,
+  "defend": 48,
+  "spAttack": 53,
+  "spDefend": 48,
+  "speed": 64,
+  "power": 316,
+  "pokemonId": 575
+}, {
+  "id": 576,
+  "hp": 75,
+  "attack": 98,
+  "defend": 63,
+  "spAttack": 98,
+  "spDefend": 63,
+  "speed": 101,
+  "power": 498,
+  "pokemonId": 576
+}, {
+  "id": 577,
+  "hp": 76,
+  "attack": 25,
+  "defend": 45,
+  "spAttack": 67,
+  "spDefend": 55,
+  "speed": 24,
+  "power": 292,
+  "pokemonId": 577
+}, {
+  "id": 578,
+  "hp": 116,
+  "attack": 55,
+  "defend": 85,
+  "spAttack": 107,
+  "spDefend": 95,
+  "speed": 29,
+  "power": 487,
+  "pokemonId": 578
+}, {
+  "id": 579,
+  "hp": 50,
+  "attack": 55,
+  "defend": 50,
+  "spAttack": 36,
+  "spDefend": 30,
+  "speed": 43,
+  "power": 264,
+  "pokemonId": 579
+}, {
+  "id": 580,
+  "hp": 62,
+  "attack": 77,
+  "defend": 62,
+  "spAttack": 50,
+  "spDefend": 42,
+  "speed": 65,
+  "power": 358,
+  "pokemonId": 580
+}, {
+  "id": 581,
+  "hp": 80,
+  "attack": 115,
+  "defend": 80,
+  "spAttack": 65,
+  "spDefend": 55,
+  "speed": 93,
+  "power": 488,
+  "pokemonId": 581
+}, {
+  "id": 582,
+  "hp": 45,
+  "attack": 60,
+  "defend": 32,
+  "spAttack": 50,
+  "spDefend": 32,
+  "speed": 76,
+  "power": 295,
+  "pokemonId": 582
+}, {
+  "id": 583,
+  "hp": 75,
+  "attack": 100,
+  "defend": 63,
+  "spAttack": 80,
+  "spDefend": 63,
+  "speed": 116,
+  "power": 497,
+  "pokemonId": 583
+}, {
+  "id": 584,
+  "hp": 55,
+  "attack": 75,
+  "defend": 85,
+  "spAttack": 25,
+  "spDefend": 25,
+  "speed": 15,
+  "power": 280,
+  "pokemonId": 584
+}, {
+  "id": 585,
+  "hp": 70,
+  "attack": 105,
+  "defend": 105,
+  "spAttack": 50,
+  "spDefend": 40,
+  "speed": 20,
+  "power": 390,
+  "pokemonId": 585
+}, {
+  "id": 586,
+  "hp": 85,
+  "attack": 135,
+  "defend": 130,
+  "spAttack": 60,
+  "spDefend": 80,
+  "speed": 25,
+  "power": 515,
+  "pokemonId": 586
+}, {
+  "id": 587,
+  "hp": 55,
+  "attack": 45,
+  "defend": 43,
+  "spAttack": 55,
+  "spDefend": 43,
+  "speed": 72,
+  "power": 313,
+  "pokemonId": 587
+}, {
+  "id": 588,
+  "hp": 67,
+  "attack": 57,
+  "defend": 55,
+  "spAttack": 77,
+  "spDefend": 55,
+  "speed": 114,
+  "power": 425,
+  "pokemonId": 588
+}, {
+  "id": 589,
+  "hp": 60,
+  "attack": 85,
+  "defend": 40,
+  "spAttack": 30,
+  "spDefend": 45,
+  "speed": 68,
+  "power": 328,
+  "pokemonId": 589
+}, {
+  "id": 590,
+  "hp": 110,
+  "attack": 135,
+  "defend": 60,
+  "spAttack": 50,
+  "spDefend": 65,
+  "speed": 88,
+  "power": 508,
+  "pokemonId": 590
+}, {
+  "id": 591,
+  "hp": 103,
+  "attack": 60,
+  "defend": 86,
+  "spAttack": 60,
+  "spDefend": 86,
+  "speed": 50,
+  "power": 445,
+  "pokemonId": 591
+}, {
+  "id": 592,
+  "hp": 103,
+  "attack": 60,
+  "defend": 126,
+  "spAttack": 80,
+  "spDefend": 126,
+  "speed": 50,
+  "power": 545,
+  "pokemonId": 592
+}, {
+  "id": 593,
+  "hp": 75,
+  "attack": 80,
+  "defend": 55,
+  "spAttack": 25,
+  "spDefend": 35,
+  "speed": 35,
+  "power": 305,
+  "pokemonId": 593
+}, {
+  "id": 594,
+  "hp": 85,
+  "attack": 105,
+  "defend": 85,
+  "spAttack": 40,
+  "spDefend": 50,
+  "speed": 40,
+  "power": 405,
+  "pokemonId": 594
+}, {
+  "id": 595,
+  "hp": 105,
+  "attack": 140,
+  "defend": 95,
+  "spAttack": 55,
+  "spDefend": 65,
+  "speed": 45,
+  "power": 505,
+  "pokemonId": 595
+}, {
+  "id": 596,
+  "hp": 50,
+  "attack": 50,
+  "defend": 40,
+  "spAttack": 50,
+  "spDefend": 40,
+  "speed": 64,
+  "power": 294,
+  "pokemonId": 596
+}, {
+  "id": 597,
+  "hp": 75,
+  "attack": 65,
+  "defend": 55,
+  "spAttack": 65,
+  "spDefend": 55,
+  "speed": 69,
+  "power": 384,
+  "pokemonId": 597
+}, {
+  "id": 598,
+  "hp": 105,
+  "attack": 95,
+  "defend": 75,
+  "spAttack": 85,
+  "spDefend": 75,
+  "speed": 74,
+  "power": 509,
+  "pokemonId": 598
+}, {
+  "id": 599,
+  "hp": 120,
+  "attack": 100,
+  "defend": 85,
+  "spAttack": 30,
+  "spDefend": 85,
+  "speed": 45,
+  "power": 465,
+  "pokemonId": 599
+}, {
+  "id": 600,
+  "hp": 75,
+  "attack": 125,
+  "defend": 75,
+  "spAttack": 30,
+  "spDefend": 75,
+  "speed": 85,
+  "power": 465,
+  "pokemonId": 600
+}, {
+  "id": 601,
+  "hp": 45,
+  "attack": 53,
+  "defend": 70,
+  "spAttack": 40,
+  "spDefend": 60,
+  "speed": 42,
+  "power": 310,
+  "pokemonId": 601
+}, {
+  "id": 602,
+  "hp": 55,
+  "attack": 63,
+  "defend": 90,
+  "spAttack": 50,
+  "spDefend": 80,
+  "speed": 42,
+  "power": 380,
+  "pokemonId": 602
+}, {
+  "id": 603,
+  "hp": 75,
+  "attack": 103,
+  "defend": 80,
+  "spAttack": 70,
+  "spDefend": 80,
+  "speed": 92,
+  "power": 500,
+  "pokemonId": 603
+}, {
+  "id": 604,
+  "hp": 30,
+  "attack": 45,
+  "defend": 59,
+  "spAttack": 30,
+  "spDefend": 39,
+  "speed": 57,
+  "power": 260,
+  "pokemonId": 604
+}, {
+  "id": 605,
+  "hp": 40,
+  "attack": 55,
+  "defend": 99,
+  "spAttack": 40,
+  "spDefend": 79,
+  "speed": 47,
+  "power": 360,
+  "pokemonId": 605
+}, {
+  "id": 606,
+  "hp": 60,
+  "attack": 100,
+  "defend": 89,
+  "spAttack": 55,
+  "spDefend": 69,
+  "speed": 112,
+  "power": 485,
+  "pokemonId": 606
+}, {
+  "id": 607,
+  "hp": 40,
+  "attack": 27,
+  "defend": 60,
+  "spAttack": 37,
+  "spDefend": 50,
+  "speed": 66,
+  "power": 280,
+  "pokemonId": 607
+}, {
+  "id": 608,
+  "hp": 60,
+  "attack": 67,
+  "defend": 85,
+  "spAttack": 77,
+  "spDefend": 75,
+  "speed": 116,
+  "power": 480,
+  "pokemonId": 608
+}, {
+  "id": 609,
+  "hp": 45,
+  "attack": 35,
+  "defend": 50,
+  "spAttack": 70,
+  "spDefend": 50,
+  "speed": 30,
+  "power": 280,
+  "pokemonId": 609
+}, {
+  "id": 610,
+  "hp": 70,
+  "attack": 60,
+  "defend": 75,
+  "spAttack": 110,
+  "spDefend": 75,
+  "speed": 90,
+  "power": 480,
+  "pokemonId": 610
+}, {
+  "id": 611,
+  "hp": 70,
+  "attack": 92,
+  "defend": 65,
+  "spAttack": 80,
+  "spDefend": 55,
+  "speed": 98,
+  "power": 460,
+  "pokemonId": 611
+}, {
+  "id": 612,
+  "hp": 50,
+  "attack": 72,
+  "defend": 35,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 65,
+  "power": 292,
+  "pokemonId": 612
+}, {
+  "id": 613,
+  "hp": 60,
+  "attack": 82,
+  "defend": 45,
+  "spAttack": 45,
+  "spDefend": 45,
+  "speed": 74,
+  "power": 351,
+  "pokemonId": 613
+}, {
+  "id": 614,
+  "hp": 95,
+  "attack": 117,
+  "defend": 80,
+  "spAttack": 65,
+  "spDefend": 70,
+  "speed": 92,
+  "power": 519,
+  "pokemonId": 614
+}, {
+  "id": 615,
+  "hp": 70,
+  "attack": 90,
+  "defend": 45,
+  "spAttack": 15,
+  "spDefend": 45,
+  "speed": 50,
+  "power": 315,
+  "pokemonId": 615
+}, {
+  "id": 616,
+  "hp": 105,
+  "attack": 140,
+  "defend": 55,
+  "spAttack": 30,
+  "spDefend": 55,
+  "speed": 95,
+  "power": 480,
+  "pokemonId": 616
+}, {
+  "id": 617,
+  "hp": 75,
+  "attack": 86,
+  "defend": 67,
+  "spAttack": 106,
+  "spDefend": 67,
+  "speed": 60,
+  "power": 461,
+  "pokemonId": 617
+}, {
+  "id": 618,
+  "hp": 50,
+  "attack": 65,
+  "defend": 85,
+  "spAttack": 35,
+  "spDefend": 35,
+  "speed": 55,
+  "power": 325,
+  "pokemonId": 618
+}, {
+  "id": 619,
+  "hp": 70,
+  "attack": 95,
+  "defend": 125,
+  "spAttack": 65,
+  "spDefend": 75,
+  "speed": 45,
+  "power": 475,
+  "pokemonId": 619
+}, {
+  "id": 620,
+  "hp": 50,
+  "attack": 75,
+  "defend": 70,
+  "spAttack": 35,
+  "spDefend": 70,
+  "speed": 48,
+  "power": 348,
+  "pokemonId": 620
+}, {
+  "id": 621,
+  "hp": 65,
+  "attack": 90,
+  "defend": 115,
+  "spAttack": 45,
+  "spDefend": 115,
+  "speed": 58,
+  "power": 488,
+  "pokemonId": 621
+}, {
+  "id": 622,
+  "hp": 72,
+  "attack": 58,
+  "defend": 80,
+  "spAttack": 103,
+  "spDefend": 80,
+  "speed": 97,
+  "power": 490,
+  "pokemonId": 622
+}, {
+  "id": 623,
+  "hp": 38,
+  "attack": 30,
+  "defend": 85,
+  "spAttack": 55,
+  "spDefend": 65,
+  "speed": 30,
+  "power": 303,
+  "pokemonId": 623
+}, {
+  "id": 624,
+  "hp": 58,
+  "attack": 50,
+  "defend": 145,
+  "spAttack": 95,
+  "spDefend": 105,
+  "speed": 30,
+  "power": 483,
+  "pokemonId": 624
+}, {
+  "id": 625,
+  "hp": 54,
+  "attack": 78,
+  "defend": 103,
+  "spAttack": 53,
+  "spDefend": 45,
+  "speed": 22,
+  "power": 355,
+  "pokemonId": 625
+}, {
+  "id": 626,
+  "hp": 74,
+  "attack": 108,
+  "defend": 133,
+  "spAttack": 83,
+  "spDefend": 65,
+  "speed": 32,
+  "power": 495,
+  "pokemonId": 626
+}, {
+  "id": 627,
+  "hp": 55,
+  "attack": 112,
+  "defend": 45,
+  "spAttack": 74,
+  "spDefend": 45,
+  "speed": 70,
+  "power": 401,
+  "pokemonId": 627
+}, {
+  "id": 628,
+  "hp": 75,
+  "attack": 140,
+  "defend": 65,
+  "spAttack": 112,
+  "spDefend": 65,
+  "speed": 110,
+  "power": 567,
+  "pokemonId": 628
+}, {
+  "id": 629,
+  "hp": 50,
+  "attack": 50,
+  "defend": 62,
+  "spAttack": 40,
+  "spDefend": 62,
+  "speed": 65,
+  "power": 329,
+  "pokemonId": 629
+}, {
+  "id": 630,
+  "hp": 80,
+  "attack": 95,
+  "defend": 82,
+  "spAttack": 60,
+  "spDefend": 82,
+  "speed": 75,
+  "power": 474,
+  "pokemonId": 630
+}, {
+  "id": 631,
+  "hp": 40,
+  "attack": 65,
+  "defend": 40,
+  "spAttack": 80,
+  "spDefend": 40,
+  "speed": 65,
+  "power": 330,
+  "pokemonId": 631
+}, {
+  "id": 632,
+  "hp": 60,
+  "attack": 105,
+  "defend": 60,
+  "spAttack": 120,
+  "spDefend": 60,
+  "speed": 105,
+  "power": 510,
+  "pokemonId": 632
+}, {
+  "id": 633,
+  "hp": 55,
+  "attack": 50,
+  "defend": 40,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 75,
+  "power": 300,
+  "pokemonId": 633
+}, {
+  "id": 634,
+  "hp": 75,
+  "attack": 95,
+  "defend": 60,
+  "spAttack": 65,
+  "spDefend": 60,
+  "speed": 115,
+  "power": 470,
+  "pokemonId": 634
+}, {
+  "id": 635,
+  "hp": 45,
+  "attack": 30,
+  "defend": 50,
+  "spAttack": 55,
+  "spDefend": 65,
+  "speed": 45,
+  "power": 290,
+  "pokemonId": 635
+}, {
+  "id": 636,
+  "hp": 60,
+  "attack": 45,
+  "defend": 70,
+  "spAttack": 75,
+  "spDefend": 85,
+  "speed": 55,
+  "power": 390,
+  "pokemonId": 636
+}, {
+  "id": 637,
+  "hp": 70,
+  "attack": 55,
+  "defend": 95,
+  "spAttack": 95,
+  "spDefend": 110,
+  "speed": 65,
+  "power": 490,
+  "pokemonId": 637
+}, {
+  "id": 638,
+  "hp": 45,
+  "attack": 30,
+  "defend": 40,
+  "spAttack": 105,
+  "spDefend": 50,
+  "speed": 20,
+  "power": 290,
+  "pokemonId": 638
+}, {
+  "id": 639,
+  "hp": 65,
+  "attack": 40,
+  "defend": 50,
+  "spAttack": 125,
+  "spDefend": 60,
+  "speed": 30,
+  "power": 370,
+  "pokemonId": 639
+}, {
+  "id": 640,
+  "hp": 110,
+  "attack": 65,
+  "defend": 75,
+  "spAttack": 125,
+  "spDefend": 85,
+  "speed": 30,
+  "power": 490,
+  "pokemonId": 640
+}, {
+  "id": 641,
+  "hp": 62,
+  "attack": 44,
+  "defend": 50,
+  "spAttack": 44,
+  "spDefend": 50,
+  "speed": 55,
+  "power": 305,
+  "pokemonId": 641
+}, {
+  "id": 642,
+  "hp": 75,
+  "attack": 87,
+  "defend": 63,
+  "spAttack": 87,
+  "spDefend": 63,
+  "speed": 98,
+  "power": 473,
+  "pokemonId": 642
+}, {
+  "id": 643,
+  "hp": 36,
+  "attack": 50,
+  "defend": 50,
+  "spAttack": 65,
+  "spDefend": 60,
+  "speed": 44,
+  "power": 305,
+  "pokemonId": 643
+}, {
+  "id": 644,
+  "hp": 51,
+  "attack": 65,
+  "defend": 65,
+  "spAttack": 80,
+  "spDefend": 75,
+  "speed": 59,
+  "power": 395,
+  "pokemonId": 644
+}, {
+  "id": 645,
+  "hp": 71,
+  "attack": 95,
+  "defend": 85,
+  "spAttack": 110,
+  "spDefend": 95,
+  "speed": 79,
+  "power": 535,
+  "pokemonId": 645
+}, {
+  "id": 646,
+  "hp": 60,
+  "attack": 60,
+  "defend": 50,
+  "spAttack": 40,
+  "spDefend": 50,
+  "speed": 75,
+  "power": 335,
+  "pokemonId": 646
+}, {
+  "id": 647,
+  "hp": 80,
+  "attack": 100,
+  "defend": 70,
+  "spAttack": 60,
+  "spDefend": 70,
+  "speed": 95,
+  "power": 475,
+  "pokemonId": 647
+}, {
+  "id": 648,
+  "hp": 55,
+  "attack": 75,
+  "defend": 60,
+  "spAttack": 75,
+  "spDefend": 60,
+  "speed": 103,
+  "power": 428,
+  "pokemonId": 648
+}, {
+  "id": 649,
+  "hp": 50,
+  "attack": 75,
+  "defend": 45,
+  "spAttack": 40,
+  "spDefend": 45,
+  "speed": 60,
+  "power": 315,
+  "pokemonId": 649
+}, {
+  "id": 650,
+  "hp": 70,
+  "attack": 135,
+  "defend": 105,
+  "spAttack": 60,
+  "spDefend": 105,
+  "speed": 20,
+  "power": 495,
+  "pokemonId": 650
+}, {
+  "id": 651,
+  "hp": 69,
+  "attack": 55,
+  "defend": 45,
+  "spAttack": 55,
+  "spDefend": 55,
+  "speed": 15,
+  "power": 294,
+  "pokemonId": 651
+}, {
+  "id": 652,
+  "hp": 114,
+  "attack": 85,
+  "defend": 70,
+  "spAttack": 85,
+  "spDefend": 80,
+  "speed": 30,
+  "power": 464,
+  "pokemonId": 652
+}, {
+  "id": 653,
+  "hp": 55,
+  "attack": 40,
+  "defend": 50,
+  "spAttack": 65,
+  "spDefend": 85,
+  "speed": 40,
+  "power": 335,
+  "pokemonId": 653
+}, {
+  "id": 654,
+  "hp": 100,
+  "attack": 60,
+  "defend": 70,
+  "spAttack": 85,
+  "spDefend": 105,
+  "speed": 60,
+  "power": 480,
+  "pokemonId": 654
+}, {
+  "id": 655,
+  "hp": 165,
+  "attack": 75,
+  "defend": 80,
+  "spAttack": 40,
+  "spDefend": 45,
+  "speed": 65,
+  "power": 470,
+  "pokemonId": 655
+}, {
+  "id": 656,
+  "hp": 50,
+  "attack": 47,
+  "defend": 50,
+  "spAttack": 57,
+  "spDefend": 50,
+  "speed": 65,
+  "power": 319,
+  "pokemonId": 656
+}, {
+  "id": 657,
+  "hp": 70,
+  "attack": 77,
+  "defend": 60,
+  "spAttack": 97,
+  "spDefend": 60,
+  "speed": 108,
+  "power": 472,
+  "pokemonId": 657
+}, {
+  "id": 658,
+  "hp": 44,
+  "attack": 50,
+  "defend": 91,
+  "spAttack": 24,
+  "spDefend": 86,
+  "speed": 10,
+  "power": 305,
+  "pokemonId": 658
+}, {
+  "id": 659,
+  "hp": 74,
+  "attack": 94,
+  "defend": 131,
+  "spAttack": 54,
+  "spDefend": 116,
+  "speed": 20,
+  "power": 489,
+  "pokemonId": 659
+}, {
+  "id": 660,
+  "hp": 40,
+  "attack": 55,
+  "defend": 70,
+  "spAttack": 45,
+  "spDefend": 60,
+  "speed": 30,
+  "power": 300,
+  "pokemonId": 660
+}, {
+  "id": 661,
+  "hp": 60,
+  "attack": 80,
+  "defend": 95,
+  "spAttack": 70,
+  "spDefend": 85,
+  "speed": 50,
+  "power": 440,
+  "pokemonId": 661
+}, {
+  "id": 662,
+  "hp": 60,
+  "attack": 100,
+  "defend": 115,
+  "spAttack": 70,
+  "spDefend": 85,
+  "speed": 90,
+  "power": 520,
+  "pokemonId": 662
+}, {
+  "id": 663,
+  "hp": 35,
+  "attack": 55,
+  "defend": 40,
+  "spAttack": 45,
+  "spDefend": 40,
+  "speed": 60,
+  "power": 275,
+  "pokemonId": 663
+}, {
+  "id": 664,
+  "hp": 65,
+  "attack": 85,
+  "defend": 70,
+  "spAttack": 75,
+  "spDefend": 70,
+  "speed": 40,
+  "power": 405,
+  "pokemonId": 664
+}, {
+  "id": 665,
+  "hp": 85,
+  "attack": 115,
+  "defend": 80,
+  "spAttack": 105,
+  "spDefend": 80,
+  "speed": 50,
+  "power": 515,
+  "pokemonId": 665
+}, {
+  "id": 666,
+  "hp": 55,
+  "attack": 55,
+  "defend": 55,
+  "spAttack": 85,
+  "spDefend": 55,
+  "speed": 30,
+  "power": 335,
+  "pokemonId": 666
+}, {
+  "id": 667,
+  "hp": 75,
+  "attack": 75,
+  "defend": 75,
+  "spAttack": 125,
+  "spDefend": 95,
+  "speed": 40,
+  "power": 485,
+  "pokemonId": 667
+}, {
+  "id": 668,
+  "hp": 50,
+  "attack": 30,
+  "defend": 55,
+  "spAttack": 65,
+  "spDefend": 55,
+  "speed": 20,
+  "power": 275,
+  "pokemonId": 668
+}, {
+  "id": 669,
+  "hp": 60,
+  "attack": 40,
+  "defend": 60,
+  "spAttack": 95,
+  "spDefend": 60,
+  "speed": 55,
+  "power": 370,
+  "pokemonId": 669
+}, {
+  "id": 670,
+  "hp": 60,
+  "attack": 55,
+  "defend": 90,
+  "spAttack": 145,
+  "spDefend": 90,
+  "speed": 80,
+  "power": 520,
+  "pokemonId": 670
+}, {
+  "id": 671,
+  "hp": 46,
+  "attack": 87,
+  "defend": 60,
+  "spAttack": 30,
+  "spDefend": 40,
+  "speed": 57,
+  "power": 320,
+  "pokemonId": 671
+}, {
+  "id": 672,
+  "hp": 66,
+  "attack": 117,
+  "defend": 70,
+  "spAttack": 40,
+  "spDefend": 50,
+  "speed": 67,
+  "power": 410,
+  "pokemonId": 672
+}, {
+  "id": 673,
+  "hp": 76,
+  "attack": 147,
+  "defend": 90,
+  "spAttack": 60,
+  "spDefend": 70,
+  "speed": 97,
+  "power": 540,
+  "pokemonId": 673
+}, {
+  "id": 674,
+  "hp": 55,
+  "attack": 70,
+  "defend": 40,
+  "spAttack": 60,
+  "spDefend": 40,
+  "speed": 40,
+  "power": 305,
+  "pokemonId": 674
+}, {
+  "id": 675,
+  "hp": 95,
+  "attack": 110,
+  "defend": 80,
+  "spAttack": 70,
+  "spDefend": 80,
+  "speed": 50,
+  "power": 485,
+  "pokemonId": 675
+}, {
+  "id": 676,
+  "hp": 70,
+  "attack": 50,
+  "defend": 30,
+  "spAttack": 95,
+  "spDefend": 135,
+  "speed": 105,
+  "power": 485,
+  "pokemonId": 676
+}, {
+  "id": 677,
+  "hp": 50,
+  "attack": 40,
+  "defend": 85,
+  "spAttack": 40,
+  "spDefend": 65,
+  "speed": 25,
+  "power": 305,
+  "pokemonId": 677
+}, {
+  "id": 678,
+  "hp": 80,
+  "attack": 70,
+  "defend": 40,
+  "spAttack": 100,
+  "spDefend": 60,
+  "speed": 145,
+  "power": 495,
+  "pokemonId": 678
+}, {
+  "id": 679,
+  "hp": 109,
+  "attack": 66,
+  "defend": 84,
+  "spAttack": 81,
+  "spDefend": 99,
+  "speed": 32,
+  "power": 471,
+  "pokemonId": 679
+}, {
+  "id": 680,
+  "hp": 45,
+  "attack": 85,
+  "defend": 50,
+  "spAttack": 55,
+  "spDefend": 50,
+  "speed": 65,
+  "power": 350,
+  "pokemonId": 680
+}, {
+  "id": 681,
+  "hp": 65,
+  "attack": 125,
+  "defend": 60,
+  "spAttack": 95,
+  "spDefend": 60,
+  "speed": 105,
+  "power": 510,
+  "pokemonId": 681
+}, {
+  "id": 682,
+  "hp": 77,
+  "attack": 120,
+  "defend": 90,
+  "spAttack": 60,
+  "spDefend": 90,
+  "speed": 48,
+  "power": 485,
+  "pokemonId": 682
+}, {
+  "id": 683,
+  "hp": 59,
+  "attack": 74,
+  "defend": 50,
+  "spAttack": 35,
+  "spDefend": 50,
+  "speed": 35,
+  "power": 303,
+  "pokemonId": 683
+}, {
+  "id": 684,
+  "hp": 89,
+  "attack": 124,
+  "defend": 80,
+  "spAttack": 55,
+  "spDefend": 80,
+  "speed": 55,
+  "power": 483,
+  "pokemonId": 684
+}, {
+  "id": 685,
+  "hp": 45,
+  "attack": 85,
+  "defend": 70,
+  "spAttack": 40,
+  "spDefend": 40,
+  "speed": 60,
+  "power": 340,
+  "pokemonId": 685
+}, {
+  "id": 686,
+  "hp": 65,
+  "attack": 125,
+  "defend": 100,
+  "spAttack": 60,
+  "spDefend": 70,
+  "speed": 70,
+  "power": 490,
+  "pokemonId": 686
+}, {
+  "id": 687,
+  "hp": 95,
+  "attack": 110,
+  "defend": 95,
+  "spAttack": 40,
+  "spDefend": 95,
+  "speed": 55,
+  "power": 490,
+  "pokemonId": 687
+}, {
+  "id": 688,
+  "hp": 70,
+  "attack": 83,
+  "defend": 50,
+  "spAttack": 37,
+  "spDefend": 50,
+  "speed": 60,
+  "power": 350,
+  "pokemonId": 688
+}, {
+  "id": 689,
+  "hp": 100,
+  "attack": 123,
+  "defend": 75,
+  "spAttack": 57,
+  "spDefend": 75,
+  "speed": 80,
+  "power": 510,
+  "pokemonId": 689
+}, {
+  "id": 690,
+  "hp": 70,
+  "attack": 55,
+  "defend": 75,
+  "spAttack": 45,
+  "spDefend": 65,
+  "speed": 60,
+  "power": 370,
+  "pokemonId": 690
+}, {
+  "id": 691,
+  "hp": 110,
+  "attack": 65,
+  "defend": 105,
+  "spAttack": 55,
+  "spDefend": 95,
+  "speed": 80,
+  "power": 510,
+  "pokemonId": 691
+}, {
+  "id": 692,
+  "hp": 85,
+  "attack": 97,
+  "defend": 66,
+  "spAttack": 105,
+  "spDefend": 66,
+  "speed": 65,
+  "power": 484,
+  "pokemonId": 692
+}, {
+  "id": 693,
+  "hp": 58,
+  "attack": 109,
+  "defend": 112,
+  "spAttack": 48,
+  "spDefend": 48,
+  "speed": 109,
+  "power": 484,
+  "pokemonId": 693
+}, {
+  "id": 694,
+  "hp": 52,
+  "attack": 65,
+  "defend": 50,
+  "spAttack": 45,
+  "spDefend": 50,
+  "speed": 38,
+  "power": 300,
+  "pokemonId": 694
+}, {
+  "id": 695,
+  "hp": 72,
+  "attack": 85,
+  "defend": 70,
+  "spAttack": 65,
+  "spDefend": 70,
+  "speed": 58,
+  "power": 420,
+  "pokemonId": 695
+}, {
+  "id": 696,
+  "hp": 92,
+  "attack": 105,
+  "defend": 90,
+  "spAttack": 125,
+  "spDefend": 90,
+  "speed": 98,
+  "power": 600,
+  "pokemonId": 696
+}, {
+  "id": 697,
+  "hp": 55,
+  "attack": 85,
+  "defend": 55,
+  "spAttack": 50,
+  "spDefend": 55,
+  "speed": 60,
+  "power": 360,
+  "pokemonId": 697
+}, {
+  "id": 698,
+  "hp": 85,
+  "attack": 60,
+  "defend": 65,
+  "spAttack": 135,
+  "spDefend": 105,
+  "speed": 100,
+  "power": 550,
+  "pokemonId": 698
+}, {
+  "id": 699,
+  "hp": 91,
+  "attack": 90,
+  "defend": 129,
+  "spAttack": 90,
+  "spDefend": 72,
+  "speed": 108,
+  "power": 580,
+  "pokemonId": 699
+}, {
+  "id": 700,
+  "hp": 91,
+  "attack": 129,
+  "defend": 90,
+  "spAttack": 72,
+  "spDefend": 90,
+  "speed": 108,
+  "power": 580,
+  "pokemonId": 700
+}, {
+  "id": 701,
+  "hp": 91,
+  "attack": 90,
+  "defend": 72,
+  "spAttack": 90,
+  "spDefend": 129,
+  "speed": 108,
+  "power": 580,
+  "pokemonId": 701
+}, {
+  "id": 702,
+  "hp": 79,
+  "attack": 115,
+  "defend": 70,
+  "spAttack": 125,
+  "spDefend": 80,
+  "speed": 111,
+  "power": 580,
+  "pokemonId": 702
+}, {
+  "id": 703,
+  "hp": 79,
+  "attack": 100,
+  "defend": 80,
+  "spAttack": 110,
+  "spDefend": 90,
+  "speed": 121,
+  "power": 580,
+  "pokemonId": 703
+}, {
+  "id": 704,
+  "hp": 79,
+  "attack": 115,
+  "defend": 70,
+  "spAttack": 125,
+  "spDefend": 80,
+  "speed": 111,
+  "power": 580,
+  "pokemonId": 704
+}, {
+  "id": 705,
+  "hp": 79,
+  "attack": 105,
+  "defend": 70,
+  "spAttack": 145,
+  "spDefend": 80,
+  "speed": 101,
+  "power": 580,
+  "pokemonId": 705
+}, {
+  "id": 706,
+  "hp": 100,
+  "attack": 120,
+  "defend": 100,
+  "spAttack": 150,
+  "spDefend": 120,
+  "speed": 90,
+  "power": 680,
+  "pokemonId": 706
+}, {
+  "id": 707,
+  "hp": 100,
+  "attack": 150,
+  "defend": 120,
+  "spAttack": 120,
+  "spDefend": 100,
+  "speed": 90,
+  "power": 680,
+  "pokemonId": 707
+}, {
+  "id": 708,
+  "hp": 89,
+  "attack": 125,
+  "defend": 90,
+  "spAttack": 115,
+  "spDefend": 80,
+  "speed": 101,
+  "power": 600,
+  "pokemonId": 708
+}, {
+  "id": 709,
+  "hp": 89,
+  "attack": 145,
+  "defend": 90,
+  "spAttack": 105,
+  "spDefend": 80,
+  "speed": 91,
+  "power": 600,
+  "pokemonId": 709
+}, {
+  "id": 710,
+  "hp": 125,
+  "attack": 130,
+  "defend": 90,
+  "spAttack": 130,
+  "spDefend": 90,
+  "speed": 95,
+  "power": 660,
+  "pokemonId": 710
+}, {
+  "id": 711,
+  "hp": 125,
+  "attack": 170,
+  "defend": 100,
+  "spAttack": 120,
+  "spDefend": 90,
+  "speed": 95,
+  "power": 700,
+  "pokemonId": 711
+}, {
+  "id": 712,
+  "hp": 125,
+  "attack": 120,
+  "defend": 90,
+  "spAttack": 170,
+  "spDefend": 100,
+  "speed": 95,
+  "power": 700,
+  "pokemonId": 712
+}, {
+  "id": 713,
+  "hp": 91,
+  "attack": 72,
+  "defend": 90,
+  "spAttack": 129,
+  "spDefend": 90,
+  "speed": 108,
+  "power": 580,
+  "pokemonId": 713
+}, {
+  "id": 714,
+  "hp": 91,
+  "attack": 72,
+  "defend": 90,
+  "spAttack": 129,
+  "spDefend": 90,
+  "speed": 108,
+  "power": 580,
+  "pokemonId": 714
+}, {
+  "id": 715,
+  "hp": 100,
+  "attack": 77,
+  "defend": 77,
+  "spAttack": 128,
+  "spDefend": 128,
+  "speed": 90,
+  "power": 600,
+  "pokemonId": 715
+}, {
+  "id": 716,
+  "hp": 100,
+  "attack": 128,
+  "defend": 90,
+  "spAttack": 77,
+  "spDefend": 77,
+  "speed": 128,
+  "power": 600,
+  "pokemonId": 716
+}, {
+  "id": 717,
+  "hp": 71,
+  "attack": 120,
+  "defend": 95,
+  "spAttack": 120,
+  "spDefend": 95,
+  "speed": 99,
+  "power": 600,
+  "pokemonId": 717
+}, {
+  "id": 718,
+  "hp": 56,
+  "attack": 61,
+  "defend": 65,
+  "spAttack": 48,
+  "spDefend": 45,
+  "speed": 38,
+  "power": 313,
+  "pokemonId": 718
+}, {
+  "id": 719,
+  "hp": 61,
+  "attack": 78,
+  "defend": 95,
+  "spAttack": 56,
+  "spDefend": 58,
+  "speed": 57,
+  "power": 405,
+  "pokemonId": 719
+}, {
+  "id": 720,
+  "hp": 88,
+  "attack": 107,
+  "defend": 122,
+  "spAttack": 74,
+  "spDefend": 75,
+  "speed": 64,
+  "power": 530,
+  "pokemonId": 720
+}, {
+  "id": 721,
+  "hp": 40,
+  "attack": 45,
+  "defend": 40,
+  "spAttack": 62,
+  "spDefend": 60,
+  "speed": 60,
+  "power": 307,
+  "pokemonId": 721
+}, {
+  "id": 722,
+  "hp": 59,
+  "attack": 59,
+  "defend": 58,
+  "spAttack": 90,
+  "spDefend": 70,
+  "speed": 73,
+  "power": 409,
+  "pokemonId": 722
+}, {
+  "id": 723,
+  "hp": 75,
+  "attack": 69,
+  "defend": 72,
+  "spAttack": 114,
+  "spDefend": 100,
+  "speed": 104,
+  "power": 534,
+  "pokemonId": 723
+}, {
+  "id": 724,
+  "hp": 41,
+  "attack": 56,
+  "defend": 40,
+  "spAttack": 62,
+  "spDefend": 44,
+  "speed": 71,
+  "power": 314,
+  "pokemonId": 724
+}, {
+  "id": 725,
+  "hp": 54,
+  "attack": 63,
+  "defend": 52,
+  "spAttack": 83,
+  "spDefend": 56,
+  "speed": 97,
+  "power": 405,
+  "pokemonId": 725
+}, {
+  "id": 726,
+  "hp": 72,
+  "attack": 95,
+  "defend": 67,
+  "spAttack": 103,
+  "spDefend": 71,
+  "speed": 122,
+  "power": 530,
+  "pokemonId": 726
+}, {
+  "id": 727,
+  "hp": 38,
+  "attack": 36,
+  "defend": 38,
+  "spAttack": 32,
+  "spDefend": 36,
+  "speed": 57,
+  "power": 237,
+  "pokemonId": 727
+}, {
+  "id": 728,
+  "hp": 85,
+  "attack": 56,
+  "defend": 77,
+  "spAttack": 50,
+  "spDefend": 77,
+  "speed": 78,
+  "power": 423,
+  "pokemonId": 728
+}, {
+  "id": 729,
+  "hp": 45,
+  "attack": 50,
+  "defend": 43,
+  "spAttack": 40,
+  "spDefend": 38,
+  "speed": 62,
+  "power": 278,
+  "pokemonId": 729
+}, {
+  "id": 730,
+  "hp": 62,
+  "attack": 73,
+  "defend": 55,
+  "spAttack": 56,
+  "spDefend": 52,
+  "speed": 84,
+  "power": 382,
+  "pokemonId": 730
+}, {
+  "id": 731,
+  "hp": 78,
+  "attack": 81,
+  "defend": 71,
+  "spAttack": 74,
+  "spDefend": 69,
+  "speed": 126,
+  "power": 499,
+  "pokemonId": 731
+}, {
+  "id": 732,
+  "hp": 38,
+  "attack": 35,
+  "defend": 40,
+  "spAttack": 27,
+  "spDefend": 25,
+  "speed": 35,
+  "power": 200,
+  "pokemonId": 732
+}, {
+  "id": 733,
+  "hp": 45,
+  "attack": 22,
+  "defend": 60,
+  "spAttack": 27,
+  "spDefend": 30,
+  "speed": 29,
+  "power": 213,
+  "pokemonId": 733
+}, {
+  "id": 734,
+  "hp": 80,
+  "attack": 52,
+  "defend": 50,
+  "spAttack": 90,
+  "spDefend": 50,
+  "speed": 89,
+  "power": 411,
+  "pokemonId": 734
+}, {
+  "id": 735,
+  "hp": 62,
+  "attack": 50,
+  "defend": 58,
+  "spAttack": 73,
+  "spDefend": 54,
+  "speed": 72,
+  "power": 369,
+  "pokemonId": 735
+}, {
+  "id": 736,
+  "hp": 86,
+  "attack": 68,
+  "defend": 72,
+  "spAttack": 109,
+  "spDefend": 66,
+  "speed": 106,
+  "power": 507,
+  "pokemonId": 736
+}, {
+  "id": 737,
+  "hp": 44,
+  "attack": 38,
+  "defend": 39,
+  "spAttack": 61,
+  "spDefend": 79,
+  "speed": 42,
+  "power": 303,
+  "pokemonId": 737
+}, {
+  "id": 738,
+  "hp": 54,
+  "attack": 45,
+  "defend": 47,
+  "spAttack": 75,
+  "spDefend": 98,
+  "speed": 52,
+  "power": 371,
+  "pokemonId": 738
+}, {
+  "id": 739,
+  "hp": 78,
+  "attack": 65,
+  "defend": 68,
+  "spAttack": 112,
+  "spDefend": 154,
+  "speed": 75,
+  "power": 552,
+  "pokemonId": 739
+}, {
+  "id": 740,
+  "hp": 66,
+  "attack": 65,
+  "defend": 48,
+  "spAttack": 62,
+  "spDefend": 57,
+  "speed": 52,
+  "power": 350,
+  "pokemonId": 740
+}, {
+  "id": 741,
+  "hp": 123,
+  "attack": 100,
+  "defend": 62,
+  "spAttack": 97,
+  "spDefend": 81,
+  "speed": 68,
+  "power": 531,
+  "pokemonId": 741
+}, {
+  "id": 742,
+  "hp": 67,
+  "attack": 82,
+  "defend": 62,
+  "spAttack": 46,
+  "spDefend": 48,
+  "speed": 43,
+  "power": 348,
+  "pokemonId": 742
+}, {
+  "id": 743,
+  "hp": 95,
+  "attack": 124,
+  "defend": 78,
+  "spAttack": 69,
+  "spDefend": 71,
+  "speed": 58,
+  "power": 495,
+  "pokemonId": 743
+}, {
+  "id": 744,
+  "hp": 75,
+  "attack": 80,
+  "defend": 60,
+  "spAttack": 65,
+  "spDefend": 90,
+  "speed": 102,
+  "power": 472,
+  "pokemonId": 744
+}, {
+  "id": 745,
+  "hp": 62,
+  "attack": 48,
+  "defend": 54,
+  "spAttack": 63,
+  "spDefend": 60,
+  "speed": 68,
+  "power": 355,
+  "pokemonId": 745
+}, {
+  "id": 746,
+  "hp": 74,
+  "attack": 48,
+  "defend": 76,
+  "spAttack": 83,
+  "spDefend": 81,
+  "speed": 104,
+  "power": 466,
+  "pokemonId": 746
+}, {
+  "id": 747,
+  "hp": 74,
+  "attack": 48,
+  "defend": 76,
+  "spAttack": 83,
+  "spDefend": 81,
+  "speed": 104,
+  "power": 466,
+  "pokemonId": 747
+}, {
+  "id": 748,
+  "hp": 45,
+  "attack": 80,
+  "defend": 100,
+  "spAttack": 35,
+  "spDefend": 37,
+  "speed": 28,
+  "power": 325,
+  "pokemonId": 748
+}, {
+  "id": 749,
+  "hp": 59,
+  "attack": 110,
+  "defend": 150,
+  "spAttack": 45,
+  "spDefend": 49,
+  "speed": 35,
+  "power": 448,
+  "pokemonId": 749
+}, {
+  "id": 750,
+  "hp": 60,
+  "attack": 150,
+  "defend": 50,
+  "spAttack": 150,
+  "spDefend": 50,
+  "speed": 60,
+  "power": 520,
+  "pokemonId": 750
+}, {
+  "id": 751,
+  "hp": 60,
+  "attack": 50,
+  "defend": 150,
+  "spAttack": 50,
+  "spDefend": 150,
+  "speed": 60,
+  "power": 520,
+  "pokemonId": 751
+}, {
+  "id": 752,
+  "hp": 78,
+  "attack": 52,
+  "defend": 60,
+  "spAttack": 63,
+  "spDefend": 65,
+  "speed": 23,
+  "power": 341,
+  "pokemonId": 752
+}, {
+  "id": 753,
+  "hp": 101,
+  "attack": 72,
+  "defend": 72,
+  "spAttack": 99,
+  "spDefend": 89,
+  "speed": 29,
+  "power": 462,
+  "pokemonId": 753
+}, {
+  "id": 754,
+  "hp": 62,
+  "attack": 48,
+  "defend": 66,
+  "spAttack": 59,
+  "spDefend": 57,
+  "speed": 49,
+  "power": 341,
+  "pokemonId": 754
+}, {
+  "id": 755,
+  "hp": 82,
+  "attack": 80,
+  "defend": 86,
+  "spAttack": 85,
+  "spDefend": 75,
+  "speed": 72,
+  "power": 480,
+  "pokemonId": 755
+}, {
+  "id": 756,
+  "hp": 53,
+  "attack": 54,
+  "defend": 53,
+  "spAttack": 37,
+  "spDefend": 46,
+  "speed": 45,
+  "power": 288,
+  "pokemonId": 756
+}, {
+  "id": 757,
+  "hp": 86,
+  "attack": 92,
+  "defend": 88,
+  "spAttack": 68,
+  "spDefend": 75,
+  "speed": 73,
+  "power": 482,
+  "pokemonId": 757
+}, {
+  "id": 758,
+  "hp": 42,
+  "attack": 52,
+  "defend": 67,
+  "spAttack": 39,
+  "spDefend": 56,
+  "speed": 50,
+  "power": 306,
+  "pokemonId": 758
+}, {
+  "id": 759,
+  "hp": 72,
+  "attack": 105,
+  "defend": 115,
+  "spAttack": 54,
+  "spDefend": 86,
+  "speed": 68,
+  "power": 500,
+  "pokemonId": 759
+}, {
+  "id": 760,
+  "hp": 50,
+  "attack": 60,
+  "defend": 60,
+  "spAttack": 60,
+  "spDefend": 60,
+  "speed": 30,
+  "power": 320,
+  "pokemonId": 760
+}, {
+  "id": 761,
+  "hp": 65,
+  "attack": 75,
+  "defend": 90,
+  "spAttack": 97,
+  "spDefend": 123,
+  "speed": 44,
+  "power": 494,
+  "pokemonId": 761
+}, {
+  "id": 762,
+  "hp": 50,
+  "attack": 53,
+  "defend": 62,
+  "spAttack": 58,
+  "spDefend": 63,
+  "speed": 44,
+  "power": 330,
+  "pokemonId": 762
+}, {
+  "id": 763,
+  "hp": 71,
+  "attack": 73,
+  "defend": 88,
+  "spAttack": 120,
+  "spDefend": 89,
+  "speed": 59,
+  "power": 500,
+  "pokemonId": 763
+}, {
+  "id": 764,
+  "hp": 44,
+  "attack": 38,
+  "defend": 33,
+  "spAttack": 61,
+  "spDefend": 43,
+  "speed": 70,
+  "power": 289,
+  "pokemonId": 764
+}, {
+  "id": 765,
+  "hp": 62,
+  "attack": 55,
+  "defend": 52,
+  "spAttack": 109,
+  "spDefend": 94,
+  "speed": 109,
+  "power": 481,
+  "pokemonId": 765
+}, {
+  "id": 766,
+  "hp": 58,
+  "attack": 89,
+  "defend": 77,
+  "spAttack": 45,
+  "spDefend": 45,
+  "speed": 48,
+  "power": 362,
+  "pokemonId": 766
+}, {
+  "id": 767,
+  "hp": 82,
+  "attack": 121,
+  "defend": 119,
+  "spAttack": 69,
+  "spDefend": 59,
+  "speed": 71,
+  "power": 521,
+  "pokemonId": 767
+}, {
+  "id": 768,
+  "hp": 77,
+  "attack": 59,
+  "defend": 50,
+  "spAttack": 67,
+  "spDefend": 63,
+  "speed": 46,
+  "power": 362,
+  "pokemonId": 768
+}, {
+  "id": 769,
+  "hp": 123,
+  "attack": 77,
+  "defend": 72,
+  "spAttack": 99,
+  "spDefend": 92,
+  "speed": 58,
+  "power": 521,
+  "pokemonId": 769
+}, {
+  "id": 770,
+  "hp": 95,
+  "attack": 65,
+  "defend": 65,
+  "spAttack": 110,
+  "spDefend": 130,
+  "speed": 60,
+  "power": 525,
+  "pokemonId": 770
+}, {
+  "id": 771,
+  "hp": 78,
+  "attack": 92,
+  "defend": 75,
+  "spAttack": 74,
+  "spDefend": 63,
+  "speed": 118,
+  "power": 500,
+  "pokemonId": 771
+}, {
+  "id": 772,
+  "hp": 67,
+  "attack": 58,
+  "defend": 57,
+  "spAttack": 81,
+  "spDefend": 67,
+  "speed": 101,
+  "power": 431,
+  "pokemonId": 772
+}, {
+  "id": 773,
+  "hp": 50,
+  "attack": 50,
+  "defend": 150,
+  "spAttack": 50,
+  "spDefend": 150,
+  "speed": 50,
+  "power": 500,
+  "pokemonId": 773
+}, {
+  "id": 774,
+  "hp": 45,
+  "attack": 50,
+  "defend": 35,
+  "spAttack": 55,
+  "spDefend": 75,
+  "speed": 40,
+  "power": 300,
+  "pokemonId": 774
+}, {
+  "id": 775,
+  "hp": 68,
+  "attack": 75,
+  "defend": 53,
+  "spAttack": 83,
+  "spDefend": 113,
+  "speed": 60,
+  "power": 452,
+  "pokemonId": 775
+}, {
+  "id": 776,
+  "hp": 90,
+  "attack": 100,
+  "defend": 70,
+  "spAttack": 110,
+  "spDefend": 150,
+  "speed": 80,
+  "power": 600,
+  "pokemonId": 776
+}, {
+  "id": 777,
+  "hp": 57,
+  "attack": 80,
+  "defend": 91,
+  "spAttack": 80,
+  "spDefend": 87,
+  "speed": 75,
+  "power": 470,
+  "pokemonId": 777
+}, {
+  "id": 778,
+  "hp": 43,
+  "attack": 70,
+  "defend": 48,
+  "spAttack": 50,
+  "spDefend": 60,
+  "speed": 38,
+  "power": 309,
+  "pokemonId": 778
+}, {
+  "id": 779,
+  "hp": 85,
+  "attack": 110,
+  "defend": 76,
+  "spAttack": 65,
+  "spDefend": 82,
+  "speed": 56,
+  "power": 474,
+  "pokemonId": 779
+}, {
+  "id": 780,
+  "hp": 49,
+  "attack": 66,
+  "defend": 70,
+  "spAttack": 44,
+  "spDefend": 55,
+  "speed": 51,
+  "power": 335,
+  "pokemonId": 780
+}, {
+  "id": 781,
+  "hp": 65,
+  "attack": 90,
+  "defend": 122,
+  "spAttack": 58,
+  "spDefend": 75,
+  "speed": 84,
+  "power": 494,
+  "pokemonId": 781
+}, {
+  "id": 782,
+  "hp": 55,
+  "attack": 69,
+  "defend": 85,
+  "spAttack": 32,
+  "spDefend": 35,
+  "speed": 28,
+  "power": 304,
+  "pokemonId": 782
+}, {
+  "id": 783,
+  "hp": 95,
+  "attack": 117,
+  "defend": 184,
+  "spAttack": 44,
+  "spDefend": 46,
+  "speed": 28,
+  "power": 514,
+  "pokemonId": 783
+}, {
+  "id": 784,
+  "hp": 40,
+  "attack": 30,
+  "defend": 35,
+  "spAttack": 45,
+  "spDefend": 40,
+  "speed": 55,
+  "power": 245,
+  "pokemonId": 784
+}, {
+  "id": 785,
+  "hp": 85,
+  "attack": 70,
+  "defend": 80,
+  "spAttack": 97,
+  "spDefend": 80,
+  "speed": 123,
+  "power": 535,
+  "pokemonId": 785
+}, {
+  "id": 786,
+  "hp": 126,
+  "attack": 131,
+  "defend": 95,
+  "spAttack": 131,
+  "spDefend": 98,
+  "speed": 99,
+  "power": 680,
+  "pokemonId": 786
+}, {
+  "id": 787,
+  "hp": 126,
+  "attack": 131,
+  "defend": 95,
+  "spAttack": 131,
+  "spDefend": 98,
+  "speed": 99,
+  "power": 680,
+  "pokemonId": 787
+}, {
+  "id": 788,
+  "hp": 108,
+  "attack": 100,
+  "defend": 121,
+  "spAttack": 81,
+  "spDefend": 95,
+  "speed": 95,
+  "power": 600,
+  "pokemonId": 788
+}, {
+  "id": 789,
+  "hp": 50,
+  "attack": 100,
+  "defend": 150,
+  "spAttack": 100,
+  "spDefend": 150,
+  "speed": 50,
+  "power": 600,
+  "pokemonId": 789
+}, {
+  "id": 790,
+  "hp": 50,
+  "attack": 160,
+  "defend": 110,
+  "spAttack": 160,
+  "spDefend": 110,
+  "speed": 110,
+  "power": 700,
+  "pokemonId": 790
+}, {
+  "id": 791,
+  "hp": 80,
+  "attack": 110,
+  "defend": 60,
+  "spAttack": 150,
+  "spDefend": 130,
+  "speed": 70,
+  "power": 600,
+  "pokemonId": 791
+}, {
+  "id": 792,
+  "hp": 80,
+  "attack": 160,
+  "defend": 60,
+  "spAttack": 170,
+  "spDefend": 130,
+  "speed": 80,
+  "power": 680,
+  "pokemonId": 792
+}, {
+  "id": 793,
+  "hp": 80,
+  "attack": 110,
+  "defend": 120,
+  "spAttack": 130,
+  "spDefend": 90,
+  "speed": 70,
+  "power": 600,
+  "pokemonId": 793
+}]

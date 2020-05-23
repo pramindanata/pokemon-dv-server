@@ -3,11 +3,10 @@ import {
   PrimaryGeneratedColumn,
   Column,
   OneToOne,
-  ManyToMany,
-  JoinTable,
+  OneToMany,
 } from 'typeorm'
 import { Stat } from '~/model/Stat'
-import { Type } from '~/model/Type'
+import { PokemonToType } from '~/model/PokemonToType'
 
 @Entity()
 export class Pokemon {
@@ -40,7 +39,6 @@ export class Pokemon {
   @OneToOne(() => Stat, (stat) => stat.pokemon)
   stat!: Stat
 
-  @ManyToMany(() => Type, (type) => type.pokemons)
-  @JoinTable()
-  types!: Type[]
+  @OneToMany(() => PokemonToType, (pokemonToType) => pokemonToType.pokemon)
+  pokemonToTypes!: PokemonToType[]
 }
