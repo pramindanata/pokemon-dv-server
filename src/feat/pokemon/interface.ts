@@ -12,9 +12,9 @@ export interface PokemonResource {
 }
 
 export interface IndexParams {
-  lastId: number
-  search: string
+  lastId?: string
+  search?: string
   orderBy: string
-  sortBy: 'ASC' | 'DESC'
-  limit: number
+  sortBy: 'asc' | 'desc'
+  limit: string
 }
