@@ -16,6 +16,7 @@ export type ValueSource = 'body' | 'params' | 'query' | 'other'
 
 export const options: ValidationOptions = {
   abortEarly: false,
+  stripUnknown: true,
 }
 
 export const validate = (
@@ -23,18 +24,18 @@ export const validate = (
   value: Record<string, any>,
   source: ValueSource,
   immediate = true,
-): ValidationResult | void => {
+): ValidationResult => {
   const result = schema.validate(value, options)
 
   if (!immediate) {
     return result
   }
 
-  console.log(result.error)
-
   if (result.error) {
     throw new ValidationException(result.error, source)
   }
+
+  return result
 }
 
 export class ValidationException extends Error {

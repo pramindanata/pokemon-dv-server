@@ -12,10 +12,15 @@ export default () => (
     search: Joi.string(),
     limit: Joi.number().max(16).default(16),
     orderBy: Joi.string().lowercase().valid('name', 'index').default('name'),
-    sortBy: Joi.string().lowercase().valid('asc', 'desc').default('desc'),
+    sortBy: Joi.string().uppercase().valid('ASC', 'DESC').default('DESC'),
   })
 
-  validate(schema, req.query, 'query')
+  const result = validate(schema, req.query, 'query')
+
+  req.query = {
+    ...req.query,
+    ...result.value,
+  }
 
   next()
 }
