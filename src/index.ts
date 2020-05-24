@@ -11,6 +11,7 @@ dotenv.config()
 import config from '~/config'
 import setupContext from '~/shared/middleware/setupContext'
 import { init } from '~/lib/repository'
+import routes from '~/feat'
 
 const app = express()
 const port = config.app.port
@@ -32,6 +33,8 @@ createConnection()
         msg: 'Hello there',
       })
     })
+
+    app.use(routes)
 
     app.listen(port, () => {
       console.log(`Server listening on http://localhost:${port}`)
