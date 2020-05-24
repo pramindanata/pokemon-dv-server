@@ -1,1 +1,55 @@
-[{"id":1,"name":"Grass"},{"id":2,"name":"Poison"},{"id":3,"name":"Fire"},{"id":4,"name":"Flying"},{"id":5,"name":"Dragon"},{"id":6,"name":"Water"},{"id":7,"name":"Bug"},{"id":8,"name":"Normal"},{"id":9,"name":"Electric"},{"id":10,"name":"Ground"},{"id":11,"name":"Fairy"},{"id":12,"name":"Fighting"},{"id":13,"name":"Psychic"},{"id":14,"name":"Rock"},{"id":15,"name":"Steel"},{"id":16,"name":"Ice"},{"id":17,"name":"Ghost"},{"id":18,"name":"Dark"}]
+[{
+  "id": 1,
+  "name": "Grass"
+}, {
+  "id": 2,
+  "name": "Poison"
+}, {
+  "id": 3,
+  "name": "Fire"
+}, {
+  "id": 4,
+  "name": "Flying"
+}, {
+  "id": 5,
+  "name": "Dragon"
+}, {
+  "id": 6,
+  "name": "Water"
+}, {
+  "id": 7,
+  "name": "Bug"
+}, {
+  "id": 8,
+  "name": "Normal"
+}, {
+  "id": 9,
+  "name": "Electric"
+}, {
+  "id": 10,
+  "name": "Ground"
+}, {
+  "id": 11,
+  "name": "Fairy"
+}, {
+  "id": 12,
+  "name": "Fighting"
+}, {
+  "id": 13,
+  "name": "Psychic"
+}, {
+  "id": 14,
+  "name": "Rock"
+}, {
+  "id": 15,
+  "name": "Steel"
+}, {
+  "id": 16,
+  "name": "Ice"
+}, {
+  "id": 17,
+  "name": "Ghost"
+}, {
+  "id": 18,
+  "name": "Dark"
+}]
