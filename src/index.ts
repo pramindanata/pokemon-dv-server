@@ -10,6 +10,7 @@ dotenv.config()
 
 import config from '~/config'
 import setupContext from '~/shared/middleware/setupContext'
+import errorHandler from '~/shared/middleware/errorHandler'
 import { init } from '~/lib/repository'
 import routes from '~/feat'
 
@@ -35,6 +36,7 @@ createConnection()
     })
 
     app.use(routes)
+    app.use(errorHandler())
 
     app.listen(port, () => {
       console.log(`Server listening on http://localhost:${port}`)
