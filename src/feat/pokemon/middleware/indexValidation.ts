@@ -8,11 +8,11 @@ export default () => (
   next: NextFunction,
 ): void => {
   const schema = Joi.object({
-    lastId: Joi.number(),
+    page: Joi.number().min(1).default(1),
     search: Joi.string(),
-    limit: Joi.number().max(16).default(16),
+    limit: Joi.number().max(24).default(24),
     orderBy: Joi.string().lowercase().valid('name', 'index').default('name'),
-    sortBy: Joi.string().uppercase().valid('ASC', 'DESC').default('DESC'),
+    sortBy: Joi.string().uppercase().valid('ASC', 'DESC').default('ASC'),
   })
 
   const result = validate(schema, req.query, 'query')

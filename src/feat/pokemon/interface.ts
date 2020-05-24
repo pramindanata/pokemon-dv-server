@@ -12,8 +12,8 @@ export interface PokemonResource {
 }
 
 export interface IndexParams {
-  lastId?: string
   search?: string
+  page: number
   orderBy: 'name' | 'index'
   sortBy: 'ASC' | 'DESC'
   limit: number
