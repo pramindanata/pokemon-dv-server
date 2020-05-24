@@ -14,6 +14,7 @@ const index = async (
     select: ['id', 'name', 'image', 'index'],
     take: query.limit,
     relations: ['pokemonToTypes', 'pokemonToTypes.type'],
+    where: {},
     order: {
       [query.orderBy]: query.sortBy,
     },
@@ -27,9 +28,13 @@ const index = async (
   }
 
   const pokemons: Pokemon[] = await req.ctx.repo.pokemon.find(options)
+  const total: number = await req.ctx.repo.pokemon.count({
+    where: options.where,
+  })
 
   return res.json({
     data: transformIndex(pokemons),
+    total,
   })
 }
 
