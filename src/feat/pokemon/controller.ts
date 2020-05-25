@@ -2,11 +2,12 @@ import type { Request, Response } from 'express'
 import { FindManyOptions } from 'typeorm'
 import { Pokemon } from '~/model/Pokemon'
 import { ILIKE } from '~/lib/typeorm'
-import type { IndexParams } from './interface'
-import { transformIndex } from './util'
+import { HttpException } from '~/lib/http'
+import type { IndexQuery, ShowParams } from './interface'
+import { transformIndex, transformShow } from './util'
 
 const index = async (
-  req: Request<any, any, any, IndexParams>,
+  req: Request<any, any, any, IndexQuery>,
   res: Response,
 ): Promise<any> => {
   const { query } = req
@@ -38,6 +39,22 @@ const index = async (
   })
 }
 
+const show = async (req: Request<ShowParams>, res: Response): Promise<any> => {
+  const { id } = req.params
+  const pokemon = await req.ctx.repo.pokemon.findOne(id, {
+    relations: ['stat', 'pokemonToTypes', 'pokemonToTypes.type'],
+  })
+
+  if (!pokemon) {
+    throw new HttpException('Data not found', 404)
+  }
+
+  return res.json({
+    data: transformShow(pokemon),
+  })
+}
+
 export default {
   index,
+  show,
 }

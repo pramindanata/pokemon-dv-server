@@ -13,3 +13,27 @@ export const transformIndex = (pokemons: Pokemon[]): PokemonResource[] => {
     })),
   }))
 }
+
+export const transformShow = (pokemon: Pokemon): any => {
+  return {
+    id: pokemon.id,
+    index: pokemon.index,
+    name: pokemon.name,
+    image: pokemon.image,
+    description: pokemon.description,
+    type: pokemon.pokemonToTypes.map((junction) => ({
+      name: junction.type.name,
+      category: junction.category,
+    })),
+    stat: {
+      power: pokemon.stat.power,
+      hp: pokemon.stat.hp,
+      attack: pokemon.stat.attack,
+      defend: pokemon.stat.defend,
+      spAttack: pokemon.stat.spAttack,
+      spDefend: pokemon.stat.spDefend,
+      speed: pokemon.stat.speed,
+      pokemon: pokemon.stat.pokemon,
+    },
+  }
+}

@@ -11,10 +11,14 @@ export interface PokemonResource {
   type: PokemonTypeResource[]
 }
 
-export interface IndexParams {
+export interface IndexQuery {
   search?: string
   page: number
   orderBy: 'name' | 'index'
   sortBy: 'ASC' | 'DESC'
   limit: number
+}
+
+export interface ShowParams extends Record<string, any> {
+  id: number
 }
