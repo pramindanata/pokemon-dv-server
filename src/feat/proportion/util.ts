@@ -12,3 +12,10 @@ export const transformGeneration = (generations: any[]): any[] => {
     count: parseInt(g.count),
   }))
 }
+
+export const transformLegendary = (legendary: any[]): any[] => {
+  return legendary.map((l) => ({
+    legendary: l.pokemon_legendary,
+    count: parseInt(l.count),
+  }))
+}

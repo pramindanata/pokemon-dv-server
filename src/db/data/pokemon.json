@@ -1410,7 +1410,7 @@
   "description": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
   "image": "144.png",
   "generation": 1,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 158,
   "name": "Zapdos",
@@ -1419,7 +1419,7 @@
   "description": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
   "image": "145.png",
   "generation": 1,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 159,
   "name": "Moltres",
@@ -1428,7 +1428,7 @@
   "description": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
   "image": "146.png",
   "generation": 1,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 160,
   "name": "Dratini",
@@ -1464,7 +1464,7 @@
   "description": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
   "image": "150.png",
   "generation": 1,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 164,
   "name": "Mega Mewtwo X",
@@ -1473,7 +1473,7 @@
   "description": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
   "image": "150_1.png",
   "generation": 1,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 165,
   "name": "Mega Mewtwo Y",
@@ -1482,7 +1482,7 @@
   "description": "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon's body, they failed to endow Mewtwo with a compassionate heart.",
   "image": "150_2.png",
   "generation": 1,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 166,
   "name": "Mew",
@@ -2364,7 +2364,7 @@
   "description": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
   "image": "243.png",
   "generation": 2,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 264,
   "name": "Entei",
@@ -2373,7 +2373,7 @@
   "description": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
   "image": "244.png",
   "generation": 2,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 265,
   "name": "Suicune",
@@ -2382,7 +2382,7 @@
   "description": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
   "image": "245.png",
   "generation": 2,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 266,
   "name": "Larvitar",
@@ -2427,7 +2427,7 @@
   "description": "Lugia's wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
   "image": "249.png",
   "generation": 2,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 271,
   "name": "Ho-oh",
@@ -2436,7 +2436,7 @@
   "description": "Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.",
   "image": "250.png",
   "generation": 2,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 272,
   "name": "Celebi",
@@ -3732,7 +3732,7 @@
   "description": "Regirock was sealed away by people long ago. If this Pokémon's body is damaged in battle, it is said to seek out suitable rocks on its own to repair itself.",
   "image": "377.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 416,
   "name": "Regice",
@@ -3741,7 +3741,7 @@
   "description": "Regice's body was made during an ice age. The deep-frozen body can't be melted, even by fire. This Pokémon controls frigid air of -328 degrees Fahrenheit.",
   "image": "378.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 417,
   "name": "Registeel",
@@ -3750,7 +3750,7 @@
   "description": "Registeel has a body that is harder than any kind of metal. Its body is apparently hollow. No one has any idea what this Pokémon eats.",
   "image": "379.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 418,
   "name": "Latias",
@@ -3759,7 +3759,7 @@
   "description": "Latias is highly sensitive to the emotions of people. If it senses any hostility, this Pokémon ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
   "image": "380.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 419,
   "name": "Mega Latias",
@@ -3768,7 +3768,7 @@
   "description": "Latias is highly sensitive to the emotions of people. If it senses any hostility, this Pokémon ruffles the feathers all over its body and cries shrilly to intimidate the foe.",
   "image": "380_1.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 420,
   "name": "Latios",
@@ -3777,7 +3777,7 @@
   "description": "Latios has the ability to make others see an image of what it has seen or imagines in its head. This Pokémon is intelligent and understands human speech.",
   "image": "381.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 421,
   "name": "Mega Latios",
@@ -3786,7 +3786,7 @@
   "description": "Latios has the ability to make others see an image of what it has seen or imagines in its head. This Pokémon is intelligent and understands human speech.",
   "image": "381_1.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 422,
   "name": "Kyogre",
@@ -3795,7 +3795,7 @@
   "description": "Through Primal Reversion and with nature's full power, it will take back its true form. It can summon storms that cause the sea levels to rise.",
   "image": "382.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 423,
   "name": "Primal Kyogre",
@@ -3804,7 +3804,7 @@
   "description": "Through Primal Reversion and with nature's full power, it will take back its true form. It can summon storms that cause the sea levels to rise.",
   "image": "382_1.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 424,
   "name": "Groudon",
@@ -3813,7 +3813,7 @@
   "description": "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
   "image": "383.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 425,
   "name": "Primal Groudon",
@@ -3822,7 +3822,7 @@
   "description": "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
   "image": "383_1.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 426,
   "name": "Rayquaza",
@@ -3831,7 +3831,7 @@
   "description": "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.",
   "image": "384.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 427,
   "name": "Mega Rayquaza",
@@ -3840,7 +3840,7 @@
   "description": "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.",
   "image": "384_1.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 428,
   "name": "Jirachi",
@@ -3849,7 +3849,7 @@
   "description": "A legend states that Jirachi will make true any wish that is written on notes attached to its head when it awakens. If this Pokémon senses danger, it will fight without awakening.",
   "image": "385.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 429,
   "name": "Deoxys - Normal Form",
@@ -3858,7 +3858,7 @@
   "description": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain.",
   "image": "386.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 430,
   "name": "Deoxys - Attack Form",
@@ -3867,7 +3867,7 @@
   "description": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain.",
   "image": "386_1.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 431,
   "name": "Deoxys - Defense Form",
@@ -3876,7 +3876,7 @@
   "description": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain.",
   "image": "386_2.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 432,
   "name": "Deoxys - Speed Form",
@@ -3885,7 +3885,7 @@
   "description": "The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon's chest appears to be its brain.",
   "image": "386_3.png",
   "generation": 3,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 433,
   "name": "Turtwig",
@@ -4839,7 +4839,7 @@
   "description": "Known as “The Being of Knowledge.” It is said that it can wipe out the memory of those who see its eyes.",
   "image": "480.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 539,
   "name": "Mesprit",
@@ -4848,7 +4848,7 @@
   "description": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy.",
   "image": "481.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 540,
   "name": "Azelf",
@@ -4857,7 +4857,7 @@
   "description": "Known as “The Being of Willpower.” It sleeps at the bottom of a lake to keep the world in balance.",
   "image": "482.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 541,
   "name": "Dialga",
@@ -4866,7 +4866,7 @@
   "description": "A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.",
   "image": "483.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 542,
   "name": "Palkia",
@@ -4875,7 +4875,7 @@
   "description": "It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.",
   "image": "484.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 543,
   "name": "Heatran",
@@ -4884,7 +4884,7 @@
   "description": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
   "image": "485.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 544,
   "name": "Regigigas",
@@ -4893,7 +4893,7 @@
   "description": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
   "image": "486.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 545,
   "name": "Giratina - Altered Form",
@@ -4902,7 +4902,7 @@
   "description": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
   "image": "487.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 546,
   "name": "Giratina - Origin Form",
@@ -4911,7 +4911,7 @@
   "description": "This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
   "image": "487_1.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 547,
   "name": "Cresselia",
@@ -4947,7 +4947,7 @@
   "description": "It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",
   "image": "491.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 551,
   "name": "Shaymin - Land Form",
@@ -4956,7 +4956,7 @@
   "description": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
   "image": "492.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 552,
   "name": "Shaymin - Sky Form",
@@ -4965,7 +4965,7 @@
   "description": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
   "image": "492_1.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 553,
   "name": "Arceus",
@@ -4974,7 +4974,7 @@
   "description": "According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",
   "image": "493.png",
   "generation": 4,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 554,
   "name": "Victini",
@@ -4983,7 +4983,7 @@
   "description": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
   "image": "494.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 555,
   "name": "Snivy",
@@ -6297,7 +6297,7 @@
   "description": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
   "image": "638.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 701,
   "name": "Terrakion",
@@ -6306,7 +6306,7 @@
   "description": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
   "image": "639.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 702,
   "name": "Virizion",
@@ -6315,7 +6315,7 @@
   "description": "Its head sprouts horns as sharp as blades. Using whirlwind-like movements, it confounds and swiftly cuts opponents.",
   "image": "640.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 703,
   "name": "Tornadus - Incarnate Form",
@@ -6324,7 +6324,7 @@
   "description": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
   "image": "641.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 704,
   "name": "Tornadus - Therian Form",
@@ -6333,7 +6333,7 @@
   "description": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
   "image": "641_1.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 705,
   "name": "Thundurus - Incarnate Form",
@@ -6342,7 +6342,7 @@
   "description": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
   "image": "642.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 706,
   "name": "Thundurus - Therian Form",
@@ -6351,7 +6351,7 @@
   "description": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
   "image": "642_1.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 707,
   "name": "Reshiram",
@@ -6360,7 +6360,7 @@
   "description": "This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.",
   "image": "643.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 708,
   "name": "Zekrom",
@@ -6369,7 +6369,7 @@
   "description": "This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.",
   "image": "644.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 709,
   "name": "Landorus - Incarnate Form",
@@ -6378,7 +6378,7 @@
   "description": "Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”",
   "image": "645.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 710,
   "name": "Landorus - Therian Form",
@@ -6387,7 +6387,7 @@
   "description": "Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”",
   "image": "645_1.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 711,
   "name": "Kyurem",
@@ -6396,7 +6396,7 @@
   "description": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
   "image": "646.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 712,
   "name": "Kyurem  - Black Kyurem",
@@ -6405,7 +6405,7 @@
   "description": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
   "image": "646_1.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 713,
   "name": "Kyurem - White Kyurem",
@@ -6414,7 +6414,7 @@
   "description": "This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.",
   "image": "646_2.png",
   "generation": 5,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 714,
   "name": "Keldeo - Ordinary Form",
@@ -7134,7 +7134,7 @@
   "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
   "image": "716.png",
   "generation": 6,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 794,
   "name": "Yveltal",
@@ -7143,7 +7143,7 @@
   "description": "When this legendary Pokémon's wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
   "image": "717.png",
   "generation": 6,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 795,
   "name": "Zygarde - 50% Form",
@@ -7152,7 +7152,7 @@
   "description": "This is Zygarde's form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.",
   "image": "718.png",
   "generation": 6,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 796,
   "name": "Diancie",
@@ -7161,7 +7161,7 @@
   "description": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
   "image": "719.png",
   "generation": 6,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 797,
   "name": "Mega Diancie",
@@ -7170,7 +7170,7 @@
   "description": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
   "image": "719_1.png",
   "generation": 6,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 798,
   "name": "Hoopa - Confined",
@@ -7179,7 +7179,7 @@
   "description": "In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.",
   "image": "720.png",
   "generation": 6,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 799,
   "name": "Hoopa - Unbound",
@@ -7188,7 +7188,7 @@
   "description": "In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.",
   "image": "720_1.png",
   "generation": 6,
-  "legendary": false
+  "legendary": true
 }, {
   "id": 800,
   "name": "Volcanion",
@@ -7197,5 +7197,5 @@
   "description": "It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.",
   "image": "721.png",
   "generation": 6,
-  "legendary": false
+  "legendary": true
 }]

@@ -2,7 +2,7 @@ import type { Request, Response } from 'express'
 import { getRepository } from 'typeorm'
 import { Type } from '~/model/Type'
 import { Pokemon } from '~/model/Pokemon'
-import { transformType, transformGeneration } from './util'
+import { transformType, transformGeneration, transformLegendary } from './util'
 
 const typeA = async (req: Request, res: Response): Promise<any> => {
   const types = await getRepository(Type)
@@ -59,4 +59,18 @@ const generation = async (req: Request, res: Response): Promise<any> => {
   })
 }
 
-export default { typeA, typeB, generation }
+const legendary = async (req: Request, res: Response): Promise<any> => {
+  const proportions = await getRepository(Pokemon)
+    .createQueryBuilder('pokemon')
+    .select('pokemon.legendary')
+    .addSelect('COUNT(pokemon.legendary)', 'count')
+    .groupBy('pokemon.legendary')
+    .getRawMany()
+
+  return res.json({
+    data: transformLegendary(proportions),
+    total: proportions.reduce((p, c) => p + parseInt(c.count), 0),
+  })
+}
+
+export default { typeA, typeB, generation, legendary }
