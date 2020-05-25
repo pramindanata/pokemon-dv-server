@@ -1,9 +1,8 @@
 import type { Request, Response } from 'express'
 import { getRepository } from 'typeorm'
 import { Type } from '~/model/Type'
-// import { HttpException } from '~/lib/http'
-// import type {} from './interface'
-import { transformType } from './util'
+import { Pokemon } from '~/model/Pokemon'
+import { transformType, transformGeneration } from './util'
 
 const typeA = async (req: Request, res: Response): Promise<any> => {
   const types = await getRepository(Type)
@@ -27,7 +26,7 @@ const typeB = async (req: Request, res: Response): Promise<any> => {
   const types = await getRepository(Type)
     .createQueryBuilder('type')
     .addSelect('COUNT(pokemonToTypes.id) as COUNT')
-    .leftJoin('type.pokemonToTypes', 'pokemonToTypes')
+    .innerJoin('type.pokemonToTypes', 'pokemonToTypes')
     .where('pokemonToTypes.category = :category', {
       category: 'SECONDARY',
     })
@@ -46,4 +45,18 @@ const typeB = async (req: Request, res: Response): Promise<any> => {
   })
 }
 
-export default { typeA, typeB }
+const generation = async (req: Request, res: Response): Promise<any> => {
+  const generations = await getRepository(Pokemon)
+    .createQueryBuilder('pokemon')
+    .select('pokemon.generation')
+    .addSelect('COUNT(pokemon.id)', 'count')
+    .groupBy('pokemon.generation')
+    .getRawMany()
+
+  return res.json({
+    data: transformGeneration(generations),
+    total: generations.reduce((p, c) => p + parseInt(c.count), 0),
+  })
+}
+
+export default { typeA, typeB, generation }
