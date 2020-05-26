@@ -1,5 +1,5 @@
 import type { Pokemon } from '~/model/Pokemon'
-import type { StatType } from './interface'
+import type { StatType } from '~/shared/interface'
 
 export const transformTop10 = (pokemons: Pokemon[], type: StatType): any => {
   return pokemons.map((pokemon) => ({

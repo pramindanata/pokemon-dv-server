@@ -2,12 +2,13 @@ import type { Request, Response } from 'express'
 // import { HttpException } from '~/lib/http'
 import { getRepository } from 'typeorm'
 import { Pokemon } from '~/model/Pokemon'
+import { GenerationQuery } from '~/shared/interface'
 
 import { transformTop10, transformTop3 } from './util'
-import type { Query, IndexParams } from './interface'
+import type { IndexParams } from './interface'
 
 const index = async (
-  req: Request<IndexParams, any, any, Query>,
+  req: Request<IndexParams, any, any, GenerationQuery>,
   res: Response,
 ): Promise<any> => {
   const { generation } = req.query
