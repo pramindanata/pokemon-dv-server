@@ -7,10 +7,16 @@ import paramValidation from './middleware/paramValidation'
 const router = Router()
 
 router.get(
+  '/generation-average/:id',
+  paramValidation(),
+  wrapAsync(controller.generationAvg),
+)
+
+router.get(
   '/:id',
   paramValidation(),
   generationValidation(),
-  wrapAsync(controller.index),
+  wrapAsync(controller.statType),
 )
 
 export default router

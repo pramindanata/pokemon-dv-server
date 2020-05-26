@@ -10,6 +10,7 @@ export default () => (
   const schema = Joi.object({
     id: Joi.string()
       .required()
+      .lowercase()
       .valid(
         'power',
         'attack',
