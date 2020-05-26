@@ -5,7 +5,7 @@ import generationValidation from '~/shared/middleware/generationValidation'
 
 const router = Router()
 
-router.get('/a/frequency', generationValidation(), wrapAsync(controller.typeA))
-router.get('/b/frequency', generationValidation(), wrapAsync(controller.typeB))
+router.get('/type-a', generationValidation(), wrapAsync(controller.typeA))
+router.get('/type-b', generationValidation(), wrapAsync(controller.typeB))
 
 export default router
