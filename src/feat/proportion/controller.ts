@@ -22,7 +22,6 @@ const typeA = async (req: Request, res: Response): Promise<any> => {
 }
 
 const typeB = async (req: Request, res: Response): Promise<any> => {
-  const totalPokemon = await req.ctx.repo.pokemon.count()
   const types = await getRepository(Type)
     .createQueryBuilder('type')
     .addSelect('COUNT(pokemonToTypes.id) as COUNT')
@@ -33,15 +32,9 @@ const typeB = async (req: Request, res: Response): Promise<any> => {
     .groupBy('type.id')
     .getRawMany()
 
-  types.push({
-    type_id: null,
-    type_name: 'None',
-    count: totalPokemon - types.reduce((p, c) => p + parseInt(c.count), 0),
-  })
-
   return res.json({
     data: transformType(types),
-    total: totalPokemon,
+    total: types.reduce((p, c) => p + parseInt(c.count), 0),
   })
 }
 
