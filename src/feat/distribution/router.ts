@@ -10,7 +10,14 @@ router.get(
   '/stat-per-type/:id',
   statKeyValidation('id', 'params'),
   generationValidation(),
-  wrapAsync(controller.index),
+  wrapAsync(controller.statPerType),
+)
+
+router.get(
+  '/legendary-v-non/:id',
+  statKeyValidation('id', 'params'),
+  generationValidation(),
+  wrapAsync(controller.legendaryVNon),
 )
 
 export default router

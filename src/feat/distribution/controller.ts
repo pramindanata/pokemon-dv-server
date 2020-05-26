@@ -3,10 +3,11 @@ import { getRepository } from 'typeorm'
 // import { HttpException } from '~/lib/http'
 import type { GenerationQuery } from '~/shared/interface'
 import { Type } from '~/model/Type'
+import { Stat } from '~/model/Stat'
 
 import type { IndexParams } from './interface'
 
-const index = async (
+const statPerType = async (
   req: Request<IndexParams, any, any, GenerationQuery>,
   res: Response,
 ): Promise<any> => {
@@ -47,4 +48,49 @@ const index = async (
   })
 }
 
-export default { index }
+const legendaryVNon = async (
+  req: Request<IndexParams, any, any, GenerationQuery>,
+  res: Response,
+): Promise<any> => {
+  const { id } = req.params
+  const { generation } = req.query
+
+  let legendaryQuery = getRepository(Stat)
+    .createQueryBuilder('stat')
+    .select(`stat.${id}`, 'stat')
+    .innerJoin('stat.pokemon', 'pokemon')
+    .where('pokemon.legendary = :legendary', {
+      legendary: true,
+    })
+  let nonQuery = getRepository(Stat)
+    .createQueryBuilder('stat')
+    .select(`stat.${id}`, 'stat')
+    .innerJoin('stat.pokemon', 'pokemon')
+    .where('pokemon.legendary = :legendary', {
+      legendary: false,
+    })
+
+  if (generation !== 'all') {
+    legendaryQuery = legendaryQuery.andWhere(
+      'pokemon.generation = :generation',
+      {
+        generation,
+      },
+    )
+    nonQuery = nonQuery.andWhere('pokemon.generation = :generation', {
+      generation,
+    })
+  }
+
+  const legendary = await legendaryQuery.getRawMany()
+  const non = await nonQuery.getRawMany()
+
+  return res.json({
+    data: {
+      legendary: legendary.map((s) => s.stat),
+      nonLegendary: non.map((s) => s.stat),
+    },
+  })
+}
+
+export default { statPerType, legendaryVNon }
