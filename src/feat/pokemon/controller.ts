@@ -12,7 +12,7 @@ const index = async (
 ): Promise<any> => {
   const { query } = req
   const options: FindManyOptions<Pokemon> = {
-    select: ['id', 'name', 'image', 'index'],
+    select: ['id', 'name', 'image', 'index', 'stringIndex'],
     take: query.limit,
     relations: ['pokemonToTypes', 'pokemonToTypes.type'],
     where: {},
@@ -41,9 +41,14 @@ const index = async (
 
 const show = async (req: Request<ShowParams>, res: Response): Promise<any> => {
   const { id } = req.params
-  const pokemon = await req.ctx.repo.pokemon.findOne(id, {
-    relations: ['stat', 'pokemonToTypes', 'pokemonToTypes.type'],
-  })
+  const pokemon = await req.ctx.repo.pokemon.findOne(
+    {
+      stringIndex: id,
+    },
+    {
+      relations: ['stat', 'pokemonToTypes', 'pokemonToTypes.type'],
+    },
+  )
 
   if (!pokemon) {
     throw new HttpException('Data not found', 404)

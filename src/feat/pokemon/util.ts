@@ -5,6 +5,7 @@ export const transformIndex = (pokemons: Pokemon[]): PokemonResource[] => {
   return pokemons.map((pokemon) => ({
     id: pokemon.id,
     index: pokemon.index,
+    stringIndex: pokemon.stringIndex,
     name: pokemon.name,
     image: pokemon.image,
     type: pokemon.pokemonToTypes.map((junction) => ({

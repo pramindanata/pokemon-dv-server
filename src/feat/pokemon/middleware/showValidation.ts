@@ -8,7 +8,7 @@ export default () => (
   next: NextFunction,
 ): void => {
   const schema = Joi.object({
-    id: Joi.number().required(),
+    id: Joi.string().required(),
   })
 
   const result = validate(schema, req.params, 'params')

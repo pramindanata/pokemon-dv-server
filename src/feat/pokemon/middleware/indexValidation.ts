@@ -9,9 +9,9 @@ export default () => (
 ): void => {
   const schema = Joi.object({
     page: Joi.number().min(1).default(1),
-    search: Joi.string(),
+    search: Joi.string().allow('').optional(),
     limit: Joi.number().max(24).default(24),
-    orderBy: Joi.string().lowercase().valid('name', 'index').default('name'),
+    orderBy: Joi.string().lowercase().valid('name', 'index').default('index'),
     sortBy: Joi.string().uppercase().valid('ASC', 'DESC').default('ASC'),
   })
 
