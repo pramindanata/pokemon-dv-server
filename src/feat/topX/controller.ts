@@ -19,6 +19,7 @@ const index = async (
     .select(['pokemon.id', 'pokemon.name', 'pokemon.index', `stat.${id}`])
     .innerJoin('pokemon.stat', 'stat')
     .orderBy(`stat.${id}`, 'DESC')
+    .addOrderBy(`pokemon.name`, 'ASC')
     .take(10)
 
   let top3Query = getRepository(Pokemon)
@@ -27,6 +28,7 @@ const index = async (
       'pokemon.id',
       'pokemon.name',
       'pokemon.index',
+      'pokemon.stringIndex',
       'pokemon.image',
       `stat.${id}`,
     ])
@@ -34,6 +36,7 @@ const index = async (
     .leftJoinAndSelect('pokemon.pokemonToTypes', 'pokemonToTypes')
     .innerJoinAndSelect('pokemonToTypes.type', 'type')
     .orderBy(`stat.${id}`, 'DESC')
+    .addOrderBy(`pokemon.name`, 'ASC')
     .take(3)
 
   if (generation !== 'all') {

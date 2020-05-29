@@ -8,7 +8,7 @@ export interface PokemonResource {
   index: number
   name: string
   image: string
-  type: PokemonTypeResource[]
+  types: PokemonTypeResource[]
 }
 
 export interface IndexQuery {

@@ -15,9 +15,10 @@ export const transformTop3 = (pokemons: Pokemon[], type: StatType): any => {
     id: pokemon.id,
     name: pokemon.name,
     index: pokemon.index,
+    stringIndex: pokemon.stringIndex,
     image: pokemon.image,
     stat: pokemon.stat[type],
-    type: pokemon.pokemonToTypes.map((j) => ({
+    types: pokemon.pokemonToTypes.map((j) => ({
       name: j.type.name,
       category: j.category,
     })),

@@ -9,7 +9,7 @@ export default () => (
 ): void => {
   const schema = Joi.object({
     generation: Joi.string()
-      .valid('1', '2', '3', '4', '5', '6', '7', 'all')
+      .valid('1', '2', '3', '4', '5', '6', 'all')
       .default('all'),
   })
 

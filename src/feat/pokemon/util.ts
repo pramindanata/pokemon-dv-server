@@ -8,7 +8,7 @@ export const transformIndex = (pokemons: Pokemon[]): PokemonResource[] => {
     stringIndex: pokemon.stringIndex,
     name: pokemon.name,
     image: pokemon.image,
-    type: pokemon.pokemonToTypes.map((junction) => ({
+    types: pokemon.pokemonToTypes.map((junction) => ({
       name: junction.type.name,
       category: junction.category,
     })),
@@ -22,7 +22,7 @@ export const transformShow = (pokemon: Pokemon): any => {
     name: pokemon.name,
     image: pokemon.image,
     description: pokemon.description,
-    type: pokemon.pokemonToTypes.map((junction) => ({
+    types: pokemon.pokemonToTypes.map((junction) => ({
       name: junction.type.name,
       category: junction.category,
     })),
