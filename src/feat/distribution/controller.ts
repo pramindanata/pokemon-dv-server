@@ -20,7 +20,7 @@ const statPerType = async (
     .innerJoin('type.pokemonToTypes', 'pokemonToTypes')
     .innerJoin('pokemonToTypes.pokemon', 'pokemon')
     .innerJoin('pokemon.stat', 'stat')
-    .orderBy('stat')
+    .orderBy('type.id')
 
   if (generation !== 'all') {
     typeQuery = typeQuery.where('pokemon.generation = :generation', {

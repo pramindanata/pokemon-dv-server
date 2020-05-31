@@ -21,6 +21,7 @@ export const transformShow = (pokemon: Pokemon): any => {
     index: pokemon.index,
     name: pokemon.name,
     image: pokemon.image,
+    generation: pokemon.generation,
     description: pokemon.description,
     types: pokemon.pokemonToTypes.map((junction) => ({
       name: junction.type.name,

@@ -10,13 +10,13 @@ const getTypes = async (
   let typeQuery = getRepository(PokemonToType)
     .createQueryBuilder('pokemonType')
     .select(['type.name'])
-    .addSelect('COUNT(type.id)', 'count')
-    .innerJoin('pokemonType.type', 'type')
-    .innerJoin('pokemonType.pokemon', 'pokemon')
+    .addSelect('COUNT(pokemonType.id)', 'count')
+    .leftJoin('pokemonType.type', 'type')
+    .leftJoin('pokemonType.pokemon', 'pokemon')
     .where('pokemonType.category = :category', {
       category,
     })
-    .groupBy('type.id')
+    .groupBy('type.name')
     .orderBy('count', 'DESC')
 
   if (generation !== 'all') {
