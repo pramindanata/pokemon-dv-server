@@ -8,7 +8,7 @@ This project contains API/Server side for **PokeDV App**. For the client side pl
 2. Node.js: ^12.16.0
 3. PostgreSQL: 11
 
-## Developments
+## Development
 
 1. Run `npm install` to install all depedencies.
 2. Create new `.env` file in this project root directory based from `.env.example`.
@@ -25,3 +25,9 @@ This project contains API/Server side for **PokeDV App**. For the client side pl
 
 6. Run `npm run dev` to start development server.
 7. Start developing :fire:.
+
+For the client side, please download all Pokemon images from [here](https://bit.ly/2AqtL97). And then put them in `dist/public`.
+
+## Other
+
+For [Insomnia](https://insomnia.rest/) user, you can import `insomnia/workspace.json` to your workspace for debugging this API.
