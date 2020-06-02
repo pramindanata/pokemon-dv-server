@@ -1,6 +1,12 @@
-# [WIP] Pokemon - Data Visualization (Server)
+# PokeDV - Server
 
-This project contains API/Server side for **Pokemon - DV App**.
+This project contains API/Server side for **PokeDV App**. For the client side please look [here](https://github.com/pramindanata/pokemon-dv-client).
+
+## Prerequisite
+
+1. Typescript: ^3.9.3
+2. Node.js: ^12.16.0
+3. PostgreSQL: 11
 
 ## Developments
 
