@@ -2,6 +2,12 @@
 
 This project contains API/Server side for **PokeDV App**. For the client side please look [here](https://github.com/pramindanata/pokemon-dv-client).
 
+## Data Source
+
+1. Base: [kaggle.com](https://www.kaggle.com/abcsds/pokemon)
+2. Pokemon images: [portal-pokemon.com](https://id.portal-pokemon.com/play/pokede)
+3. Pokemon descriptions: [pokemon.com](https://www.pokemon.com/us/pokedex)
+
 ## Prerequisite
 
 1. Typescript: ^3.9.3
