@@ -5,7 +5,7 @@ This project contains API/Server side for **PokeDV App**. For the client side pl
 ## Data Source
 
 1. Base: [kaggle.com](https://www.kaggle.com/abcsds/pokemon)
-2. Pokemon images: [portal-pokemon.com](https://id.portal-pokemon.com/play/pokede)
+2. Pokemon images: [portal-pokemon.com](https://id.portal-pokemon.com/play/pokedex)
 3. Pokemon descriptions: [pokemon.com](https://www.pokemon.com/us/pokedex)
 
 ## Prerequisite
