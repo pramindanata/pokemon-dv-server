@@ -6,17 +6,13 @@ import controller from './controller'
 
 const router = Router()
 
-router.get(
-  '/generation-average/:id',
-  statKeyValidation('id', 'params'),
-  wrapAsync(controller.generationAvg),
-)
+router.get('/type/a', generationValidation(), wrapAsync(controller.typeA))
+router.get('/type/b', generationValidation(), wrapAsync(controller.typeB))
 
 router.get(
-  '/:id',
+  '/stat-avg-per-generation/:id',
   statKeyValidation('id', 'params'),
-  generationValidation(),
-  wrapAsync(controller.statType),
+  wrapAsync(controller.statAvgPerGeneration),
 )
 
 export default router

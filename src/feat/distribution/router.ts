@@ -7,6 +7,13 @@ import statKeyValidation from '~/shared/middleware/statKeyValidation'
 const router = Router()
 
 router.get(
+  '/stat/:id',
+  statKeyValidation('id', 'params'),
+  generationValidation(),
+  wrapAsync(controller.stat),
+)
+
+router.get(
   '/stat-per-type/:id',
   statKeyValidation('id', 'params'),
   generationValidation(),

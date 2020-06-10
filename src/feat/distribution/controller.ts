@@ -7,6 +7,31 @@ import { Stat } from '~/model/Stat'
 
 import type { IndexParams } from './interface'
 
+const stat = async (
+  req: Request<IndexParams, any, any, GenerationQuery>,
+  res: Response,
+): Promise<any> => {
+  const { generation } = req.query
+  const { id } = req.params
+  let statQuery = getRepository(Stat)
+    .createQueryBuilder('stat')
+    .select(`stat.${id}`, 'stat')
+    .innerJoin('stat.pokemon', 'pokemon')
+
+  if (generation !== 'all') {
+    statQuery = statQuery.where('pokemon.generation = :generation', {
+      generation,
+    })
+  }
+
+  const result = await statQuery.getRawMany()
+
+  return res.json({
+    data: result.map((s) => s.stat),
+    total: result.length,
+  })
+}
+
 const statPerType = async (
   req: Request<IndexParams, any, any, GenerationQuery>,
   res: Response,
@@ -93,4 +118,4 @@ const legendaryVNon = async (
   })
 }
 
-export default { statPerType, legendaryVNon }
+export default { statPerType, legendaryVNon, stat }
