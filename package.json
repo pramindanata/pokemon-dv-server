@@ -12,6 +12,7 @@
     "dev-ts": "tsc -w",
     "dev": "concurrently -k -p \"[{name}]\" -n \"TypeScript,Node\" -c \"red.bold,cyan.bold\" \"npm run dev-ts\" \"npm run dev-node\"",
     "lint": "eslint \"./src/**/*.{js,ts,tsx}\"",
+    "tsc": "tsc",
     "start": "node dist/index.js",
     "seed:config": "ts-node ./node_modules/typeorm-seeding/dist/cli.js config",
     "seed:run": "ts-node ./node_modules/typeorm-seeding/dist/cli.js seed",
