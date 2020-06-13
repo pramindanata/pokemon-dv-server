@@ -32,8 +32,8 @@ This project contains API/Server side for **PokeDV App**. For the client side pl
 6. Run `npm run dev` to start development server.
 7. Start developing :fire:.
 
-For the client side, please download all Pokemon images from [here](https://bit.ly/2AqtL97). And then put them in `dist/public` folder (create new one if doesn't exist).
+For the client side, please download all Pokemon images from [here](https://bit.ly/2AqtL97). And then put them in `/dist/public` folder (`/dist` folder of this project. Create new one if it doesn't exist).
 
 ## Other
 
-For [Insomnia](https://insomnia.rest/) user, you can import `insomnia/workspace.json` to your workspace for debugging this API.
+For [Insomnia](https://insomnia.rest/) user, you can import `/insomnia/workspace.json` to your workspace for debugging this API.
