@@ -1,7 +1,15 @@
+/* eslint-disable */
 require('dotenv').config()
-require('module-alias/register')
+const moduleAlias = require('module-alias')
+const path = require('path')
 
 const env = process.env
+const outputDir = env.NODE_ENV === 'development' ? '/src' : '/dist'
+const appPath = path.join(__dirname, outputDir)
+
+moduleAlias.addAlias('~', appPath)
+
+console.log(appPath)
 
 module.exports = {
   type: 'postgres',
@@ -12,6 +20,6 @@ module.exports = {
   database: env.DB_NAME || 'pokemon-dv',
   logging: ['error'],
   synchronize: true,
-  entities: ['dist/model/*.js'],
-  seeds: ['src/db/seed/*.ts'],
+  entities: [env.ORM_ENTITIES], 
+  seeds: [env.ORM_SEEDS],
 }

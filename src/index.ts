@@ -1,4 +1,4 @@
-import 'module-alias/register'
+import moduleAlias from 'module-alias'
 import 'reflect-metadata'
 import dotenv from 'dotenv'
 import express from 'express'
@@ -7,6 +7,7 @@ import morgan from 'morgan'
 import { createConnection } from 'typeorm'
 
 dotenv.config()
+moduleAlias.addAlias('~', __dirname)
 
 import config from '~/config'
 import setupContext from '~/shared/middleware/setupContext'

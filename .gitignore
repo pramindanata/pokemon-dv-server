@@ -103,3 +103,7 @@ typings/
 .tern-port
 
 .vscode
+
+# Custom
+dist
+src/public

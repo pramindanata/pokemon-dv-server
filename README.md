@@ -22,7 +22,7 @@ This project contains API/Server side for **PokeDV App**. For the client side pl
 4. Create new DB and `npm run schema:sync` to synchronize DB tables.
 5. Run these commands in same order to seed tables data:
 
-    ```properties
+    ```bash
     npm run seed:run -- -s CreatePokemons
     npm run seed:run -- -s CreateTypes
     npm run seed:run -- -s CreateStats
@@ -33,6 +33,32 @@ This project contains API/Server side for **PokeDV App**. For the client side pl
 7. Start developing :fire:.
 
 For the client side, please download all Pokemon images from [here](https://bit.ly/2AqtL97). And then put them in `/dist/public` folder (`/dist` folder of this project. Create new one if it doesn't exist).
+
+## Production
+
+For production release make sure to put all Pokemon images in `/dist/public` directory. Then change these values in `.env`:
+
+```bash
+# Before
+ORM_ENTITIES=src/model/*.ts
+ORM_SEEDS=src/db/seed/*.ts
+
+# After
+ORM_ENTITIES=dist/model/*.js
+ORM_SEEDS=dist/db/seed/*.js
+```
+
+Then, run these commands:
+
+```bash
+# Transpile Typescript to Javascript
+npm run build
+
+# Run app
+npm run start
+```
+
+Revert `ORM_ENTITIES` and `ORM_SEEDS` values in `.env` if you want to run this app in development mode.
 
 ## Other
 
