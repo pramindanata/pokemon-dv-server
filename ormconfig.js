@@ -9,8 +9,6 @@ const appPath = path.join(__dirname, outputDir)
 
 moduleAlias.addAlias('~', appPath)
 
-console.log(appPath)
-
 module.exports = {
   type: 'postgres',
   host: env.DB_HOST || 'localhost',

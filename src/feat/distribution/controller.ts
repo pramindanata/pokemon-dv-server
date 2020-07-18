@@ -1,6 +1,5 @@
 import type { Request, Response } from 'express'
 import { getRepository } from 'typeorm'
-// import { HttpException } from '~/lib/http'
 import type { GenerationQuery } from '~/shared/interface'
 import { Type } from '~/model/Type'
 import { Stat } from '~/model/Stat'
