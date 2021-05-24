@@ -5,6 +5,7 @@ const path = require('path')
 
 const env = process.env
 const outputDir = env.NODE_ENV === 'development' ? '/src' : '/dist'
+const fileExt = env.NODE_ENV === 'development' ? 'ts' : 'js'
 const appPath = path.join(__dirname, outputDir)
 
 moduleAlias.addAlias('~', appPath)
@@ -18,6 +19,6 @@ module.exports = {
   database: env.DB_NAME || 'pokemon-dv',
   logging: ['error'],
   synchronize: true,
-  entities: [env.ORM_ENTITIES], 
-  seeds: [env.ORM_SEEDS],
+  entities: [path.join(appPath, `model/*.${fileExt}`)], 
+  seeds: [path.join(appPath, `db/seed/*.${fileExt}`)],
 }

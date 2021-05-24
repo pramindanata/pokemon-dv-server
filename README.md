@@ -36,19 +36,7 @@ For the client side, please download all Pokemon images from [here](https://bit.
 
 ## Production
 
-For production release make sure to put all Pokemon images in `/dist/public` directory. Then change these values in `.env`:
-
-```bash
-# Before
-ORM_ENTITIES=src/model/*.ts
-ORM_SEEDS=src/db/seed/*.ts
-
-# After
-ORM_ENTITIES=dist/model/*.js
-ORM_SEEDS=dist/db/seed/*.js
-```
-
-Then, run these commands:
+For production release make sure to put all Pokemon images in `/dist/public` directory. Then, run these commands:
 
 ```bash
 # Transpile Typescript to Javascript
@@ -57,8 +45,6 @@ npm run build
 # Run app
 npm run start
 ```
-
-Revert `ORM_ENTITIES` and `ORM_SEEDS` values in `.env` if you want to run this app in development mode.
 
 ## Other
 

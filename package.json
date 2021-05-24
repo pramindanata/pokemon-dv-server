@@ -7,10 +7,9 @@
     "build": "cross-env NODE_ENV=production tsc",
     "dev": "cross-env NODE_ENV=development nodemon",
     "lint": "eslint \"./src/**/*.{js,ts,tsx}\"",
+    "typeorm": "cross-env NODE_ENV=development node --require ts-node/register ./node_modules/typeorm/cli.js",
     "seed:config": "ts-node ./node_modules/typeorm-seeding/dist/cli.js config",
     "seed:run": "ts-node ./node_modules/typeorm-seeding/dist/cli.js seed",
-    "schema:drop": "ts-node ./node_modules/typeorm/cli.js schema:drop",
-    "schema:sync": "ts-node ./node_modules/typeorm/cli.js schema:sync",
     "start": "node dist/index.js",
     "tsc": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
